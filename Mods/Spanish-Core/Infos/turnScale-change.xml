@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zScaleSingular/>
+		<zScalePlural/>
+		<zScaleShort/>
+		<azTurnNames/>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_YEAR</zType>
+		<zScaleSingular>Año</zScaleSingular>
+		<zScalePlural>Años</zScalePlural>
+		<zScaleShort>a</zScaleShort>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_HALF</zType>
+		<zScaleSingular>Medio año</zScaleSingular>
+		<zScalePlural>Medios años</zScalePlural>
+		<zScaleShort>ma</zScaleShort>
+		<azTurnNames>
+			<zValue>1r semestre</zValue>
+			<zValue>2n semestre</zValue>
+		</azTurnNames>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_SEASON</zType>
+		<zScaleSingular>Estación</zScaleSingular>
+		<zScalePlural>Estaciones</zScalePlural>
+		<zScaleShort>e</zScaleShort>
+		<azTurnNames>
+			<zValue>Primavera</zValue>
+			<zValue>Verano</zValue>
+			<zValue>Otoño</zValue>
+			<zValue>Invierno</zValue>
+		</azTurnNames>
+	</Entry>
+	<Entry>
+		<zType>TURNSCALE_MONTH</zType>
+		<zScaleSingular>Mes</zScaleSingular>
+		<zScalePlural>Meses</zScalePlural>
+		<zScaleShort>m</zScaleShort>
+		<azTurnNames>
+			<zValue>Enero</zValue>
+			<zValue>Febrero</zValue>
+			<zValue>Marzo</zValue>
+			<zValue>Abril</zValue>
+			<zValue>Amyo</zValue>
+			<zValue>Junio</zValue>
+			<zValue>Julio</zValue>
+			<zValue>Agosto</zValue>
+			<zValue>Septiembre</zValue>
+			<zValue>Octubre</zValue>
+			<zValue>Novimebre</zValue>
+			<zValue>Diciembre</zValue>
+		</azTurnNames>
+	</Entry>
+</Root>

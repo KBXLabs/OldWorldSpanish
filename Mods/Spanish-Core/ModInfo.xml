@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>Spanish Core</displayName>
+  <description>Mod de juego: Traducción al español (Parte 1/2) - Core</description>
+  <modpicture>OW_Esp.png</modpicture>
+  <author>locu &amp; teksait</author>
+  <modioID>0</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion>1.0.0</modversion>
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <modDependencies />
+  <modIncompatibilities />
+</ModInfo>

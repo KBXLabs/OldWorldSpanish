@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_REBELS</zType>
+		<Translation>Rebeldes~Rebelde~un Rebelde~Rebeldes~Rebelde</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_ANARCHY</zType>
+		<Translation>Anarquía</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_RAIDERS</zType>
+		<Translation>Asaltantes~Asaltante~un Asaltante~Asaltantes~Asaltante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_BARBARIANS</zType>
+		<Translation>Bárbaros~Bárbaro~un Bárbaro~Bárbaros~Bárbaro</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS</zType>
+		<Translation>Galos~Galo~un Galo~Galos~Galo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS</zType>
+		<Translation>Vándalos~Vándalo~un Vándalo~Vándalos~Vándalo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES</zType>
+		<Translation>Daneses~Danés~un Danés~Daneses~Danés</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS</zType>
+		<Translation>Tracianos~Traciano~un Tracio~Tracio~Tracios</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS</zType>
+		<Translation>Escitas~Escita~un Escita~Escitas~Escita</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS</zType>
+		<Translation>Numidios~Numidio~un Numidio~Numidios~Numidio</Translation>
+	</Entry>
+</Root>

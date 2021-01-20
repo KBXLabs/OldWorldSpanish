@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Generic-->
+	<Entry>
+		<zType/>
+		<English/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_1</zType>
+		<Translation>Las unidades en los bosques reciben una bonificación defensiva contra unidades link(UNITTRAIT_RANGED).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_2</zType>
+		<Translation>Las unidades en terreno plano son vulnerables a los ataques de unidades link(UNITTRAIT_MOUNTED,1).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_3</zType>
+		<Translation>La link(UNITTRAIT_INFANTRY) link(UNITTRAIT_MELEE) se puede fortificar para ganar una bonificación defensiva mientras estén en esa casilla.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_4</zType>
+		<Translation>Las unidades terrestres pueden moverse rápidamente a través de las zonas de agua controladas por tus ciudades y barcos anclados.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_5</zType>
+		<Translation>Presiona [V] para ver tu link(CONCEPT_TRADE_NETWORK) y conexiones.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_6</zType>
+		<Translation>No puedes acumular más de int(MAX_TRAINING) de link(YIELD_TRAINING) icon(YIELD_TRAINING). Lo que sobrepase se convertirá en link(YIELD_ORDERS) icon(YIELD_ORDERS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_7</zType>
+		<Translation>¡Sólo puedes usar 3 de las 4 Familias de tu nación. Experimenta para encontrar la mejor combinación!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_8</zType>
+		<Translation>El link(YIELD_CIVICS) icon(YIELD_CIVICS) y el link(YIELD_TRAINING) icon(YIELD_TRAINING) que no utilices en tus ciudades se acumulará en tu nación.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_9</zType>
+		<Translation>Si no quieres usar todos tus link(YIELD_ORDERS) icon(YIELD_ORDERS), puedes acabar tu turno pulsando [6].</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_10</zType>
+		<Translation>Los trabajadores pueden talar madera de los árboles cercanos. ¡Los árboles volverán a crecer en unos años si no los talas completamente!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_11</zType>
+		<Translation>Si no tienes suficientes recursos para una unidad o una mejora, pulsa [ALT+Click] para comprar automáticamente lo que te falte (asumiendo que tienes suficiente link(YIELD_MONEY) icon(YIELD_MONEY)).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_12</zType>
+		<Translation>La construcción de mejoras en una colina tardarán un año más en finalizar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_13</zType>
+		<Translation>Los link(TRIBE_BARBARIANS) son tribus xenofóbicas hostiles a todas las naciones. No hay consecuencias diplomáticas por atacarlas o entrar en su territorio. No tienen aliados, ni tan solo otros link(TRIBE_BARBARIANS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_14</zType>
+		<Translation>Si tu territorio escasea de link(YIELD_WOOD) icon(YIELD_WOOD), puedes considerar entrenar unidades militares que requieren de link(YIELD_STONE) icon(YIELD_STONE) o link(YIELD_IRON) icon(YIELD_IRON). Centra tu suministro de link(YIELD_WOOD) icon(YIELD_WOOD) en construir mejoras rurales.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_15</zType>
+		<Translation>Las link(IMPROVEMENT_QUARRY,2) construidas adyacentes a Montañas producen más link(YIELD_STONE) icon(YIELD_STONE) por cada casilla de Montaña adyacente. Las link(IMPROVEMENT_QUARRY,2) rinden menos si se construyen en terreno árido.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_16</zType>
+		<Translation>Los link(IMPROVEMENT_LUMBERMILL,2) construidos adyacentes a link(IMPROVEMENT_CAMP,2) producen más link(YIELD_WOOD) icon(YIELD_WOOD). Los cazadores controlan a los depredadores, crean senderos por los bosques, etc..</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_17</zType>
+		<Translation>Estar en guerra contra demasiados oponentes puede abrumar a tus tropas y no disponer de suficientes link(YIELD_ORDERS) icon(YIELD_ORDERS) para luchar en todos los frentes. Usar la diplomacia para evitar esta situación.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_18</zType>
+		<Translation>**Researching your way to the link(IMPROVEMENT_LUMBERMILL) Improvement takes time. You may need to send link(UNIT_WORKER,2) to forests and thickets outside your borders, to Chop link(YIELD_WOOD) icon(YIELD_WOOD) from link(VEGETATION_TREES) and link(VEGETATION_SCRUB).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_19</zType>
+		<Translation>La demanda link(YIELD_FOOD) icon(YIELD_FOOD) aumentará a medida que tus ciudades crezcan y maduren.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_20</zType>
+		<Translation>Mejorar unidades a otras más avanzandas es costoso, pero puede aumentar rápidamente el poder militar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_21</zType>
+		<Translation>Las carreteras ayudan a las unidades a moverse más lejos por cada link(YIELD_ORDERS) (YIELD_ORDERS, 1), especialmente cuando la link(CONCEPT_ROAD) pasa por un terreno difícil.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_22</zType>
+		<Translation>Las unidades link(UNITTRAIT_RANGED) obtienen una casilla adicional rango si se colocan en Colinas, a menos que el objetivo también esté en Colinas.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_23</zType>
+		<Translation>Estacionar una unidad militar en un emplazamiento conquistado marca el territorio como tuyo. No proteger el sitio implica que pueda ser reclamado por un nuevo link(CONCEPT_SETTLEMENT) Bárbaro o reclamado por tud rivales.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_24</zType>
+		<Translation>Aumentar la cantidad de link(YIELD_ORDERS) icon(YIELD_ORDERS) debería ser una prioridad.Cuantos más territorios y unidades controles, más link(YIELD_ORDERS) icon(YIELD_ORDERS) necesitarás para funcionar y defenderte.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_25</zType>
+		<Translation>El poder de cada Ley tiende a aumentar cuanto más crece tu Nación. Al descubrir una tecnología, no te olvides de promulgar las nuevas leyes.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_26</zType>
+		<Translation>Una ciudad puede construir barcos si controla casillas de agua del tipo link(HEIGHT_COAST).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_27</zType>
+		<Translation>Los link(UNIT_SCOUT,2) pueden vigilar una gran cantidad de casillas. Pueden proporcionar información valiosa sobre la fuerza y los movimientos del enemigo.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_28</zType>
+		<Translation>Ciudades con un buen link(YIELD_GROWTH) icon(YIELD_GROWTH) disponen de link(UNIT_SETTLER, 2), link(UNIT_WORKER, 2) y link(UNIT_SCOUT, 2) más rápidamente.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_29</zType>
+		<Translation>La velocidad a la que una ciudad produce unidades militares está vinculada directamente con la producción de link(YIELD_TRAINING) icon(YIELD_TRAINING).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_30</zType>
+		<Translation>La velocidad a la que se completan los proyectos en una ciudad depende del nivel de link(YIELD_CIVICS) icon(YIELD_CIVICS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_31</zType>
+		<Translation>Los especialistas link(CONCEPT_URBAN,3) se pueden mejorar varias veces, lo que aumenta considerablemente el rendimiento de un edificio link(CONCEPT_URBAN).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_32</zType>
+		<Translation>La mayoría de los edificios link(CONCEPT_URBAN,3) requieren link(YIELD_STONE) (YIELD_STONE) para su construcción. Espere una gran demanda link(YIELD_STONE) icon(YIELD_STONE) a medida que el juego avanza y desbloqueas nuevas tecnologías.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_33</zType>
+		<Translation>Las unidades link(UNITTRAIT_RANGED) son eficientes en batalla atacanado a un enemigo sin tener que gastar link(YIELD_ORDERS) icon(YIELD_ORDERS) en movimiento.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_34</zType>
+		<Translation>Conseguir link(YIELD_WOOD) icon(YIELD_WOOD) de link(VEGETATION_SCRUB,2) no cuesta link(YIELD_ORDERS) icon(YIELD_ORDERS). Si mueves un link(UNIT_WORKER) a través de una casilla de link(VEGETATION_SCRUB,2) de camino a otro destino, puede recolectar link(YIELD_WOOD) icon(YIELD_WOOD) gratuitamente.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_35</zType>
+		<Translation>Las unidades link(UNIT_MILITA) y link(UNIT_LEVY) no pueden entranar, pero se producen con link(YIELD_GROWTH) icon(YIELD_GROWTH) en lugar link(YIELD_TRAINING) icon(YIELD_TRAINING). Las ciudades con un nivel alte de link(YIELD_GROWTH) icon(YIELD_GROWTH) pueden producirlas rápidamente.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_36</zType>
+		<Translation>Las unidades link(UNITTRAIT_MOUNTED) tienen la habilidad de link(CONCEPT_ROUT). Cuando eliminan a una unidad enemiga, ocupan la casilla de esa unidad. Aunque no pueden volver a moverse, pueden atacar de nuevo si hay otro objetivo adyacente a ellos.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_37</zType>
+		<Translation>Considere gastar link(YIELD_TRAINING) icon(YIELD_TRAINING) para Entrenar a algunas de tus unidades.Las unidades que se han combatido y han ganado experiencia cuestan menos link(YIELD_TRAINING) icon(YIELD_TRAINING) para entrenarlas.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_38</zType>
+		<Translation>Las tribus no son naciones. Cuando están link(DIPLOMACY_WAR) contigo, sólo sus unidades cercanas a tus unidades o a tu territorio representan una amenaza, a no ser que los cabrees lo suficiente como para que lancen una Invasión.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_39</zType>
+		<Translation>Las ciudades costeras controlan menos tierra que las ciudades del interior, pero tienden a ser menos vulnerables a los ataques.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_40</zType>
+		<Translation>El aire frío hace que las nubes dejen caer la lluví a medida que ganan altitud para moverse sobre las montañas. La mayoría de las montañas tienen una zona exuberante donde cae la lluvia y una zona sombría en el lado opuesto, dependiendo de los patrones del viento en esa región.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_41</zType>
+		<Translation>Considera tomar las decisiones en los Eventos al principio del turno. Algunas opciones de los eventos requieren que gastes link(YIELD_ORDERS) icon(YIELD_ORDERS).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_42</zType>
+		<Translation>Una link(CONCEPT_ALLIANCE_TRIBE) te permite establecer ciudades pacíficamente cerca de los asentamientos aliados.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_43</zType>
+		<Translation>No puedes acumular más de int(MAX_CIVICS) de link(YIELD_CIVICS) icon(YIELD_CIVICS). Lo que sobrepase se convertirá en link(YIELD_SCIENCE) icon(YIELD_SCIENCE).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_44</zType>
+		<Translation>Los link(UNIT_WORKER,2) dañados requieren de un turno adicional para construir mejoras.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_45</zType>
+		<Translation>Usa [CTRL+Click] para Forzar la marcha automáticamente y que tus unidades puedan moverse aunque estén agotadas.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_46</zType>
+		<Translation>Mantén [Z] to ocultar los link(VEGETATION_TREES) y los link(VEGETATION_SCRUB,2).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_47</zType>
+		<Translation>Mantén [X] para resaltar las Zonas of Control.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_48</zType>
+		<Translation>Mantén [C] para resaltar las Zonas de Peligro, casillas desde donde las unidades enemigas te pueden atacar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_49</zType>
+		<Translation>Mantén [V] para resaltar las Ciudades conectadas con la capital.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_50</zType>
+		<Translation>Mantén [B] para resaltar unidades que todavía se pueden usar.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_51</zType>
+		<Translation>Mantén [N] para mostrar lo que produce cada una de tus link(CONCEPT_IMPROVEMENT,1).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_52</zType>
+		<Translation>If your Leader is not able to complete an Ambition before death, it becomes a Legacy. Legacies count towards an Ambition Victory but are worth less link(CONCEPT_LEGITIMACY) icon(YIELD_LEGITIMACY).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_53</zType>
+		<Translation>El nivel de los bárbaros, elegido en la Configuración avanzada, afecta la cantidad de emplazamientos libres cerca de la capital.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_54</zType>
+		<Translation>Los edificios link(CONCEPT_URBAN,3) deben estar adyacentes a la ciudad o a otros dos edificios link(CONCEPT_URBAN,3).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_55</zType>
+		<Translation>Los edificios link(CONCEPT_URBAN,3) en la costa sólo necesitan estar adyacentes a un edificio link(CONCEPT_URBAN) o a la ciudad.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_56</zType>
+		<Translation>Con un link(UNIT_WORKER) seleccionado, Mantén [CTRL] y mueve el cursor sobre una casilla para ver qué mejoras se pueden construir allí.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_57</zType>
+		<Translation>Los link(UNIT_SCOUT,2) son invisibles en los link(VEGETATION_TREES).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_58</zType>
+		<Translation>Mantén [SHIFT] o [Click Central] para mantener las ayudas visibles.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_59</zType>
+		<Translation>Los Especialistas se instruyen más rápidamente en mejoras de nivel superior.(Los poetas tardan menos en link(IMPROVEMENT_THEATER_2) que en link(IMPROVEMENT_THEATER_1) e incluso menos en link(IMPROVEMENT_THEATER_3).)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_60</zType>
+		<Translation>Mantén [SHIFT] cuando muevas una unidad para asignar un destino de varios turnos. La unidad se moverá (usando todo el agotamiento) hacia esa casilla en cada turno.</Translation>
+	</Entry>
+</Root>

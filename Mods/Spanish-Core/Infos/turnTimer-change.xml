@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_NONE</zType>
+		<zName>Ninguno</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_24_HOUR</zType>
+		<zName>24 Horas</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_12_HOUR</zType>
+		<zName>12 Horas</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_8_HOUR</zType>
+		<zName>8 Horas</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_4_HOUR</zType>
+		<zName>4 Horas</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_2_HOUR</zType>
+		<zName>2 Horas</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_1_HOUR</zType>
+		<zName>1 Hora</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_SLOW</zType>
+		<zName>Lento</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_MEDIUM</zType>
+		<zName>Medio</zName>
+	</Entry>
+	<Entry>
+		<zType>TURNTIMER_FAST</zType>
+		<zName>Rápido</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_FOUND</zType>
+		<zName>**Fundar</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_WORKER</zType>
+		<zName>Trabajador</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_DISCIPLE</zType>
+		<zName>Discípulo</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_SCOUT</zType>
+		<zName>Explorador</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_CARAVAN</zType>
+		<zName>Caravana</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_MILITARY_WATER</zType>
+		<zName>Agua</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_MILITARY_SIEGE</zType>
+		<zName>de asedio</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_MILITARY_RANGED</zType>
+		<zName>a distancia</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_MILITARY_MOUNTED</zType>
+		<zName>Montada</zName>
+	</Entry>
+	<Entry>
+		<zType>UNITCYCLE_MILITARY_INFANTRY</zType>
+		<zName>de infantería</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>ATTACK_FORWARD</zType>
+		<zName>frontal</zName>
+	</Entry>
+	<Entry>
+		<zType>ATTACK_ARC</zType>
+		<zName>en arco</zName>
+	</Entry>
+	<Entry>
+		<zType>ATTACK_CIRCLE</zType>
+		<zName>en círculo</zName>
+	</Entry>
+	<Entry>
+		<zType>ATTACK_SPLASH</zType>
+		<zName>en área</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>STRENGTH_MUCH_WEAKER</zType>
+		<zName>Muy débil</zName>
+	</Entry>
+	<Entry>
+		<zType>STRENGTH_WEAKER</zType>
+		<zName>Débil</zName>
+	</Entry>
+	<Entry>
+		<zType>STRENGTH_SIMILAR</zType>
+		<zName>Similar</zName>
+	</Entry>
+	<Entry>
+		<zType>STRENGTH_STRONGER</zType>
+		<zName>Fuerte</zName>
+	</Entry>
+	<Entry>
+		<zType>STRENGTH_MUCH_STRONGER</zType>
+		<zName>Muy fuerte</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zDesc/>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_TUTORIAL</zType>
+		<zName>Deshabilitar tutorial</zName>
+		<zDesc>No se mostrarán eventos de tutorial.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_REPLAY</zType>
+		<zName>Deshabilitar las repeticiones</zName>
+		<zDesc>Las repeticiones requieren una cantidad elevada de memória disponible del sistema.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
+		<zName>Juego narrativo</zName>
+		<zDesc>Sin ayudas emergentes en la elecciones de los eventos.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
+		<zName>Todos los candidatos</zName>
+		<zDesc>Muestra los candidatos aptos para Consejero, Gobernador y General aunque tengan otra ocupación.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
+		<zName>Movimiento Instantáneo de las unidades</zName>
+		<zDesc>El movimiento de las unidades no tienen animación.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_UNIT_CYCLING</zType>
+		<zName>Sin ciclo de unidades</zName>
+		<zDesc>Desactiva el ciclo de unidades.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FATIGUE_CYCLING</zType>
+		<zName>Ciclo de unidades agotadas</zName>
+		<zDesc>Se incluyen las unidades agotadas en el ciclo de unidades seleccionado.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MOVE_TO_FATIGUE</zType>
+		<zName>Mover hasta el límite de agotamiento</zName>
+		<zDesc>Movimiento más allá del límite de agotamiento no genera acciones en cola para turnos posteriores.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_ORDERS_COST</zType>
+		<zName>Mostrar coste de Mandatos al mover</zName>
+		<zDesc>Muestra el coste de Mandatos en lugar de los Mandatos restantes por ese movimiento.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_MINIMAP</zType>
+		<zName>Ocultar Minimapa</zName>
+		<zDesc>Oculta el minimapa de la interfaz.</zDesc>
+	</Entry>
+    <Entry>
+        <zType>PLAYEROPTION_HIDE_COUNCIL</zType>
+        <zName>Ocultar el Consejo</zName>
+        <zDesc>Oculta el panel del Consejo en la interfaz.</zDesc>
+    </Entry>
+    <Entry>
+        <zType>PLAYEROPTION_MINI_TECH_CARDS</zType>
+        <zName>Cartas de tecnología reducidas.</zName>
+        <zDesc>Sempre s'utilizarán cartas de tecnología reducidas en lugar del selector emergente.</zDesc>
+    </Entry>
+	<Entry>
+		<zType>PLAYEROPTION_DEBUG_HELP</zType>
+		<zName>Ayuda de Debug</zName>
+		<zDesc>Habilita ayudas para debugar.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_SYSTEM_TIME</zType>
+		<zName>Mostrar hora del sistema</zName>
+		<zDesc>Muestra la hora del sistema en la interfaz.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_LANDMARK_NAMES</zType>
+		<zName>Ocultar nombres del terreno</zName>
+		<zDesc>Oculta los nombres de los elementos del mapa (p.e. montañas, volcanes, etc.)</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FLIP_UNIT_COLORS</zType>
+		<zName>Alternar los colores de las unidades</zName>
+		<zDesc>Alterna los colores primarios y secundarios de las unidades.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS</zType>
+		<zName>Muestra los colores de las familias rivales.</zName>
+		<zDesc>Muestra el color de las unidades de las familias rivales.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
+		<zName>Oculta el rango de movimiento</zName>
+		<zDesc>Oculta el rango de movimiento de cada movimiento de la unidad seleccionada.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_GHOST_UNITS</zType>
+		<zName>Mostrar unidades fantasma</zName>
+		<zDesc>Muestra las unidades recientemente visibles.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MUTE_AUDIO</zType>
+		<zName>Mutear</zName>
+		<zDesc>No reproducir ningún sonido.</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_AZERTY_KEYBOARD</zType>
+		<zName>Teclado AZERTY</zName>
+		<zDesc>Mapear las teclas rápidas en un teclado AZERTY.</zDesc>
+	</Entry>
+</Root>

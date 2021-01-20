@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>MAPCLASS_RANDOM</zType>
+		<zName>Aleatorio</zName>
+		<zHelp>Script de mapa aleatorio</zHelp>
+	</Entry>
+</Root>

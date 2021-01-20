@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_LOW</zType>
+		<zName>Baja</zName>
+		<zHelp>Menos eventos de lo normal.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_MODERATE</zType>
+		<zName>Moderada</zName>
+		<zHelp>El modo por defecto.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>EVENTLEVEL_HIGH</zType>
+		<zName>Alta</zName>
+		<zHelp>Más eventos de lo normal.</zHelp>
+	</Entry>
+</Root>

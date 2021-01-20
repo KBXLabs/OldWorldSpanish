@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_ABLE</zType>
+		<zName>El Capaz</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_JUST</zType>
+		<zName>El Justo</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_GOOD</zType>
+		<zName>El Bueno</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_STRONG</zType>
+		<zName>El Fuerte</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_NOBLE</zType>
+		<zName>El Noble</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_GLORIOUS</zType>
+		<zName>El Glorioso</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_MAGNIFICENT</zType>
+		<zName>El Magnífico</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_GREAT</zType>
+		<zName>El Grande</zName>
+	</Entry>
+	<Entry>
+		<zType>DIFFICULTYMODE_CUSTOM</zType>
+		<zName>Personalizado</zName>
+	</Entry>
+</Root>

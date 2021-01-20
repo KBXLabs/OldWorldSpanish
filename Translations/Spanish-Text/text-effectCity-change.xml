@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<!--Source-->
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
+		<Translation>una Residencia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
+		<Translation>Capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
+		<Translation>Religión estado</Translation>
+	</Entry>
+	<!--Name-->
+	<Entry>
+		<zType>TEXT_EFFECTCITY_BASE</zType>
+		<Translation>Base</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
+		<Translation>Capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
+		<Translation>linklCONCEPT_FAMILY_SEAT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
+		<Translation>Conectada a la capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
+		<Translation>Con daños</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
+		<Translation>Ciudad Santa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
+		<Translation>Ciudadano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_POPULATION</zType>
+		<Translation>Población</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY</zType>
+		<Translation>Artículo de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
+		<Translation>Miel del terrateniente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE	</zType>
+		<Translation>Vino del campeón</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
+		<Translation>Perlas del estadista</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
+		<Translation>Gemas del patrocinador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
+		<Translation>Incienso del clérigo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
+		<Translation>Lavanda del sabio</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
+		<Translation>Olivas del comerciante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
+		<Translation>Tinte del artesano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
+		<Translation>Sal del jinete</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_FUR</zType>
+		<Translation>Piel del cazador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
+		<Translation>Decreto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY</zType>
+		<Translation>Petición~Peticiones</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILYCLASS_HUNTERS_SEAT_HUNT</zType>
+		<Translation>Caza</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
+		<Translation>Ambiciones completadas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
+		<Translation>Legados completados</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
+		<Translation>link(CULTURE_DEVELOPING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
+		<Translation>link(CULTURE_STRONG)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
+		<Translation>link(CULTURE_LEGENDARY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
+		<Translation>El Capaz</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
+		<Translation>El Capaz</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
+		<Translation>El Justo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
+		<Translation>El Justo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
+		<Translation>El benevolente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
+		<Translation>El benevolente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
+		<Translation>El Fuerte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
+		<Translation>El Fuerte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
+		<Translation>El Noble</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
+		<Translation>El Noble</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
+		<Translation>El Glorioso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
+		<Translation>El Glorioso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
+		<Translation>El Magnífico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
+		<Translation>El Magnífico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
+		<Translation>El Grande</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
+		<Translation>El Grande</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
+		<Translation>Santuario del fuego</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
+		<Translation>Santuario del inframundo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
+		<Translation>Santuario del cazador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
+		<Translation>Monasterio de la link(THEOLOGY_MYTHOLOGY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
+		<Translation>Monasterio de la link(THEOLOGY_VENERATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_LEGALISM</zType>
+		<Translation>Monasterio del link(THEOLOGY_LEGALISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_REVELATION</zType>
+		<Translation>Templo de la link(THEOLOGY_REVELATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
+		<Translation>Templo del link(THEOLOGY_GNOSTICISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
+		<Translation>Catedral de la link(THEOLOGY_REDEMPTION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_DUALISM</zType>
+		<Translation>Catedral del link(THEOLOGY_DUALISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
+		<Translation>Catedral de la link(THEOLOGY_ENLIGHTENMENT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
+		<Translation>link(LAW_SLAVERY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
+		<Translation>link(LAW_FREEDOM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
+		<Translation>link(LAW_TYRANNY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
+		<Translation>link(LAW_CENTRALIZATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
+		<Translation>link(LAW_SERFDOM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
+		<Translation>link(LAW_MONOTHEISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
+		<Translation>link(LAW_POLYTHEISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_LEGAL_CODE</zType>
+		<Translation>link(LAW_LEGAL_CODE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
+		<Translation>link(LAW_TOLERANCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
+		<Translation>link(LAW_ORTHODOXY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
+		<Translation>link(LAW_PROFESSIONAL_ARMY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
+		<Translation>link(LAW_VOLUNTEERS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
+		<Translation>link(LAW_PHILOSOPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ENGINEERING</zType>
+		<Translation>link(LAW_ENGINEERING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
+		<Translation>link(LAW_ICONOGRAPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
+		<Translation>link(LAW_CALLIGRAPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_PILGRIMAGE</zType>
+		<Translation>link(LAW_PILGRIMAGE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
+		<Translation>link(LAW_HOLY_WAR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
+		<Translation>link(LAW_GUILDS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
+		<Translation>link(LAW_ELITES)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
+		<Translation>link(LAW_ISOLATIONISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
+		<Translation>link(LAW_COIN_DEBASEMENT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
+		<Translation>link(LAW_MONETARY_REFORM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
+		<Translation>Asiria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_BABYLONIA</zType>
+		<Translation>Babilonia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_CARTHAGE</zType>
+		<Translation>Cartago</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_EGYPT</zType>
+		<Translation>Egipto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
+		<Translation>Grecia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ROME</zType>
+		<Translation>Roma</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_PERSIA</zType>
+		<Translation>Persia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
+		<Translation>Familia furiosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
+		<Translation>Familia enfadada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
+		<Translation>Familia disgustada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
+		<Translation>Familia satisfecha</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
+		<Translation>FFamilia amistosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
+		<Translation>Religión furiosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
+		<Translation>Religión enfadada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
+		<Translation>Religión disgustada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
+		<Translation>Religión satisfecha</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
+		<Translation>Religión amistosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
+		<Translation>Tesoreria~un Tesoreria~Tesorerias</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
+		<Translation>Foro~un Foro~Foros</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
+		<Translation>Gestión documental~una Gestión documental~Gestiones documentales</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_MARBLE</zType>
+		<Translation>Mármol</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_ORE</zType>
+		<Translation>Mineral</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SALT</zType>
+		<Translation>Sal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
+		<Translation>Sal de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
+		<Translation>Gemas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
+		<Translation>Gemas de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GOLD</zType>
+		<Translation>Oro</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SILVER</zType>
+		<Translation>Plata</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
+		<Translation>Caballos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_CATTLE</zType>
+		<Translation>Ganado</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SHEEP</zType>
+		<Translation>Ovejas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_PIG</zType>
+		<Translation>Cerdos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GOAT</zType>
+		<Translation>Cabras</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_WHEAT</zType>
+		<Translation>Trigo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_BARLEY</zType>
+		<Translation>Cebada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SORGHUM</zType>
+		<Translation>Sorgo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
+		<Translation>Camellos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
+		<Translation>Elefantes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GAME</zType>
+		<Translation>Gamos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
+		<Translation>Pieles</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_FUR_LUXURY</zType>
+		<Translation>Pieles de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_CITRUS</zType>
+		<Translation>Cítricos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_HONEY</zType>
+		<Translation>Miel</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_HONEY_LUXURY</zType>
+		<Translation>Miel de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
+		<Translation>Incienso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE_LUXURY</zType>
+		<Translation>Incienso de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER</zType>
+		<Translation>Lavanda</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_LAVENDER_LUXURY</zType>
+		<Translation>Lavanda de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
+		<Translation>Vino</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_WINE_LUXURY</zType>
+		<Translation>Vino de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
+		<Translation>Olivas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE_LUXURY</zType>
+		<Translation>Olivas de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
+		<Translation>Tinte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_DYE_LUXURY</zType>
+		<Translation>Tinte de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
+		<Translation>Perlas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
+		<Translation>Perlas de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_FISH</zType>
+		<Translation>Pescado</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_CRAB</zType>
+		<Translation>Cangrejos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
+		<Translation>Pergaminos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GRAIN</zType>
+		<Translation>Grano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
+		<Translation>Especialista rural</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
+		<Translation>Especialista aprendiz~Aprendices</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
+		<Translation>Especialista maestro~Maestros</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
+		<Translation>Especialista gurú~Gurús</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
+		<Translation>Orador Líder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<Translation>Juez Líder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
+		<Translation>Contructor Líder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
+		<Translation>Comandante Líder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_ALL</zType>
+		<Translation>Fanático Líder</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
+		<Translation>Líder Fanático</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_AFFABLE_ALL</zType>
+		<Translation>Líder Afable</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT_ALL</zType>
+		<Translation>Líder Elocuente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_WARLIKE_ALL</zType>
+		<Translation>Líder Belicoso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRING_ALL</zType>
+		<Translation>Líder Inspirador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT_ALL</zType>
+		<Translation>Líder Inteligente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS_ALL</zType>
+		<Translation>Líder Próspero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FRUGAL_ALL</zType>
+		<Translation>Líder Frugal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS_ALL</zType>
+		<Translation>Líder Justo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CRUEL_ALL</zType>
+		<Translation>Líder Cruel</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INTOLERANT_ALL</zType>
+		<Translation>Líder Intolerante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL_ALL</zType>
+		<Translation>Líder Perezoso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH_ALL</zType>
+		<Translation>Líder Corrupto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FOOLISH_ALL</zType>
+		<Translation>Líder Tosco</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT_ALL</zType>
+		<Translation>Líder Necio</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT_ALL</zType>
+		<Translation>Líder Extravagante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED_ALL</zType>
+		<Translation>Líder Perverso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
+		<Translation>Líder Robusto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
+		<Translation>Líder Vigilante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
+		<Translation>Líder Estricto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
+		<Translation>Líder Instructor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
+		<Translation>Líder Entusiasta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
+		<Translation>Líder Ecuestre</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CARPENTER</zType>
+		<Translation>Líder Carpintero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
+		<Translation>Líder Pescador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
+		<Translation>Líder Jardinero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
+		<Translation>Líder Forestal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
+		<Translation>Líder Ahondador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
+		<Translation>Líder Fundidor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
+		<Translation>Líder Pastor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ASCETIC</zType>
+		<Translation>Ascético</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PRIEST</zType>
+		<Translation>Sacerdote</Translation>
+	</Entry>
+</Root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- NOTE: Proper Name ~ Adjective ~ Indefinite & Adjective ~ Plural -->
+	<!-- DMP NOTE: Nombre ~ Adjetivo masculino ~ Adjetivo femenino ~ Adjetivo masculino pl ~ Adjetivo femenino pl -->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA</zType>
+		<Translation>Asiria~Asirio~Asiria~Asirios~Asirias</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA</zType>
+		<Translation>Babilonia~Babilónico~Babilónica~Babilónicos~Babilónicas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE</zType>
+		<Translation>Cartago~Cartaginés~Cartaginesa~Cartagineses~Cartaginesas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT</zType>
+		<Translation>Egipto~Egipcio~Egipcia~Egipcios~Egipcias</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE</zType>
+		<Translation>Grecia~Griego~Griega~Griegos~Griegas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA</zType>
+		<Translation>Persia~Persa~Persa~Persas~Persas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME</zType>
+		<Translation>Roma~Romano~Romana~Romanos~Romanas</Translation>
+	</Entry>
+</Root>

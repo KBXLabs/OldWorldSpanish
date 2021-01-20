@@ -1,0 +1,46 @@
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MELEE</zType>
+		<Translation>cuerpo a cuerpo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_RANGED</zType>
+		<Translation>a distancia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
+		<Translation>de infantería</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_POLEARM</zType>
+		<Translation>astada~astadas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
+		<Translation>montada~montadas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_HORSE</zType>
+		<Translation>a caballo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_CAMEL</zType>
+		<Translation>a camello</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
+		<Translation>elefante~elefantes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SIEGE</zType>
+		<Translation>de asedio</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SHIP</zType>
+		<Translation>naval~navales</Translation>
+	</Entry>
+</Root>

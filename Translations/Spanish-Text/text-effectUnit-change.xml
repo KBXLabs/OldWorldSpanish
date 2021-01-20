@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
+		<Translation>Combate I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
+		<Translation>Combate II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
+		<Translation>Combate III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
+		<Translation>Defensa I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
+		<Translation>Defensa II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
+		<Translation>Defensa III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
+		<Translation>Concentración I</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
+		<Translation>Concentración II</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
+		<Translation>Concentración III</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO</zType>
+		<Translation>Héroe</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO_LEADER</zType>
+		<Translation>Héroe (Líder)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMMANDER</zType>
+		<Translation>Comandante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
+		<Translation>Táctico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TACTICIAN_LEADER</zType>
+		<Translation>Táctico (Líder)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ZEALOT</zType>
+		<Translation>Fanático</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
+		<Translation>Rastreador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
+		<Translation>Ágil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HARDY</zType>
+		<Translation>Resistente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
+		<Translation>Vista de águila</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
+		<Translation>Tirador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS</zType>
+		<Translation>Amfibio</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
+		<Translation>Asediador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
+		<Translation>Guarnición</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TOUGH</zType>
+		<Translation>Duro</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
+		<Translation>Sanguinario</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HECKLER</zType>
+		<Translation>Objetor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEADFAST</zType>
+		<Translation>Firme</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERBALIST</zType>
+		<Translation>Herborista</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HEALER</zType>
+		<Translation>Sanador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
+		<Translation>Errante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COLD</zType>
+		<Translation>Frialdad</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
+		<Translation>Montañero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER</zType>
+		<Translation>Tirador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
+		<Translation>Valiente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
+		<Translation>Escudero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
+		<Translation>Feroz</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
+		<Translation>Anticaballería</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
+		<Translation>Ingeniero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
+		<Translation>Metralla</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ROUT</zType>
+		<Translation>Recluta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_PANIC</zType>
+		<Translation>Pánico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
+		<Translation>Sigilo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
+		<Translation>Asalto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
+		<Translation>Formación</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MANEUVERS</zType>
+		<Translation>Maniobras</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_CRIPPLED</zType>
+		<Translation>Lisiado</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_VALOR</zType>
+		<Translation>Valor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
+		<Translation>Ingenuidad</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
+		<Translation>Montura</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SNIPING</zType>
+		<Translation>Francotirador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_PATHFINDER</zType>
+		<Translation>Pionero</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
+		<Translation>Familia furiosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
+		<Translation>Familia enfadada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
+		<Translation>Familia digustada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
+		<Translation>Familia satisfecha</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
+		<Translation>Familia amistosa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
+		<Translation>Espada de los dioses</Translation>
+	</Entry>
+</Root>

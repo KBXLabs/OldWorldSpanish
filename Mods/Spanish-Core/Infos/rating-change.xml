@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>RATING_WISDOM</zType>
+		<zName>Sabiduría</zName>
+		<zHelp>Para Líderes y Gobernadores, la Sabiduría aumenta la {YIELD_SCIENCE}.
+Para Generales, la Sabiduría aumenta la probabilidad de Golpe Crítico.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_CHARISMA</zType>
+		<zName>Carisma</zName>
+		<zHelp>Para Líderes y Gobernadores, el Carisma aumenta el {YIELD_CIVICS}.
+Para Generales, el Carisma aumenta la Fuerza Defensiva de la unidades.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_COURAGE</zType>
+		<zName>Coraje</zName>
+		<zHelp>Para Líderes y Gobernadores, el Coraje aumenta el {YIELD_TRAINING}.
+Para Generales, el Coraje aumenta la Fuerza de las unidades.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>RATING_DISCIPLINE</zType>
+		<zName>Disciplina</zName>
+		<zHelp>Para Líderes y Gobernadores, la Disciplina aumenta el {YIELD_MONEY}.
+Para Generales, la Disciplina aumenta los PX de las unidades cada año.</zHelp>
+	</Entry>
+</Root>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_POPULATION_BOOM</zType>
+		<Translation>{CITY} ha experimentado nacimientos masivos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_CIVICS_BOOM</zType>
+		<Translation>{CITY} ha experimentado un impulso de civismo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
+		<Translation>{CITY} ha experimentado un impulso militar</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_SCIENCE_BOOM</zType>
+		<Translation>{CITY} ha experimentado un renacimiento científico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_MONEY_BOOM</zType>
+		<Translation>{CITY} ha experimentado un impulso económico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_ORDERS_BOOM</zType>
+		<Translation>{CITY} ha experimentado un estallido de actividad</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SOLDIER</zType>
+		<Translation>{CITY} ahora tiene un soldado en la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MINISTER</zType>
+		<Translation>{CITY} ahora tiene un ministro en la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MERCHANT</zType>
+		<Translation>{CITY} ahora tiene un mercader en la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
+		<Translation>{CITY} ahora tiene un erudito en la corte</Translation>
+	</Entry>
+	<!--Name-->
+	<Entry>
+		<zType>TEXT_EVENTCITY_POPULATION_BOOM_NAME</zType>
+		<Translation>Impulso de población</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
+		<Translation>Impulso de link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
+		<Translation>Impulso link(YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
+		<Translation>Impulso de link(YIELD_SCIENCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
+		<Translation>Impulso de link(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
+		<Translation>Impulso de link(YIELD_ORDERS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>
+		<Translation>Soldado de la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MINISTER_NAME</zType>
+		<Translation>Ministro de la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_MERCHANT_NAME</zType>
+		<Translation>Mercader de la corte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
+		<Translation>Erudito de la corte</Translation>
+	</Entry>
+</Root>

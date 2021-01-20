@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Entry>
+        <zType>TEXT_LANGUAGE_SPANISH_TRANSLATION</zType>
+        <English>Spanish</English>
+        <Translation>Español</Translation>
+    </Entry>
+    <!-- LINKS INEXISTENTS -->
+    <Entry>
+		<zType>TEXT_CONCEPT_CHANCELLOR</zType>
+		<Translation>Canciller~Cancilleres~un Canciller</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_SPECIALIST</zType>
+		<Translation>Especialista~Especialistas~un Especialista</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_IMPROVEMENT</zType>
+		<Translation>Mejora~Mejoras~una Mejora</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_AMBITION</zType>
+		<Translation>Ambición~Ambiciones~una Ambición</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_COGNOMEN</zType>
+		<Translation>Título~Títulos~un Título</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_STATE_RELIGION</zType>
+		<Translation>Religión Estatal~Religiones Estatales~una Religión Estatal</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_RURAL</zType>
+		<Translation>Rural~Rurales</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_CONCEPT_DISCIPLE</zType>
+		<Translation>Discípulo~Discípulos</Translation>
+	</Entry>
+
+<!--
+    <Entry>
+		<zType>TEXT_COUNCIL_SPYMASTER</zType>
+		<Translation>Jefe de espías~Especialistas~un Especialista</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_COUNCIL_COUNCILOR</zType>
+		<Translation>Concejal~Concejales~un Concejal</Translation>
+	</Entry>
+    <Entry>
+		<zType>TEXT_COUNCIL_AMBASSADOR</zType>
+		<Translation>Embajador~Embajadores~un Embajador</Translation>
+	</Entry>
+
+	<Entry>
+		<zType>TEXT_DIPLOMACY_WAR</zType>
+		<Translation>Guerra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIPLOMACY_PEACE</zType>
+		<Translation>Paz</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_DIPLOMACY_TRUCE</zType>
+		<Translation>Tregua</Translation>
+	</Entry>
+	-->
+</Root>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_AI_ONLY</zType>
+		<zName>Sólo IA</zName>
+		<zHelp>Los jugadores siguen las mismas reglas que la IA.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_CHARACTERS</zType>
+		<zName>Sin personajes</zName>
+		<zHelp>Los personajes y las familias se eliminan de la partida.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_TRIBES</zType>
+		<zName>Sin tribus</zName>
+		<zHelp>Las tribus se reemplazan por link(TRIBE_BARBARIANS).</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_FOG_OF_WAR</zType>
+		<zName>Sin niebla de guerra</zName>
+		<zHelp>El mapa está totalmente visible desde el principio.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_TEAM_MOVEMENT</zType>
+		<zName>Sin movimiento de equipo</zName>
+		<zHelp>Los jugadores no pueden mover las unidades de los compañeros de equipo.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_LOCKED_SAVE</zType>
+		<zName>Proteger Guardado</zName>
+		<zHelp>Los archivos de guardado se protegen para eviatar la modificación con editores externos.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_NO_UNDO</zType>
+		<zName>Sin Deshacer</zName>
+		<zHelp>No se permite deshacer acciones una vez realizadas.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_LOCK_PLAYER_OPTIONS</zType>
+		<zName>Bloquear opciones de jugador</zName>
+		<zHelp>No se pueden cambiar las opciones de la partida una vez ha comenzado.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_RANDOMIZE_FAMILIES</zType>
+		<zName>Familias aleatorias</zName>
+		<zHelp>Asigna aleatoriamente las calses de las familias (Sabios, Artesanos, Campeones, etc.).</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
+		<zName>Reto Una Sola Ciudad (OCC)</zName>
+		<zHelp>No se permite controlar más de una ciudad.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_MP_JOIN_AS_ANY_PLAYER</zType>
+		<zName>**Unirse como Cualquier jugador</zName>
+		<zHelp>Permite unirse a partidas multijugador incluso si ya se ha reservado un espacio.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>GAMEOPTION_ALLOW_OBSERVE</zType>
+		<zName>Permitir Modo Observador</zName>
+		<zHelp>Permite a los jugadores unirse a la partida como observadores.</zHelp>
+	</Entry>
+</Root>

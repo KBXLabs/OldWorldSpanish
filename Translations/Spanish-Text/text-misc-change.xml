@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_ADJECTIVE</zType>
+		<Translation>{0,1_TribeAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SITE</zType>
+		<Translation>Emplazamiento {0,1_TribeAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_SITE</zType>
+		<Translation>Emplazamiento {0,1_NationAdjective}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PLAYER_NUMBER</zType>
+		<Translation>Jugador {0_number}</Translation>
+	</Entry>
+	<!-- HotKeys -->
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_SPACE_TWO</zType>
+		<Translation>{0_key} + {1_key}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_PLUS_TWO</zType>
+		<Translation>{0_key}+{1_key}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_RIGHT_CLICK</zType>
+		<Translation>[Click derecho]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_CLICK</zType>
+		<Translation>[CTRL+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_SHIFT_CLICK</zType>
+		<Translation>[SHIFT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_ALT_CLICK</zType>
+		<Translation>[ALT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_SHIFT_CLICK</zType>
+		<Translation>[CTRL+SHIFT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL_ALT_CLICK</zType>
+		<Translation>[CTRL+ALT+Click]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_SHIFT</zType>
+		<Translation>[SHIFT]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_CTRL</zType>
+		<Translation>[CTRL]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HOTKEY_ALT</zType>
+		<Translation>[ALT]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_RESOURCE_DENSITY</zType>
+		<Translation>Densidad de recursos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_MIRROR_MAP</zType>
+		<Translation>Voltear mapa</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_SCENARIO_RESOURCES</zType>
+		<Translation>Recursos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_SIZE</zType>
+		<Translation>Tamaño del agua</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_WATER_LOCATION</zType>
+		<Translation>Localización del agua</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_PLAYER_START_LOCATION</zType>
+		<Translation>Localización de inicio del jugador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TRIBES</zType>
+		<Translation>Tribus</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TERRAIN_TYPE_VARIATION</zType>
+		<Translation>Variación del tipo de terreno</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
+		<Translation>Localización de tierras tribales</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
+		<Translation>Tipo de terreno extremo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CENTER_BIAS</zType>
+		<Translation>Inicio centrado</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MAP_OPTION_CONTINENTS</zType>
+		<Translation>Continentes</Translation>
+	</Entry>
+</Root>

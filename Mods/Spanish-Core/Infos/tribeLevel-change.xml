@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_NONE</zType>
+		<zName>Ninguno</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_PASSIVE</zType>
+		<zName>Pasivo</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_WEAK</zType>
+		<zName>Débil</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_NORMAL</zType>
+		<zName>Normal</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_STRONG</zType>
+		<zName>Fuerte</zName>
+	</Entry>
+	<Entry>
+		<zType>TRIBELEVEL_RAGING</zType>
+		<zName>Violento</zName>
+	</Entry>
+</Root>

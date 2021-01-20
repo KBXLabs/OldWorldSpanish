@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_FURIOUS</zType>
+		<zName>Furiosa</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_ANGRY</zType>
+		<zName>Enfadada</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_UPSET</zType>
+		<zName>Disgustada</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_CAUTIOUS</zType>
+		<zName>Prudente</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_PLEASED</zType>
+		<zName>Satisfecha</zName>
+	</Entry>
+	<Entry>
+		<zType>OPINIONRELIGION_FRIENDLY</zType>
+		<zName>Amistosa</zName>
+	</Entry>
+</Root>

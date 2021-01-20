@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Root>
+	<!-- This file contains data for the custom map options, toggle choices. -->
+	<Entry>
+		<zType/>
+		<Name/>
+		<zDescription/>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_MIRROR</zType>
+		<Name>TEXT_MAP_OPTION_MIRROR_MAP</Name>
+		<zDescription>Mapa simétrico este-oeste: se necesita un número par de equipos.</zDescription>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_SEASIDE_CENTER_BIAS</zType>
+		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
+		<zDescription>El jugador comienza cerca del centro del mapa, sólo en modo un jugador</zDescription>
+	</Entry>
+	<Entry>
+		<zType>MAP_OPTIONS_SINGLE_CENTER_BIAS</zType>
+		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
+		<zDescription>Evite comenzar cerca de los bordes del mapa oeste o este, sólo en modo un jugador</zDescription>
+	</Entry>
+</Root>

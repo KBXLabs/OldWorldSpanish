@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_POINTS</zType>
+		<zName>Victoria por PVs</zName>
+		<zHelp>Victoria por conseguir los PVs objetivos.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_DOUBLE</zType>
+		<zName>Victoria Doble</zName>
+		<zHelp>Victoria por conseguir el doble de PVs que cualquier otra nación.
+		(También se deben conseguir la mitad de los PVs objetivos.)</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_AMBITION</zType>
+		<zName>Victoria por ambición</zName>
+		<zHelp>Victoria por completar int(MAX_AMBITIONS) ambiciones.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_TIME</zType>
+		<zName>Victoria por tiempo</zName>
+		<zHelp>Victoria por conseguir más PVs en 200 años.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_CONQUEST</zType>
+		<zName>Conquista</zName>
+		<zHelp>Victoria por conquistar todas las otras naciones.</zHelp>
+	</Entry>
+</Root>

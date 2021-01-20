@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>OPPONENTLEVEL_PASSIVE</zType>
+		<zName>Pasivo</zName>
+	</Entry>
+	<Entry>
+		<zType>OPPONENTLEVEL_PEACEFUL</zType>
+		<zName>Pacífico</zName>
+	</Entry>
+	<Entry>
+		<zType>OPPONENTLEVEL_NORMAL</zType>
+		<zName>Normal</zName>
+	</Entry>
+	<Entry>
+		<zType>OPPONENTLEVEL_AGGRESSIVE</zType>
+		<zName>Agresivo</zName>
+	</Entry>
+	<Entry>
+		<zType>OPPONENTLEVEL_COMPETITIVE</zType>
+		<zName>Competitivo</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_OCEAN</zType>
+		<zName>Océano</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_COAST</zType>
+		<zName>Costa</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_LAKE</zType>
+		<zName>Lago</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_FLAT</zType>
+		<zName>Llanura</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_HILL</zType>
+		<zName>Colina</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_MOUNTAIN</zType>
+		<zName>Montaña</zName>
+	</Entry>
+	<Entry>
+		<zType>HEIGHT_VOLCANO</zType>
+		<zName>Volcán</zName>
+	</Entry>
+</Root>

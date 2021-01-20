@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Root>
+    <Entry>
+        <zType/>
+        <zName/>
+        <zHelp/>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_AGNATIC</zType>
+        <zName>Agnado</zName>
+        <zHelp>Sólo pueden heredar el trono los descendientes varones.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_AGNATIC_COGNATIC</zType>
+        <zName>Agnado Cognado</zName>
+        <zHelp>Los varones heredan antes que las mujeres.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ABSOLUTE_COGNATIC</zType>
+        <zName>Cognado Absoluto</zName>
+        <zHelp>Los géneros heredan por igual.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ENATIC_COGNATIC</zType>
+        <zName>Enado Cognado</zName>
+        <zHelp>Las mujeres heredan antes que los varones.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_ENATIC</zType>
+        <zName>Enado</zName>
+        <zHelp>Sólo pueden heredar el trono las descendientes mujeres.</zHelp>
+    </Entry>
+    <Entry>
+        <zType>SUCCESSIONGENDER_RANDOM</zType>
+        <zName>Aleatorio</zName>
+        <zHelp>Cada jugador adopta un tipo de sucessión aleatorio, potencialmente diferente.</zHelp>
+    </Entry>
+</Root>

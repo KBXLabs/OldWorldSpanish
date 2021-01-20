@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT</zType>
+		<Translation>Culto a la Espada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+		<Translation>Diezmo de Culto a la Espada</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+		<Translation>Guarnición hostil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+		<Translation>Mural Público</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TRIUMPH</zType>
+		<Translation>Triunfo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CULTURAL_APPROPRIATION</zType>
+		<Translation>Apropiación cultural</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
+		<Translation>Tinte púrpura</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROPAGANDA</zType>
+		<Translation>Propaganda</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
+		<Translation>Explotación infantil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+		<Translation>Reforma contra la corrupción</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+		<Translation>Inscripciones reales</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+		<Translation>Necrópolis imperial</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+		<Translation>Deportaciones forzadas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GLADIATORS</zType>
+		<Translation>Gladiadores</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PLAYS</zType>
+		<Translation>Obras dramáticas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+		<Translation>Ciudad Mercantil</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OUTBREAK</zType>
+		<Translation>Brote</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MIDWIFERY</zType>
+		<Translation>Obstetricia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+		<Translation>Delicias de lujo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+		<Translation>Fiesta anual para los invitados persas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+		<Translation>Mitosforia</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+		<Translation>Subsidio gratuito de grano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+		<Translation>Combatientes extranjeros</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+		<Translation>Consejo de guerra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+		<Translation>Drenaje</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
+		<Translation>Endurecimiento de la caja</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+		<Translation>Pozos de Turpan</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+		<Translation>Fiesta Nacional</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+		<Translation>Método científico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+		<Translation>Edictos de protección</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HORREUM</zType>
+		<Translation>Horrea de grano</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+		<Translation>Tesoro de Avesta</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+		<Translation>Ciudadanos enfermos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+		<Translation>Santuario Zigurat al Amor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+		<Translation>Santuario Zigurat a la Sabiduría</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+		<Translation>Santuario Zigurat a la Guerra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+		<Translation>Tribunales consulares</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
+		<Translation>Confucionismo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SALT_PRODUCTION</zType>
+		<Translation>Producción de sal</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MANUAL_OF_RHETORIC</zType>
+		<Translation>Manual de retórica</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOCAL_ASCETIC</zType>
+		<Translation>Ascética local</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AUTONOMOUS_RULE</zType>
+		<Translation>Regla autónoma</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONUMENTAL_GATE</zType>
+		<Translation>Puerta Monumental</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LEVIATHAN</zType>
+		<Translation>Cráneo de Leviatán</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GODS_CONSORT_CULT</zType>
+		<Translation>Culto al consorte de Diós</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LABYRINTH</zType>
+		<Translation>Laberinto</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WORK_OF_ART</zType>
+		<Translation>Obra de arte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PIRACY_SUPPRESSION</zType>
+		<Translation>Supresión de la piratería</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COHORTES</zType>
+		<Translation>Cohortes urbanas</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_KILLER</zType>
+		<Translation>Caza a los asesinos</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_STATUE_OF_DIONYSUS</zType>
+		<Translation>Estatua de Dioniso</Translation>
+	</Entry>
+</Root>

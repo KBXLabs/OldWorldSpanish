@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_NORTH</zType>
+		<zName>Mover hacia el norte</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_WEST</zType>
+		<zName>Mover hacia el oeste</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_SOUTH</zType>
+		<zName>Mover hacia el sur</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MOVE_CAMERA_EAST</zType>
+		<zName>Mover hacia el este</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CAMERA_ZOOM_IN</zType>
+		<zName>Acercar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CAMERA_ZOOM_OUT</zType>
+		<zName>Alejar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_VEGETATION</zType>
+		<zName>Ocultar vegetación</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_IMPROVEMENTS</zType>
+		<zName>Ocultar mejoras</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_UNITS</zType>
+		<zName>Ocultar unidades</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_ALL</zType>
+		<zName>Ocultar todo</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_ZOC</zType>
+		<zName>Mostrar Zona de Control</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_DANGER_TILES</zType>
+		<zName>Mostrar Zona de Peligro</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_TRADE_NETWORK</zType>
+		<zName>Mostrar Red Comercial</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_IDLE_UNITS</zType>
+		<zName>Mostrar Unidades en espera</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SHOW_TILE_YIELDS</zType>
+		<zName>Mostrar Casillas de recurso</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_HEX_GRID</zType>
+		<zName>Alternar Cuadrícula hexagonal</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HIDE_UI</zType>
+		<zName>Ocultar Interfaz</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_ROAD_TO</zType>
+		<zName>Alternar Modo de Ciudades conectadas</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SPEND_TRAINING_FOR_ORDERS</zType>
+		<zName>Intercambiar Militar por Mandatos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PAUSE</zType>
+		<zName>Pausa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INCREASE_TURN_STYLE</zType>
+		<zName>Aumentar Estilo de Turno</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DECREASE_TURN_STYLE</zType>
+		<zName>Reducir Estilo de Turno</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INCREASE_TURN_TIMER</zType>
+		<zName>Aumentar Temporizador de Turno</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DECREASE_TURN_TIMER</zType>
+		<zName>Reducir Temporizador de Turno</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MUTE</zType>
+		<zName>Mutear</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CLEAR_SELECTION</zType>
+		<zName>Eliminar selección</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_1</zType>
+		<zName>Ciclo en espera 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_1</zType>
+		<zName>Ciclo/Pasar en espera 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_2</zType>
+		<zName>Ciclo en espera 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_2</zType>
+		<zName>Ciclo/Pasar en espera 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_3</zType>
+		<zName>Ciclo en espera 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_3</zType>
+		<zName>Ciclo/Pasar en espera 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_4</zType>
+		<zName>Ciclo en espera 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_4</zType>
+		<zName>Ciclo/Pasar en espera 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_IDLE_5</zType>
+		<zName>Ciclo en espera 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PASS_IDLE_5</zType>
+		<zName>Ciclo/Pasar en espera 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_END_TURN</zType>
+		<zName>Terminar año</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_END_TURN_FORCE</zType>
+		<zName>Terminar año (Forzar)</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PREVIOUS_CITY</zType>
+		<zName>Ciudad anterior</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_NEXT_CITY</zType>
+		<zName>Siguiente ciudad</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PASS</zType>
+		<zName>**Cycle and Pass Selected Unit</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SLEEP</zType>
+		<zName>**Cycle and Sleep Selected Unit</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SENTRY</zType>
+		<zName>**Cycle and Sentry Selected Unit</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_ALL</zType>
+		<zName>**Cycle Selection</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_ALL_REVERSE</zType>
+		<zName>**Cycle Selection (Reverse)</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNDO</zType>
+		<zName>Deshacer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_REDO</zType>
+		<zName>Rehacer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PING</zType>
+		<zName>Ping</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CHAT</zType>
+		<zName>Chat</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_VICTORY_SCREEN</zType>
+		<zName>Mostrar Pantalla de Victoria</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_INHERITANCE_SCREEN</zType>
+		<zName>Mostrar Pantalla de Heréncia</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LAWS_SCREEN</zType>
+		<zName>Mostrar Pantalla de Leyes</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_RELIGION_SCREEN</zType>
+		<zName>Mostrar Pantalla de Religión</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LOG_SCREEN</zType>
+		<zName>Mostrar Pantalla de Registro</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TECH_SCREEN</zType>
+		<zName>Mostrar Árbol de tencologías</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CITY_LIST</zType>
+		<zName>Mostrar Lista de ciudades</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_SCREEN</zType>
+		<zName>Mostrar Pantalla del Mapa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_HELP_SCREEN</zType>
+		<zName>Mostrar Pantalla de Ayuda</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_GAME_EDITOR</zType>
+		<zName>Editor de la partida</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CONSOLE</zType>
+		<zName>Consola</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CLOSE_POPUP</zType>
+		<zName>Cerrar ventana</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_EXPAND_TOOLTIP</zType>
+		<zName>Expandir ayuda</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_LOCK_TOOLTIP</zType>
+		<zName>Bloquear ayuda</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_FREEZE_TOOLTIP</zType>
+		<zName>Bloquear ayuda</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_SAVE</zType>
+		<zName>Guardar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_QUICK_LOAD</zType>
+		<zName>Cargar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_AUTO_LOAD</zType>
+		<zName>Cargar autoguardado</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_DEBUG_MENU</zType>
+		<zName>Alternar Menu de Debug</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_REVEAL_MAP</zType>
+		<zName>Revealar el Mapa</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_FULLY_REVEAL_MAP</zType>
+		<zName>Reveal el Map completamente</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNLOCK_NEXT_TECH</zType>
+		<zName>Desbloquea la siguiente tencología</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_UNLOCK_ALL_TECHS</zType>
+		<zName>Desbloquea todas las tecnologías</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_RELOAD_INFOS</zType>
+		<zName>Recarga la información</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_GRANT_RESOURCES</zType>
+		<zName>Conceder recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_FLYING_CAMERA</zType>
+		<zName>Alternar Cámara de vuelo</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_TOP_DOWN_CAMERA</zType>
+		<zName>Alternar Cámara de arriba a abajo</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TEST_LOAD_SAVE_CONSISTENCY</zType>
+		<zName>Testear la consistencia del cargado/guardado</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_TOGGLE_AUTOPLAY</zType>
+		<zName>Alternar Juego automátio</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MENU_DEBUG_OPTIONS</zType>
+		<zName>Opciones de Debug</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_PAINT</zType>
+		<zName>Pintar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_FILL</zType>
+		<zName>Rellenar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_ERASE</zType>
+		<zName>Borrar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_TERRAIN</zType>
+		<zName>Pincel</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_HEIGHT</zType>
+		<zName>Altura</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_RESOURCES</zType>
+		<zName>Recursos</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_VEGETATION</zType>
+		<zName>Vegetación</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_UNDO</zType>
+		<zName>Deshacer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_REDO</zType>
+		<zName>Rehacer</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_SAVE</zType>
+		<zName>Guardar</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_INCREASE_SIZE</zType>
+		<zName>Aumentar el tamaño del pincel</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_DECREASE_SIZE</zType>
+		<zName>Reducir el tamaño del pincel</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_UTILITIES_PANEL</zType>
+		<zName>Alternar Panel de utilidades</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_INFO_PANEL</zType>
+		<zName>Alternar Panel de información</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_PROJECTOR</zType>
+		<zName>Alternar Proyector de imágenes</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_MAP_EDITOR_FLYING_CAMERA</zType>
+		<zName>Alternar Cámara de vuelo</zName>
+	</Entry>
+	<!--Event Browser-->
+	<Entry>
+		<zType>HOTKEY_EVENT_BROWSER_NEXT_INPUT</zType>
+		<zName>Ir a la siguiente entrada</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_EVENT_BROWSER_PREVIOUS_INPUT</zType>
+		<zName>Ir a la entrada anterior</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_1</zType>
+		<zName>Girar por el Jugador 1</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_2</zType>
+		<zName>Girar por el Jugador 2</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_3</zType>
+		<zName>Girar por el Jugador 3</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_4</zType>
+		<zName>Girar por el Jugador 4</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_5</zType>
+		<zName>Girar por el Jugador 5</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_6</zType>
+		<zName>Girar por el Jugador 6</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_7</zType>
+		<zName>Girar por el Jugador 7</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_8</zType>
+		<zName>Girar por el Jugador 8</zName>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_CYCLE_PLAYER_9</zType>
+		<zName>Girar por el Jugador 9</zName>
+	</Entry>
+</Root>

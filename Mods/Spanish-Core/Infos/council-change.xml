@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_AMBASSADOR</zType>
+		<zName>Embajador</zName>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_CHANCELLOR</zType>
+		<zName>Canciller</zName>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_SPYMASTER</zType>
+		<zName>Jefe de espías</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PASS</zType>
+		<zName>por Pasar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_SLEEP</zType>
+		<zName>por Hibernar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_SENTRY</zType>
+		<zName>por Vigilancia</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_UNLIMBERED</zType>
+		<zName>por **Unlimbered</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ANCHORED</zType>
+		<zName>por Anclar</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ROUT</zType>
+		<zName>por Retirada</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ATTACK</zType>
+		<zName>por haber Atacado</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ATTACKED</zType>
+		<zName>por ser Atacado</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_STUNNED</zType>
+		<zName>por estar Aturdido</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_BUILDING</zType>
+		<zName>por estar Construyendo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ADDED_ROAD</zType>
+		<zName>por añadir Carretera</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_ADDED_URBAN</zType>
+		<zName>por añadir Zona Urbana</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_RAISED_IMPROVEMENT</zType>
+		<zName>por Actualizar una Mejora</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_BUY_TILE</zType>
+		<zName>por Comprar una Casilla</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_FORTIFY</zType>
+		<zName>por Fortificación</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_RECRUITED</zType>
+		<zName>por Reclutamiento</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_HIRED</zType>
+		<zName>por Contratación</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_GIFTED</zType>
+		<zName>por Regalo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_HEALED</zType>
+		<zName>por Sanación</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PILLAGED</zType>
+		<zName>por Saqueo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_PROMOTED</zType>
+		<zName>por **Promoción</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_TESTUDO</zType>
+		<zName>por Formación Testudo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_REPAIRED</zType>
+		<zName>por Reparación</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_UPGRADED</zType>
+		<zName>por Mejora</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_GENERAL</zType>
+		<zName>por Asignación de General</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_LOCKED</zType>
+		<zName>por Bloqueo</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_DISEMBARKED</zType>
+		<zName>por Desembarco</zName>
+	</Entry>
+	<Entry>
+		<zType>COOLDOWN_TRADE</zType>
+		<zName>por Comercio</zName>
+	</Entry>
+</Root>

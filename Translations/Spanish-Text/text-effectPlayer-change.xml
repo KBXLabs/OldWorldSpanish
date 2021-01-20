@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/effectPlayer.xml-->
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_BASE</zType>
+		<Translation>Base</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
+		<Translation>Ambición</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LEGACY</zType>
+		<Translation>Legado</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_COUNCIL_SPYMASTER</zType>
+		<Translation>Jefe de espías</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+		<Translation>El Capaz</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+		<Translation>El Justo</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+		<Translation>El Benevolente</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+		<Translation>El Fuerte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+		<Translation>El Noble</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+		<Translation>El Glorioso</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+		<Translation>El Magnífico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+		<Translation>El Grande</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
+		<Translation>link(LAW_EPICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
+		<Translation>link(LAW_EXPLORATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
+		<Translation>link(LAW_SLAVERY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
+		<Translation>link(LAW_FREEDOM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
+		<Translation>link(LAW_TYRANNY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
+		<Translation>link(LAW_CONSTITUTION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
+		<Translation>link(LAW_CENTRALIZATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
+		<Translation>link(LAW_VASSALAGE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+		<Translation>Decreto Constitucional</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
+		<Translation>link(LAW_COLONIZATION)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
+		<Translation>link(LAW_SERFDOM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
+		<Translation>link(LAW_MONOTHEISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
+		<Translation>link(LAW_POLYTHEISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
+		<Translation>link(LAW_DIVINE_RULE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_LEGAL_CODE</zType>
+		<Translation>link(LAW_LEGAL_CODE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
+		<Translation>link(LAW_TOLERANCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
+		<Translation>link(LAW_ORTHODOXY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
+		<Translation>link(LAW_PROFESSIONAL_ARMY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
+		<Translation>link(LAW_VOLUNTEERS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
+		<Translation>link(LAW_PHILOSOPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
+		<Translation>link(LAW_ENGINEERING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
+		<Translation>link(LAW_ICONOGRAPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
+		<Translation>link(LAW_CALLIGRAPHY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PILGRIMAGE</zType>
+		<Translation>link(LAW_PILGRIMAGE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
+		<Translation>link(LAW_HOLY_WAR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
+		<Translation>link(LAW_GUILDS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
+		<Translation>link(LAW_ELITES)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
+		<Translation>link(LAW_ISOLATIONISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
+		<Translation>link(LAW_TRADE_LEAGUE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
+		<Translation>Convoy link(LAW_TRADE_LEAGUE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
+		<Translation>link(LAW_COIN_DEBASEMENT)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
+		<Translation>link(LAW_MONETARY_REFORM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+		<Translation>Carreteras</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_DRAMA</zType>
+		<Translation>Música</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_VICTORY_POINT</zType>
+		<Translation>Punto de victoria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+		<Translation>Líder Héroe</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<Translation>Líder Táctico</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+		<Translation>Líder Juez</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+		<Translation>Líder Orador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<Translation>Líder Erudito</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
+		<Translation>Petición en la capital</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+		<Translation>Líder Constructor</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+		<Translation>Líder Conspirador</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+		<Translation>Líder Comandante</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+		<Translation>Líder Fanático</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<Translation>Líder Diplomático</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SCIENCE</zType>
+		<Translation>Coste alto en link(YIELD_SCIENCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SCIENCE</zType>
+		<Translation>Coste muy alto en link(YIELD_SCIENCE)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
+		<Translation>Coste bajo en link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
+		<Translation>Coste medio en link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
+		<Translation>Coste alto en link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
+		<Translation>Coste muy alto en link(YIELD_CIVICS)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
+		<Translation>Coste bajo en link(YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
+		<Translation>Coste medio en link(YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
+		<Translation>Coste alto en link(YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
+		<Translation>Coste muy alto en (YIELD_TRAINING)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_MONEY</zType>
+		<Translation>Coste bajo de link(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_MONEY</zType>
+		<Translation>Coste medio de link(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_MONEY</zType>
+		<Translation>Coste alto de link(YIELD_MONEY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MONEY</zType>
+		<Translation>Coste muy alto de link(YIELD_MONEY)</Translation>
+	</Entry>
+</Root>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--Translated by Danny Medina-->
+<Root>
+	<Entry>
+		<zType>LANGUAGE_TRANSLATION</zType>
+		<Name>TEXT_LANGUAGE_SPANISH_TRANSLATION</Name>
+		<zISOCode>es</zISOCode>
+		<zSingularExpression>x==1</zSingularExpression>
+		<zThousandsSeparator>.</zThousandsSeparator>
+		<zDecimalSeparator>,</zDecimalSeparator>
+		<zCurrencyPrefix>€</zCurrencyPrefix>
+		<zThousandPostfix>K</zThousandPostfix>
+		<zMillionPostfix>M</zMillionPostfix>
+	</Entry>
+</Root>

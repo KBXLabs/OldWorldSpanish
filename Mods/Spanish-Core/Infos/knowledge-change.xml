@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>KNOWLEDGE_PRIMITIVE</zType>
+		<zName>Primitivo</zName>
+	</Entry>
+	<Entry>
+		<zType>KNOWLEDGE_NAIVE</zType>
+		<zName>Ingenuo</zName>
+	</Entry>
+	<Entry>
+		<zType>KNOWLEDGE_COMPETENT</zType>
+		<zName>Competente</zName>
+	</Entry>
+	<Entry>
+		<zType>KNOWLEDGE_LEARNED</zType>
+		<zName>Maestro</zName>
+	</Entry>
+	<Entry>
+		<zType>KNOWLEDGE_ERUDITE</zType>
+		<zName>Erudito</zName>
+	</Entry>
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+  <Entry>
+		<zType>PROXIMITY_VERY_CLOSE</zType>
+		<zName>Muy cerca</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_CLOSE</zType>
+		<zName>Cerca</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_NEAR</zType>
+		<zName>Próximo</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_DISTANT</zType>
+		<zName>Distante</zName>
+	</Entry>
+	<Entry>
+		<zType>PROXIMITY_FAR</zType>
+		<zName>Lejano</zName>
+	</Entry>
+</Root>

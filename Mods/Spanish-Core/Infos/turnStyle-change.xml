@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_SIMULTANEOUS</zType>
+		<zName>Simultáneos</zName>
+		<zHelp>Turnos simultáneos.</zHelp>
+  </Entry>
+	<Entry>
+		<zType>TURNSTYLE_LOOSE</zType>
+		<zName>Laxo</zName>
+		<zHelp>Sin restricciones de movimiento.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_NORMAL</zType>
+		<zName>Normal</zName>
+		<zHelp>Atacar durante el turno de otro equipo doblará el tiempo de recuperación.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_TIGHT</zType>
+		<zName>Ajustado</zName>
+		<zHelp>Sólo se pueden mover unidades no militares durante el turno de otro equipo.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_TEAMS</zType>
+		<zName>Equipos</zName>
+		<zHelp>No se puede mover ninguna unidad durante el turno de otro equipo.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TURNSTYLE_STRICT</zType>
+		<zName>Estricto</zName>
+		<zHelp>No se puede mover ninguna unidad durante el turno de otro jugador.</zHelp>
+	</Entry>
+</Root>

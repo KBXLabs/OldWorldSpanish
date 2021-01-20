@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zLeaderTitle/>
+	</Entry>
+	<Entry>
+		<zType>GENDER_FEMALE</zType>
+		<zName>Mujer</zName>
+		<zLeaderTitle>Reina</zLeaderTitle>
+	</Entry>
+	<Entry>
+		<zType>GENDER_MALE</zType>
+		<zName>Hombre</zName>
+		<zLeaderTitle>Rey</zLeaderTitle>
+	</Entry>
+</Root>

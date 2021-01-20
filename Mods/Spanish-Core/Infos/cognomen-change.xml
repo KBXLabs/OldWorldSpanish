@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_NEW</zType>
+		<zName>El Nuevo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_WARRIOR</zType>
+		<zName>El Guerrero</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_BRAVE</zType>
+		<zName>El Instructor</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_VALIANT</zType>
+		<zName>El Valiente</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_MIGHTY</zType>
+		<zName>El Poderoso</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_VICTORIOUS</zType>
+		<zName>El Victorioso</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_LION</zType>
+		<zName>El León</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_INVINCIBLE</zType>
+		<zName>El Invencible</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_CAPABLE</zType>
+		<zName>El Competente</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_READY</zType>
+		<zName>El Preparado</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_DESTROYER</zType>
+		<zName>El Destructor</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_AVENGER</zType>
+		<zName>El Vengativo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_WHITE_DEATH</zType>
+		<zName>El Muerte Blanca</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_INTERCESSOR</zType>
+		<zName>El Intercesor</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_PEACEMAKER</zType>
+		<zName>El Pacificador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_CONQUEROR</zType>
+		<zName>El Conquistador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_SUBJUGATOR</zType>
+		<zName>El Subyugador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_RESTORER</zType>
+		<zName>El Restaurador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_LIBERATOR</zType>
+		<zName>El Liberador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_SETTLER</zType>
+		<zName>El Colonizador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_PIONEER</zType>
+		<zName>El Pionero</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_AMBITIOUS</zType>
+		<zName>El Ambicioso</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_BRILLIANT</zType>
+		<zName>El Brillante</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_BELOVED</zType>
+		<zName>El Amado</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_REBUILDER</zType>
+		<zName>El Reconstructor</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_SURVEYOR</zType>
+		<zName>El Topógrafo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_MASON</zType>
+		<zName>El Albañil</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_ARCHITECT</zType>
+		<zName>El Arquitecto</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_KEYSTONE</zType>
+		<zName>La Piedra Angular</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_FOUNDER</zType>
+		<zName>El Fundador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_DEVOUT</zType>
+		<zName>El Devoto</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_HOLY</zType>
+		<zName>El Santo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_EXPLORER</zType>
+		<zName>El Explorador</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_INTREPID</zType>
+		<zName>El Intrépido</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_LEARNED</zType>
+		<zName>El Enterado</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_ENLIGHTENED</zType>
+		<zName>El Iluminado</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_WISE</zType>
+		<zName>El Sabio</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_OLD</zType>
+		<zName>El Viejo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_ANCIENT</zType>
+		<zName>El Antiguo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_ABLE</zType>
+		<zName>El Capaz</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_JUST</zType>
+		<zName>El Justo</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_GOOD</zType>
+		<zName>El Bueno</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_STRONG</zType>
+		<zName>El Fuerte</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_NOBLE</zType>
+		<zName>El Noble</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_GLORIOUS</zType>
+		<zName>El Glorioso</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_MAGNIFICENT</zType>
+		<zName>El Magnífico</zName>
+	</Entry>
+	<Entry>
+		<zType>COGNOMEN_GREAT</zType>
+		<zName>El Grande</zName>
+	</Entry>
+</Root>

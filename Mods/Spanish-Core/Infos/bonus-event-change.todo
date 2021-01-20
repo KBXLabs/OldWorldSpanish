@@ -1,0 +1,1593 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HEIR_COMING_OF_AGE_CEREMONY_PLAYER</zType>
+		<zName>Coming of Age</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_MOUTHPIECE_OF_THE_GODS_OPTION_0</zType>
+		<zName>Erected royal inscriptions</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_1</zType>
+		<zName>I listened to my advisors</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_OF_THE_PEOPLE_OPTION_0</zType>
+		<zName>Acted as a humble example.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_QUESTION_AUTHORITY_OPTION_2</zType>
+		<zName>Punished outspoken general.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_COLLISION_COURSE_OPTION_1</zType>
+		<zName>Stood up for the nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_A_DARK_PALL_OPTION_0</zType>
+		<zName>Took my own life</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_OPTION_2</zType>
+		<zName>Declared war when challenged</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_VICTORIOUS_OPTION_0</zType>
+		<zName>Victorious in single combat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DUEL_OF_FATES_DEFEATED_OPTION_0</zType>
+		<zName>Defeated in single combat</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_FAMILY_RETREAT_OPTION_0</zType>
+		<zName>Defied suspected plotting</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_GEMS_OPTION_0_PLAYER</zType>
+		<zName>Rewarded a citizen who discovered gems</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PRETTY_PERSUASION_OPTION_2_CHARACTER_2</zType>
+		<zName>Accepted mutliple bribes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNLIKELY_ALLIES_OPTION_0_CHARACTER_3</zType>
+		<zName>Gave in to foreign pressure</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_GIANT_STATUE_CARVE</zType>
+		<zName>Remade statue in my image</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_CURSED_LAND_ROCKS</zType>
+		<zName>Filled in an accursed hole</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_VULGAR_SPEECH_OPTION_2</zType>
+		<zName>Replaced ancient text with my sigil</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SACRED_TOMB_DESTROY</zType>
+		<zName>Destroyed the Sacred Tomb</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_NEW_HUMANS_OPTION_0_CHARACTER_0</zType>
+		<zName>Destroyed strange human remains</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_EMERALD_MINE_REBUILT_OPTION_0_CHARACTER</zType>
+		<zName>Rebuilt ancient emerald mine</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_0_CHARACTER</zType>
+		<zName>Disciplined thieving scout</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HARVEST_CAUGHT_IN_THE_ACT_OPTION_1_CHARACTER</zType>
+		<zName>Allowed scout to steal silver</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_STRANGE_SCROLL_DESTROY</zType>
+		<zName>Destroyed a strange and dangerous scroll</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RUINS_COMET_SIGHTED_OMEN</zType>
+		<zName>A comet foretold our triumphs</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_CULTURAL_APPROPRIATION</zType>
+		<zName>Appropriated the culture of a vanquished tribe</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_NO_LEGACY</zType>
+		<zName>Vanquished a tribe and had no regrets</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTSTORY_TRIBE_ELIMINATED_FATAL_OVERSIGHT</zType>
+		<zName>Vanquished a tribe (to which my spouse happened to belong)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_PURGE</zType>
+		<zName>Purged the land of a Tribe</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_FREEDOM</zType>
+		<zName>Allowed a family to dictate the laws</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_CONTACT_GRINNING_EMISSARY_WAR</zType>
+		<zName>I refused peace in exchange for a gift</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_ASSYRIA_ROOT_OPTION_1_NO</zType>
+		<zName>Vowed to never pay tribute to Assyria</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_OPTION_1_PLAYER</zType>
+		<zName>Refused foreign diplomats</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_REFUSE_OPTION_0_PLAYER_1</zType>
+		<zName>Showed enemy spies no mercy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_HUMBLE_PERSIA_EXCHANGE_OPTION_1_PLAYER_1</zType>
+		<zName>Ongoing Exchange of Ideas With Persia</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_EGYPT_REFUSED_DONATION_OPTION_1_PLAYER_1</zType>
+		<zName>Stood up to Egypt</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_LAVISH_GREECE_OPTION_0_PLAYER_1</zType>
+		<zName>Extravagant gifts to Greece</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_FRIENDLY_LAVISH_MORE_OPTION_0_PLAYER_1</zType>
+		<zName>Exchanged extravagant gifts for Peace</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ROME_OPTION_1_PLAYER_1</zType>
+		<zName>Bowed to the will of Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ROME_OPTION_0_PLAYER_1</zType>
+		<zName>Stood up to Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_CAPTURED_ROMAN_CITY_OPTION_1_PLAYER_1</zType>
+		<zName>Vowed to destroy the entire Roman civilization</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_CAPTURED_ROMAN_CITY_OPTION_0_PLAYER_1</zType>
+		<zName>Captured a Roman City then agreed to accept Peace</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_1_PLAYER_1</zType>
+		<zName>Refused to bow to Rome even after they captured our city</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_ROMANS_HAVE_TAKEN_OUR_CITY_OPTION_0_PLAYER_1</zType>
+		<zName>Bowed to Rome after they captured our city</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_PERSIA_OPTION_1_PLAYER_1</zType>
+		<zName>Stood up to Persia</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_PERSIA_RESPECT_OPTION_2_PLAYER_1</zType>
+		<zName>Talked Persia out of requiring Tribute for Peace</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_BABYLON_OPTION_2_PLAYER_1</zType>
+		<zName>Talked Babylon into a Peace deal</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_SUGGEST_OPTION_0_PLAYER_1</zType>
+		<zName>Our pride has led to peace</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEIGHBORS_PRIDEFUL_ASSYRIA_OPTION_1_PLAYER_1</zType>
+		<zName>Rejected Assyria's Peace Offer in the boldest way</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HOSTILE_NEIGHBORS_OPTION_4_PLAYER_1</zType>
+		<zName>Defused tensions with hostile neighbors</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HOSTILE_NEIGHBORS_WAR_OPTION_1_PLAYER_1</zType>
+		<zName>Increase training and raised militias</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONTACT_BORDER_DISPUTE_OPTION_2_CHARACTER</zType>
+		<zName>Calmed barbarian tempers</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_0_PLAYER_1</zType>
+		<zName>Treated with strange travelers</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_1_PLAYER_1</zType>
+		<zName>Refused to treat with foreigners</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONTACT_LETHAL_AFFLICTION_OPTION_2_PLAYER_0</zType>
+		<zName>Declared war after subjects poisoned</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_1_CHARACTER_0</zType>
+		<zName>Denied foreign ruler's request</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WRITING_ON_THE_WALL_OPTION_0_CHARACTER_1</zType>
+		<zName>Intrepreted writings on wall</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_IMMUNITY_OPTION_3_CHARACTER_0</zType>
+		<zName>Executed foreign counsel for crimes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONTACT_SECRET_OF_THE_FOOL_OPTION_0_CHARACTER_1</zType>
+		<zName>Turned away Pieface</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBAL_ENVOY_PEACE</zType>
+		<zName>Barbarian Envoy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HOSTILE_GARRISON_ACCEPT</zType>
+		<zName>Hostile Garrison</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HOSTILE_GARRISON_EXPEL_YES</zType>
+		<zName>Expelling the Garrison</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SCALES_OF_TRIBUTE_ACQUIESCE</zType>
+		<zName>Scales of Tribute</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SECURING_PEACE_FURIOUS_EMISSARY_MISUNDERSTANDING</zType>
+		<zName>Furious Emissary</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ASSASSINATION_OF_MONARCH_SUCCESS</zType>
+		<zName>Assassination Revenge</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_AT_PEACE_HUNTING_GROUNDS_DISPUTE_OPTION_3_PLAYER_1</zType>
+		<zName>Called in a Favor to get a hunting party released</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_PEACE_PROBLEM_SOLVED_PLAYER_1</zType>
+		<zName>[STUB] Solved the Problem</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_PEACE_PROBLEM_SOLVED_OPINION_DROP_PLAYER_1</zType>
+		<zName>[STUB] Avoided War with Peace partner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_PEACE_INCIDENT_TRUCE_ANGRY_PLAYER_1</zType>
+		<zName>[STUB] Although the Peace Treaty was lost, we avoided War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_PROBLEM_SOLVED_DIPLOMATIC_PLAYER_1</zType>
+		<zName>[STUB] Solved the Problem brilliantly</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_PROBLEM_SOLVED_PLAYER_1</zType>
+		<zName>[STUB] Solved the Problem</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_PROBLEM_SOLVED_OPINION_DROP_PLAYER_1</zType>
+		<zName>[STUB] Avoided War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_INCIDENT_LESSER_OPINION_DROP_PLAYER_1</zType>
+		<zName>[STUB] Smoothed over an Incident</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_INCIDENT_OPINION_DROP_PLAYER_1</zType>
+		<zName>[STUB] Maintained the Truce</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_INCIDENT_OPINION_DROP_ANGRY_PLAYER_1</zType>
+		<zName>[STUB] Maintained the Truce</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_AT_TRUCE_INCIDENT_PEACE_PLAYER_1</zType>
+		<zName>[STUB] Secured Peace after an Incident</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_UPSET_OPTION_1_PLAYER_1</zType>
+		<zName>Tactician Leader inspired our people to War!</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_OPTION_1_PLAYER_1</zType>
+		<zName>We trained Ranged units to prepare for War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_OPTION_2_PLAYER_1</zType>
+		<zName>We trained Melee units to prepare for War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_2_OPTION_1_PLAYER_1</zType>
+		<zName>Deployed Mounted units in preparation for War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_3_OPTION_1_PLAYER_1</zType>
+		<zName>Recruited new Melee units in preparation for War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_3_OPTION_2_PLAYER_1</zType>
+		<zName>Organized special Mounted units in preparation for War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_OPTION_1_PLAYER_1</zType>
+		<zName>Negotiated peace and an extradition treaty</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_0_PLAYER_1</zType>
+		<zName>Delivered justice in international criminal cases</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_2_PLAYER_1</zType>
+		<zName>Failed to ensure that our accused would get fair trials</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_OPTION_3_PLAYER_1</zType>
+		<zName>Pardoned our citizens of crimes against foreigners</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_OPTION_0_PLAYER_1</zType>
+		<zName>Delivered justice in cases involving a neighboring nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_OPTION_1_PLAYER_1</zType>
+		<zName>Allowed another nation to put our citizens on trial</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_0_PLAYER_1</zType>
+		<zName>Forged Peace with an agitated Nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_OPTION_1_PLAYER_1</zType>
+		<zName>Avoided conflict by sharing our knowledge</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE_OPTION_0_PLAYER_1</zType>
+		<zName>Avoided a war by striking up a research agreement</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_AMBITION_CAPTURE_PLAYER_CITIES_NO_PLAYER_1</zType>
+		<zName>Did not make our enemies pay</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_AMBITION_NEW_PLAYER_WAR_NO_PLAYER_1</zType>
+		<zName>Did not commit to war</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_WAR_MARRIAGE_YES</zType>
+		<zName>Pressured into Tribal Marriage</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_PLEASED_OPTION_1_PLAYER_1</zType>
+		<zName>We built a Granary for a Nation who had Food struggles</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_INTIMIDATED_OPTION_0_PLAYER_1</zType>
+		<zName>Intimidated a foe who had been preparing to attack us</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_OPTION_0_PLAYER_1</zType>
+		<zName>We calmed down an angry Nation through diplomacy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_OPTION_1_PLAYER_1</zType>
+		<zName>Tied up an angry Nation in diplomatic knots to delay a War</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_UPSET_OPTION_0_PLAYER_1</zType>
+		<zName>Spent big to turn a burgeoning adversary into a Peace partner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_ZEALOT_CAUTIOUS_OR_BETTER_OPTION_0_PLAYER_1</zType>
+		<zName>Our grand religious mission to another Nation was a big success</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_PEACE_END_OPINION_PLAYER_1</zType>
+		<zName>Begged for link(DIPLOMACY_PEACE)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DINNER_WITH_A_RIVAL_OPTION_1_CHARACTER_2</zType>
+		<zName>Boosted our General</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TOKEN_OF_GOODWILL_OPTION_0_PLAYER_1</zType>
+		<zName>Refused to give tech to foreign nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FACE_IN_GOLD_OPTION_0_PLAYER_1</zType>
+		<zName>Coins only have my face</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CARAVAN_OF_LOVE_OPTION_1_CHARACTER_2</zType>
+		<zName>Warned heir of falling in love with a foreigner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_EXECUTED_SPIES_OPTION_1_CHARACTER_1</zType>
+		<zName>Sent spies who were caught and executed</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEW_ALLIANCE_OPTION_0_CHARACTER_1</zType>
+		<zName>Successfully forced barbarian alliance</zName>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>BONUS_EVENTOPTION_LEADER_SMITING_FOES_STATUE</zType>
+		<zName>Smiting Foes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ORDER_OF_BUSINESS_HEIR_FIRST_CHARACTER_1</zType>
+		<zName>Celebrations for the birth of my Heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_AMUSE</zType>
+		<zName>Laughed in the face of danger</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_SECRET_ALLIANCES_OPTION_1</zType>
+		<zName>I declared war on a conspiring nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_YOUNG_HOSTAGE_OPTION_2</zType>
+		<zName>Refused a barbarian ward</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_WITCH_QUEEN_OPTION_2</zType>
+		<zName>Removed witch queen</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_TEACHING_THE_ENEMY_OPTION_0_CHARACTER_0</zType>
+		<zName>I made a barbarian a courtier</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_HOMELAND_BURNING_OPTION_2</zType>
+		<zName>Watched a conquered city burn</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_EXOTIC_INFLUENCE_OPTION_0_CHARACTER</zType>
+		<zName>Refused barbarian customs</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_EXOTIC_INFLUENCE_OPTION_1_CHARACTER</zType>
+		<zName>Displayed barbarian spoils</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_KINGS_RANSOM_OPTION_1_CHARACTER_0</zType>
+		<zName>Took barbarian royal family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_CULT_OF_FLAME_SMASH</zType>
+		<zName>Purified the Cult of Flame</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_PRINCE_ENSLAVE</zType>
+		<zName>Enslaved a barbarian chief</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_PRINCE_WARD</zType>
+		<zName>Adopted a barbarian prince</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_TRIBAL_CONFEDERATION_OPTION_1</zType>
+		<zName>Warred with tribal confederation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_RIVALS_OPTION_2</zType>
+		<zName>Kept rival barbarians from seizing land</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_REBEL_GLADIATORS_OPTION_1</zType>
+		<zName>Recruited rebel gladiators as citizens</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LOVE_AND_WAR_OPTION_0_CHARACTER_0</zType>
+		<zName>Refused barbarian marriage proposal</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ACQUIRED_TASTES_DESTROY</zType>
+		<zName>Not tempted by foreign philosophers</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DEFIANCE_OPTION_1_CHARACTER</zType>
+		<zName>Rallied city under siege</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MERCY_IN_CITY_OPTION_0_PLAYER_1</zType>
+		<zName>Made an example of enemy city's leadership</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_TRANSLATIONS_YES_LEADER</zType>
+		<zName>Looked to foreign texts for knowledge</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_TRANSLATIONS_EDUCATED</zType>
+		<zName>Translated foreign texts myself</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INCRIMINATING_MESSAGES_OPTION_0_CHARACTER_0</zType>
+		<zName>Exposed alliance against me</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BASELESS_ACCUSATIONS_OPTION_0_CHARACTER_0</zType>
+		<zName>Made false accusations</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTSTORY_NO_EVIDENCE_CHARACTER_2</zType>
+		<zName>Ordered failed investigation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WINNING_FAVOR_OPTION_2_CHARACTER_2</zType>
+		<zName>Threatened family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_FEAST_OPTION_3_CHARACTER</zType>
+		<zName>Attended tribal feast alone</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TIME_FOR_A_BREAK_DRINK</zType>
+		<zName>Time for a Break</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_EPIC_POETRY_TEACH</zType>
+		<zName>Epic Poetry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_0_CHARACTER_0</zType>
+		<zName>Held audience with lost relative</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_2_CHARACTER_0</zType>
+		<zName>Imprisoned Bardiya, the false heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_A_PRIVATE_AUDIENCE_OPTION_0</zType>
+		<zName>Added mysterious relative to court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_0</zType>
+		<zName>Jailed the false relative</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DEMAND_FOR_JUSTICE_OPTION_1</zType>
+		<zName>Added questionable relative to my court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_PEACEMAKER_OPTION_2</zType>
+		<zName>Stayed out of foreign affairs</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_COURTLY_DRAMA_OPTION_2</zType>
+		<zName>My reign is bigger than literature</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_TAX_HIKE_OPTION_1</zType>
+		<zName>Refused to raise taxes</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_FORBIDDEN_KNOWLEDGE_OPTION_2</zType>
+		<zName>Disregarded Barbarian knowledge</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_1</zType>
+		<zName>Kept a kidnapped consort</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_KIDNAPPED_CONSORT_OPTION_2</zType>
+		<zName>I removed my son as heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_AMITY_OR_TREASON_OPTION_0</zType>
+		<zName>Agreed to abidcate</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_TEDIUM_ON_THE_THRONE_OPTION_0</zType>
+		<zName>Appointed horse to council</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_0</zType>
+		<zName>I went on the Wild Hunt</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_THE_WILD_HUNT_OPTION_1</zType>
+		<zName>I refused the Wild Hunt</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_A_FAMILY_WARNING_OPTION_1</zType>
+		<zName>Imprisoned member of noble family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_JOB_OPENING_OPTION_0</zType>
+		<zName>I took over a minister's role on the council</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_FAMILY_COUNCIL_OPTION_0</zType>
+		<zName>Imprisoned those who wished to curb my power</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_FAMILY_COUNCIL_OPTION_2</zType>
+		<zName>Attemped cooperative leadership</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_AN_EXODUS_OPTION_0</zType>
+		<zName>Nobles abandoned our nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_AN_EXODUS_OPTION_1</zType>
+		<zName>I made peace with my rivals</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_A_BITTER_ALLIANCE_OPTION_0</zType>
+		<zName>Warred with former allies</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_A_MAN_OF_PEACE_OPTION_1</zType>
+		<zName>Disagreed with retiring general</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DAUGHTERS_DREAM_OPTION_0</zType>
+		<zName>Executed a murderous father</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_TOO_MUCH_OF_A_GOOD_THING_OPTION_0</zType>
+		<zName>I defied medicine</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_ROYAL_BIRTH_PRESENT</zType>
+		<zName>Royal Birth</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BULLYING_HEIR_ESCALATION_DISCOVERED_OK</zType>
+		<zName>Plotted to kill own Heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_BRUTAL_HEIR_OPTION_1</zType>
+		<zName>Allowed heir to act out</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HEIR_HOLY_WAR_OPTION_0</zType>
+		<zName>Dealt with zealots</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HEIR_COMING_OF_AGE_GIFTS_PLAYER</zType>
+		<zName>Coming of Age</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HEIR_OF_CORRUPTION_OPTION_2</zType>
+		<zName>Ejected my heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MASTER_OF_WHISPERS_FRIENDS</zType>
+		<zName>Just friends</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ASSASSINATION_BETRAYAL_ADMIT</zType>
+		<zName>Assassination Betrayal</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FAMILY_PARTISANS_HELP</zType>
+		<zName>Made concessions to a Furious Family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SABOTAGE_OK</zType>
+		<zName>Punished disloyal Family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FAVORED_VASSAL_CEREMONY_OK_PLAYER</zType>
+		<zName>Vassal Ceremony</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_A_PROMOTION_OPTION_2_CHARACTER_1</zType>
+		<zName>Installed a Steward of the Chamber</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_POISON_ON_THE_TREE_OPTION_0_CHARACTER_1</zType>
+		<zName>Purged conspirator</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_A_GRUESOME_EXAMPLE_OPTION_0_CHARACTER_1</zType>
+		<zName>No more taking prisoners</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_FOREIGN_FIGHTERS_OPTION_1_CHARACTER_1</zType>
+		<zName>Refused foreign fighters</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_TABOOS_OPTION_0_CHARACTER_1</zType>
+		<zName>Refused to allow human dissections</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GP_LEFT_BEHIND_OPTION_2_CHARACTER_1</zType>
+		<zName>I gilded my halls with imported marble</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DEATH_VANISHED_OPTION_2</zType>
+		<zName>Disapproved of my dead child's behavior</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DEATH_THE_PRICE_OF_POWER_OPTION_0_CHARACTER</zType>
+		<zName>I disowned my tainted child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_0_CHARACTER_0</zType>
+		<zName>Adopted a mysterious child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_MYSTERIOUS_INFANT_OPTION_2_CHARACTER_0</zType>
+		<zName>Refused adoption of mysterious child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_ENLISTMENT_OPTION_0</zType>
+		<zName>Urged child to join military</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_COMMON_LOVE_OPTION_1_CHARACTER_0</zType>
+		<zName>Child married a commoner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_THE_PUPPIES_OPTION_1_CHARACTER_1</zType>
+		<zName>Had to enlist problem child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHILD_ELOPED_OPTION_2</zType>
+		<zName>Brought back eloping child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DOWNWARD_SPIRAL_OPTION_1</zType>
+		<zName>Stayed in city while spouse mourned</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_OPPORTUNISTS_OPTION_1</zType>
+		<zName>Stood up to rival threats</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_OPPORTUNISTS_OPTION_2</zType>
+		<zName>Imprisoned rival who threatened me</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_HARSH_WORDS_OPTION_0</zType>
+		<zName>Bowed to the military's will</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_WISDOM_WITH_AGE_OPTION_1</zType>
+		<zName>Kept the laws of succession</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_BLOODLESS_REBELLION_OPTION_0</zType>
+		<zName>Forced to abdicate</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_BLOODLESS_REBELLION_OPTION_2</zType>
+		<zName>Brought my rival to ruin</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_LEGACY_OF_GOLD_OPTION_0</zType>
+		<zName>Protected my legacy of riches</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_TWILIGHT_YEARS_OPTION_0_CHARACTER_2</zType>
+		<zName>Parent abdicated to me</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_THE_HEIRS_CUP_POISONED_OPTION_0</zType>
+		<zName>Poisoned my predecessor</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_FINAL_CAMPAIGN_OPTION_1</zType>
+		<zName>Cemented my martial legacy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADER_BIOGRAPHY_OPTION_0</zType>
+		<zName>Refused a biography of my life</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_PROBLEM_CHILD_OPTION_0</zType>
+		<zName>Made foolish sibling chancellor</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_DEATH_IN_THE_FAMILY_OPTION_1</zType>
+		<zName>Admitted military blunder</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATED_RIVAL_MENTOR_OPTION_1_CHARACTER_1</zType>
+		<zName>Allow rival to influnce our child</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATE_AIR_OF_CERTAINTY_OPTION_2</zType>
+		<zName>Could not decide between child and courtier</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_2_CHARACTER_1</zType>
+		<zName>Covered up child's misdeeds</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATE_TAKING_THE_MANTLE_OPTION_1_CHARACTER_1</zType>
+		<zName>Bowed to pressure over governship</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATE_A_RAISED_VOICE_OPTION_0_CHARACTER_1</zType>
+		<zName>Let criticism go unanswered</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GRADUATE_A_RAISED_VOICE_OPTION_2_CHARACTER_1</zType>
+		<zName>Disciplined rowdy youth</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLEA_FOR_MERCY_YES</zType>
+		<zName>Mercy for the guily</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WORD_OF_A_COUP_THE_COUP_SUCCEEDS</zType>
+		<zName>Successful Coup</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LOVE_AFFAIR_END</zType>
+		<zName>Forced to send away my lover</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_0_CHARACTER_0</zType>
+		<zName>Caved to demands for special recognition</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_02_OPTION_0_CHARACTER_0</zType>
+		<zName>Expelled attempt usurper</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_NEW_FRIENDS_01_OPTION_1_CHARACTER_0</zType>
+		<zName>Accused courtiers of corruption</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_NEW_FRIENDS_01_OPTION_2_CHARACTER_0</zType>
+		<zName>Ingratiated myself to rival</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_A_RULER_FALLS_OPTION_2_CHARACTER_0</zType>
+		<zName>Kept a foreign assassination secret</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PAY_TO_PLAY_OPTION_0_CHARACTER_1</zType>
+		<zName>Refused to pay courtier dispensation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_AFFAIRS_OF_THE_HEART_OPTION_2_CHARACTER_1</zType>
+		<zName>Executed a nosy churl</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_1_CHARACTER_1</zType>
+		<zName>Faced charges of wickedness in court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_WARMONGERS_OPTION_1_CHARACTER_1</zType>
+		<zName>Waged war against barbarians</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_THE_SPEECHES_OPTION_1_CHARACTER_1</zType>
+		<zName>Addressed critical speeches</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ALLIANCE_UPKEEP_LEGITIMACY</zType>
+		<zName>Humbled ourselves for a link(CONCEPT_ALLIANCE_PLAYER)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBE_ALLIANCE_UPKEEP_LEGITIMACY</zType>
+		<zName>Humbled ourselves for a link(CONCEPT_ALLIANCE_TRIBE)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_LOVE_KILLS_OPTION_0_CHARACTER_2</zType>
+		<zName>Decried murder allegations</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_FAMILY_FEUD_OPTION_0_CHARACTER_1</zType>
+		<zName>Bowed to pressure from Oligarch.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_EXPLORING_ENDS_LEGITIMACY</zType>
+		<zName>Commissioned a great exploration</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_DEATH_COMES_OPTION_0_CHARACTER_1</zType>
+		<zName>Begged for a foreign ruler's forgiveness</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_A_CALL_FOR_HELP_OPTION_2_CHARACTER_1</zType>
+		<zName>Brokered peace between warring nations</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_INSIDER_OPTION_2_CHARACTER_1</zType>
+		<zName>Refused foreign ruler's demands</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CHARACTER_A_NOBLE_UPBRINGING_OPTION_1_PLAYER</zType>
+		<zName>Did not fraternize captured princess</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_AT_DEATHS_DOOR_OPTION_2_CHARACTER_1</zType>
+		<zName>Ignored ruler's desperate plea</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MOTHER_IN_EXILE_RETURN</zType>
+		<zName>Let a murderer return home.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNFAITHFUL_TIDINGS_STOP_LEADER</zType>
+		<zName>Chastened for being unfaithful.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CONFIRMATION_YES</zType>
+		<zName>Bullied to confirm my heir.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_VISITOR_FROM_THE_EAST_OPTION_2_CHARACTER_1</zType>
+		<zName>Refused influence of foreign prophet </zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TUTOR_RULE_OF_LAW_OPTION_0_CHARACTER_2</zType>
+		<zName>Recognized as seat of law</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TUTOR_BETRAYED_OPTION_1_CHARACTER_2</zType>
+		<zName>Left the heir's fate to chance</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_SECRET_STRIKE_OPTION_0_CHARACTER_0</zType>
+		<zName>Refused to approve murder plot</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTSTORY_TRAIT_ENTRAILS</zType>
+		<zName>Held audience with diviner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_DISTURBING_THE_PEACE_OPTION_2_CHARACTER_0</zType>
+		<zName>Held foreign heir for ransom</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FREED_SLAVE_KEEP</zType>
+		<zName>Stood up to Epictetus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_WILD_REVELS_OPTION_1_CHARACTER_0</zType>
+		<zName>Did not participate in wild revels (but really did)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_RIDING_CONTEST_OPTION_1_CHARACTER_0</zType>
+		<zName>Rode in barbarian contests</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_AMNESTY_OPTION_1_CHARACTER_0</zType>
+		<zName>Defied calls to release prisoner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_SECRET_FUND_OPTION_0_CHARACTER</zType>
+		<zName>Overlooked family tax theft</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_PUSHED_TOO_FAR_OPTION_0_CHARACTER_0</zType>
+		<zName>Gave vengeful courtier a second chance</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_PUSHED_TOO_FAR_OPTION_1_CHARACTER_0</zType>
+		<zName>Punished treacherous courtier</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_THE_TRAVELER_OPTION_2_CHARACTER_0</zType>
+		<zName>Gave bed to traveling beggar</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_SACRILEGE_OPTION_0_CHARACTER</zType>
+		<zName>Appeased barbarians</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNCHALLENGED_OPTION_0_CHARACTER_1</zType>
+		<zName>Returned with stories of my authority</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_THE_MYSTIC_OPTION_0</zType>
+		<zName>Brought a strange mystic to court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_MONKEYS_PAW_OPTION_1_CHARACTER_1</zType>
+		<zName>Ignored childish stories</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CUTS_BOTH_WAYS_OPTION_0_CHARACTER_0</zType>
+		<zName>My renown grows... by supenatural means</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CRONE_KILLER_OPTION_0_CHARACTER_0</zType>
+		<zName>Slayed a dastardly crone</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_IN_PRIVATE_OPTION_2_CHARACTER_1</zType>
+		<zName>Rebuffed barbarian ruler</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_SURPRISE_PROPOSAL_OPTION_2_CHARACTER_1</zType>
+		<zName>Married barbrian leader</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_THE_ORPHAN_EATER_OPTION_0_CHARACTER_3</zType>
+		<zName>Refused a barbarian general</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_REQUEST_REFUSED_OPTION_0_CHARACTER_1</zType>
+		<zName>Pleaded with barbarian ruler</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLEA_FOR_LENIENCY_OPTION_1_CHARACTER_2</zType>
+		<zName>Refused leniency for political prisoner</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_ALLIES_OF_CONVENIENCE_OPTION_3_CHARACTER_2</zType>
+		<zName>Exposed potential plotters</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_YOUR_SPOUSES_WEDDING_OPTION_2_CHARACTER_0</zType>
+		<zName>Insulted foreign ruler on wedding day</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_IN_SEARCH_OF_TRUTH_OPTION_0_CHARACTER_1</zType>
+		<zName>Insisted that royal heir return to court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_CARAVAN_ATTACK_OPTION_1_CHARACTER_1</zType>
+		<zName>Would not accept blame for barbarian incident</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_1_CHARACTER_2</zType>
+		<zName>Punished plotter</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_LONG_NIGHT_OPTION_1_CHARACTER_1</zType>
+		<zName>Executed my murderous heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNEXPECTED_GUEST_OPTION_1_CHARACTER_2</zType>
+		<zName>Scolded Heir for interrupting meeting</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_VIOLENT_ALTERCATION_OPTION_1_CHARACTER_2</zType>
+		<zName>Ruler refused to punish rightful heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DISHONOR_OUR_ANCESTORS_OPTION_1_CHARACTER_2</zType>
+		<zName>Imprisoned rightful heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ROGUE_NATION_OPTION_0_CHARACTER_1</zType>
+		<zName>Allowed some city autonomy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SNAKE_CHARMER_OPTION_0_CHARACTER_1</zType>
+		<zName>Did not seek revenge on tribal ruler</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_FEEL_THE_PRESSURE_OPTION_0_CHARACTER_1</zType>
+		<zName>Would not bow to pressure</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEGITIMIZE_BASTARDS_BODY_RELEASE</zType>
+		<zName>We did not prosecute the murder of a royal bastard.</zName>
+	</Entry>
+		<zName>Helped your people after a forest fire</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_0_PLAYER</zType>
+		<zName>Invited forest fire orphan to your Court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_1_PLAYER</zType>
+		<zName>Forest fire orphan became a Scribe</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_1_PLAYER</zType>
+		<zName>Preserved an ancient tomb</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_0_PLAYER</zType>
+		<zName>Looted an ancient tomb</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_2_PLAYER</zType>
+		<zName>Refused to honor an ancient tomb</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_1_PLAYER</zType>
+		<zName>Decreed an ancient tomb to be a Monument</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEW_TYPE_OF_ANIMAL_SYMBOL_PLAYER</zType>
+		<zName>Made noble creature a symbol of our nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_CRABS_OPTION_0_PLAYER</zType>
+		<zName>Nurtured local crabbing industry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_OPTION_0_PLAYER</zType>
+		<zName>Nurtured local fishing industry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_A_BEACON_OPTION_0_CHARACTER_1</zType>
+		<zName>Added foreign refugees to military</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_A_BEACON_OPTION_2_CHARACTER_1</zType>
+		<zName>Gave foreign refugees citizenship</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_2_CHARACTER</zType>
+		<zName>Established a state religion.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_1_CHARACTER</zType>
+		<zName>Permitted anti-slavery sentiment</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_1_CHARACTER</zType>
+		<zName>Paid to influence nobles</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GLADIATOR_GAMES_SOLDIER</zType>
+		<zName>Personally trained a cohort of link(PROJECT_GLADIATORS)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_OLYMPIAD_SPEECH</zType>
+		<zName>Eloquent speech during the link(PROJECT_OLYMPICS)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_LABYRINTH_SUCCESS</zType>
+		<zName>Solved the infamous link(PROJECT_LABYRINTH)</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CITY_ANARCHY_DISTRACT</zType>
+		<zName>Choose to entertain the rebels</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_REFUSE</zType>
+		<zName>Refused charitable donation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_1_PLAYER</zType>
+		<zName>Forbid the veneration of ancestors</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_2_CHARACTER</zType>
+		<zName>Avoided difficult decision about religion</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SHRINE_REFUSE</zType>
+		<zName>Refused to bow to the pagans</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_0_CHARACTER</zType>
+		<zName>Clarified my mortality</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_0_CHARACTER_0</zType>
+		<zName>Considered coin debasement</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_COLOSSUS_ANCESTOR</zType>
+		<zName>Dedication of the Colossus</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NECROPOLIS_RECORD_CITY</zType>
+		<zName>Records at the Necropolis</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DINOSAUR_BONES_SLAVERY_VERSION_OPTION_2</zType>
+		<zName>Destroyed the bones of monsters</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DINOSAUR_BONES_FREEDOM_VERSION_OPTION_3</zType>
+		<zName>Commissioned an epic poem about Dragons</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DINOSAUR_BONES_LITERATURE_VERSION_OPTION_2</zType>
+		<zName>Preserved bones for study</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PILLAGING_TRIBE_SUCCESS</zType>
+		<zName>Pillaging Revenge</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_EXOTIC_PETS_MONKEY_BAD_POLITICS</zType>
+		<zName>Too much monkey business</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MYSTERIOUS_SWORD_USING_DISPLAY_LEADER</zType>
+		<zName>Displaying the Sword</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MYSTERIOUS_SWORD_BREAK_ACCEPT</zType>
+		<zName>Sword Break</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INSOLENT_GENERALS_TRAINING_CHARACTER_0</zType>
+		<zName>Allowed us to be insulted</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_VIEW_FROM_THE_THRONE_OPTION_2</zType>
+		<zName>I sit alone on the high throne</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WONDER_ETERNAL_REST_OPTION_2</zType>
+		<zName>I built myself a grand Mausoleum</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WONDER_GODS_AND_MEN_OPTION_0</zType>
+		<zName>Built a dynastic sanctuary</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_NOMADS_OPTION_1</zType>
+		<zName>Refused to permit a foreign faith</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_THE_APOSTLES_OPTION_1_CHARACTER</zType>
+		<zName>Broke up Christian gathering</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_YOUR_BLESSING_OPTION_2_CHARACTER_1</zType>
+		<zName>Kept courtier from leaving</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_GADFLY_OPTION_0</zType>
+		<zName>Added gadfly to court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CULTURE_GADFLY_OPTION_1</zType>
+		<zName>Banished a gadfly from nation</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TECH_VAULTING_NEW_OBSESSION_OPTION_0_CHARACTER_0</zType>
+		<zName>Chose a new royal ambition</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TECH_LATEEN_CAPSIZED_SPIES_OPTION_0_CHARACTER_0</zType>
+		<zName>Revealed treachery</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TECH_WINDLASS_ROPE_AND_WINCH_OPTION_0_CHARACTER_0</zType>
+		<zName>Refused to build torture device</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TECH_BARDING_NOBLE_EXCESS_OPTION_0_CHARACTER_0</zType>
+		<zName>Claimed noble's horse armor</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TECH_BARDING_CLEMENCY_OPTION_2_CHARACTER_0</zType>
+		<zName>Negotiated political exile</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_TREACHERY_OPTION_2_CHARACTER_1</zType>
+		<zName>Bowed to traitor's pressure</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_BAD_BLOOD_OPTION_2_CHARACTER_1</zType>
+		<zName>Warned other nation against meddling</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_FAMILY_DEBTS_OPTION_1_CHARACTER_1</zType>
+		<zName>Threatened lowly debt collectors</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_FAMILY_DEBTS_OPTION_2_CHARACTER_1</zType>
+		<zName>Threatened lowly debt collectors</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_THE_CONVERTED_OPTION_3_CHARACTER_0</zType>
+		<zName>Bent to Christian influence</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_AWAITING_EXECUTION_OPTION_1_CHARACTER</zType>
+		<zName>Did not mix politics and religion</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGION_OUR_ALLEGIANCE_OPTION_1_CHARACTER</zType>
+		<zName>My armies fight for me, not a god</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRAIT_MONSOON_OPTION_2_CHARACTER</zType>
+		<zName>Continued exploring</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_SHARED_INTERESTS_OPTION_0_CHARACTER</zType>
+		<zName>Formed friendship with foreign ruler</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_MAKING_PEACE_OPTION_1_CHARACTER_1</zType>
+		<zName>Sentence mutinous general to short prison term</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_2_CHARACTER_1</zType>
+		<zName>Toyed with foreign ruler</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_INNER_CIRCLE_OPTION_0</zType>
+		<zName>Added foreign adviser to court</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_MORAL_DEGRADATION_OPTION_0_CHARACTER_1</zType>
+		<zName>Resisted foreign intervention</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_0_CHARACTER_1</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_RELATIONSHIP_GIVE_AN_INCH_OPTION_0_CHARACTER_1]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HAPPINESS_PLEASURE_BANQUET_OPTION_2</zType>
+		<zName>Made a fool of myself at a banquet</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_REINED_IN_OPTION_1_CHARACTER_0</zType>
+		<zName>Refused to impose tyranny</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HANDS_TIED_OPTION_2_CHARACTER_0</zType>
+		<zName>Publicly admonished outspoken heir</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_BIG_PICTURE_OPTION_1_CHARACTER_0</zType>
+		<zName>Defended law</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SUPPLY_CHAIN_WOES_OPTION_0_CHARACTER_0</zType>
+		<zName>Caved to worker protests</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_IRREPARABLE_DAMAGE_OPTION_2_CHARACTER_0</zType>
+		<zName>Broke up radical sect</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SMALL_MINDEDNESS_OPTION_1_CHARACTER_0</zType>
+		<zName>Bullied by rival family</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEADERS_OR_LUNATICS_OPTION_2_CHARACTER_0</zType>
+		<zName>Removed eccentric governor</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_A_MESSY_AFFAIR_OPTION_1_CHARACTER_1</zType>
+		<zName>Investigated controversial murder</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_HIRED_KILLERS_OPTION_2_CHARACTER_0</zType>
+		<zName>Pledged to root out conspirators</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LAST_KISS_OPTION_0_CHARACTER_2</zType>
+		<zName>Accuse family of murder</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_WOOD_SHORTAGES_OPTION_0_PLAYER_0</zType>
+		<zName>Needed foreign aid</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SLANDER_NO_MORE_SECRETS_OPTION_0_PLAYER_0</zType>
+		<zName>Spies surrendered secrets</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PACIFY_SEND_HIM_OUT_OPTION_2_PLAYER</zType>
+		<zName>Heard rebellious city's demands</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DIVORCE_FLIGHT_FROM_NATION_OPTION_0_CHARACTER_0</zType>
+		<zName>Declared traitorous heir illegitimate</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INFLUENCE_A_DEADLY_REQUEST_OPTION_2_CHARACTER_2</zType>
+		<zName>Fought off usurpers</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FEAR_OF_THE_OTHER_OPTION_1_CHARACTER_3</zType>
+		<zName>Ignored public unrest</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SECRET_RITUALS_OPTION_0_CHARACTER_3</zType>
+		<zName>Did not enforce authority</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_SPECIAL_STATUS_OPTION_2_CHARACTER_1</zType>
+		<zName>Fought to end corruption</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_IN_REMEMBRANCE_OPTION_1_CHARACTER_2</zType>
+		<zName>Refused to honor one ruler above all</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MILITARY_GRIEVANCES_OPTION_0_CHARACTER_2</zType>
+		<zName>Refused military pressure</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBAL_MERCENARIES_0</zType>
+		<zName>Took Tribal Mercenaries</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBAL_MERCENARIES_1</zType>
+		<zName>Took Tribal Mercenaries</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TRIBAL_MERCENARIES_2</zType>
+		<zName>Refused Tribal Mercenaries</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TWO_MOTHERS_ONE_CHILD_2</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_TWO_MOTHERS_ONE_CHILD_2]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_END_OF_A_SIEGE_BAD_OPTION_1</zType>
+		<zName>Fooled by a wooden horse</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TROOPS_RANSACK_OPTION_1_LEADER</zType>
+		<zName>Gave away our share of the spoils</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_TROOPS_RANSACK_SLAVERY_OPTION_2</zType>
+		<zName>Showed our enemies no mercy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MERCENARY_DEMANDS_YES</zType>
+		<zName>Caved to mercenary demands</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_POLEMICIST_GRACIOUS</zType>
+		<zName>Ignored a hostile polemicist</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_POLEMICIST_ELOQUENT</zType>
+		<zName>Rebutted a hostile polemicist</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RIOTS_AT_THE_RACES_OPTION_1</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_RIOTS_AT_THE_RACES_OPTION_1]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEGITIMACY_MONTH</zType>
+		<zName>Added an extra month to a year</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LEGITIMACY_CALENDAR</zType>
+		<zName>Named a new calendar after oneself</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CAPTURED_NOBLE_EXECUTE</zType>
+		<zName>We take no prisoners</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MONUMENTAL_EVENING</zType>
+		<zName>A memorable feast was thrown in your honor.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_DISMAL_EVENING</zType>
+		<zName>A terrible feast was thrown in your honor.</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_CODE_OF_LAWS_MYSELF_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_CODE_OF_LAWS_MYSELF_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_NAIVE_AMBASSADOR_CHASTIZE_CHARACTER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_NAIVE_AMBASSADOR_CHASTIZE_CHARACTER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FIFTH_COLUMN_EXECUTE_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_FIFTH_COLUMN_EXECUTE_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_FIFTH_COLUMN_DENY_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_FIFTH_COLUMN_DENY_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INTERFAITH_DIALOGUE_ATTEND_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_INTERFAITH_DIALOGUE_ATTEND_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_NO_SUSPICION_TERROR_DISMISS_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_NO_SUSPICION_TERROR_DISMISS_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_SUSPICION_CAUGHT_RED_HANDED_SELF_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_SUSPICION_CAUGHT_RED_HANDED_SELF_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_COHORTES_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_COHORTES_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_EXECUTION_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_THE_MENACE_ELIMINATED_EXECUTION_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_A_FIERY_END_HIGHPROB_REPAIR</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_KILLED_IN_COLD_WATER_A_FIERY_END_HIGHPROB_REPAIR]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LOST_IN_TRANSLATION_DEALMAKER_PLAYER_0</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_LOST_IN_TRANSLATION_DEALMAKER_PLAYER_0]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_A_GREEN_DEDICATION_SELF_CHARACTER_1</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_A_GREEN_DEDICATION_SELF_CHARACTER_1]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_GOLDEN_GIFTS_WEAR_CHARACTER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_GOLDEN_GIFTS_WEAR_CHARACTER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_VICTORY_FOR_THE_LEADER_SELF_CHARACTER_0</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_VICTORY_FOR_THE_LEADER_SELF_CHARACTER_0]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_1_PLAYER_0</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_1_PLAYER_0]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_2_PLAYER_0</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_RESISTANCE_TO_ATENISM_OPTION_2_PLAYER_0]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PURIM_BAN_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_PURIM_BAN_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLOT_BY_HERETICS_SURRENDER_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_PLOT_BY_HERETICS_SURRENDER_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_ATENISM_PLOT_UNCOVERED_PUNISH_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_ATENISM_PLOT_UNCOVERED_PUNISH_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BLOODSHED_AMONG_THE_RIGHTEOUS_ELOQUENT_CHARACTER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_BLOODSHED_AMONG_THE_RIGHTEOUS_ELOQUENT_CHARACTER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_COMING_OF_AGE_SELF_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_COMING_OF_AGE_SELF_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INAPPROPRIATE_FAITH_CONVINCE_LEGITIMACY</zType>
+		<zName>Led a family to the light</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_AN_UNUSUAL_CHANCELLOR_PROCLAIM</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_AN_UNUSUAL_CHANCELLOR_PROCLAIM]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_INSOLENT_GENERAL_OPTION_1_PLAYER</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_INSOLENT_GENERAL_OPTION_1_PLAYER]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNEXPECTED_REUNION_REINSTATE_CHARACTER_1</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_UNEXPECTED_REUNION_REINSTATE_CHARACTER_1]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_UNEXPECTED_REUNION_IMPRISON_CHARACTER_1</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_UNEXPECTED_REUNION_IMPRISON_CHARACTER_1]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_BATTLE_IN_THE_SKIES_LEGITIMACY_CITY</zType>
+		<zName>[STUB: BONUS_EVENTOPTION_BATTLE_IN_THE_SKIES_LEGITIMACY_CITY]</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_RELIGIOUS_PILGRIMS_WAR_HOSTAGES_FAIL_DEPORT_CHARACTER</zType>
+		<zName>Failed to deal with foreign hostages</zName>
+	</Entry>
+</Root>
