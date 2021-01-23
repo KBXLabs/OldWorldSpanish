@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
 <Root>
 	<Entry>
 		<zType/>
@@ -23,7 +22,7 @@
 	</Entry>
 	<Entry>
 		<zType>PING_FOUND</zType>
-		<zName>*Fundar</zName>
+		<zName>**Fundar</zName>
 	</Entry>
 	<Entry>
 		<zType>PING_NOTE</zType>

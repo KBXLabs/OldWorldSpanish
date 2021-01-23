@@ -1,0 +1,1075 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<Entry>
+		<zType />
+		<zName />
+	</Entry>
+	<Entry>
+		<zType>COLOR_SELECTION</zType>
+		<zName>Selection</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SELECTION_FADED</zType>
+		<zName>Faded</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SELECTION_SPECIAL</zType>
+		<zName>Special</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TILE_HIGHLIGHT</zType>
+		<zName>Tile Highlight</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_WHITE</zType>
+		<zName>White</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_POSITIVE</zType>
+		<zName>Positive</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_AVERAGE</zType>
+		<zName>Average</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NEGATIVE</zType>
+		<zName>Negative</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_1</zType>
+		<zName>Boundary 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_2</zType>
+		<zName>Boundary 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_3</zType>
+		<zName>Boundary 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_4</zType>
+		<zName>Boundary 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_5</zType>
+		<zName>Boundary 5</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_NEGATIVE</zType>
+		<zName>Boundary Unable</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_BOUNDARY_FATIGUE</zType>
+		<zName>Boundary Fatigue</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_1</zType>
+		<zName>Region 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_2</zType>
+		<zName>Region 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_3</zType>
+		<zName>Region 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_4</zType>
+		<zName>Region 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_5</zType>
+		<zName>Region 5</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_NEGATIVE</zType>
+		<zName>Region Unable</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MOVEMENT_REGION_FATIGUE</zType>
+		<zName>Region Fatigue</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_MULTIPLIER_FOUND_BORDER_PREVIEW</zType>
+		<zName>Found Border</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LINK</zType>
+		<zName>Link</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LINK_HIGHLIGHTED</zType>
+		<zName>Link Highlighted</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SECONDARY_TEXT</zType>
+		<zName>Secondary Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SLEEP</zType>
+		<zName>Sleep</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_COOLDOWN</zType>
+		<zName>Cooldown</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HEIGHT_HILL</zType>
+		<zName>Hill</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_FURIOUS</zType>
+		<zName>Furious</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_ANGRY</zType>
+		<zName>Angry</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_UPSET</zType>
+		<zName>Upset</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_CAUTIOUS</zType>
+		<zName>Cautious</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_PLEASED</zType>
+		<zName>Pleased</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_OPINION_FRIENDLY</zType>
+		<zName>Friendly</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BANNER_COOLDOWN</zType>
+		<zName>Banner Cooldown</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_CAN_ATTACK</zType>
+		<zName>Can Attack</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NEXT_TILE</zType>
+		<zName>Next Tile</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HEALTH_MAX</zType>
+		<zName>Max Health</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HEALTH_HIGH</zType>
+		<zName>High Health</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HEALTH_LOW</zType>
+		<zName>Low Health</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HEALTH_NONE</zType>
+		<zName>No Health</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DAMAGE</zType>
+		<zName>Damage</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_UNIT_MOVE</zType>
+		<zName>Move</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_UNIT_FATIGUE_MOVE</zType>
+		<zName>Fatigue Move</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_FORTIFY</zType>
+		<zName>Fortify</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TESTUDO</zType>
+		<zName>Testudo</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_FORTIFY_NONE</zType>
+		<zName>No Fortify</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DANGER</zType>
+		<zName>Danger</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_CAPITAL_CONNECTION</zType>
+		<zName>Capital Connection</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_VALID_CAPITAL_CONNECTION</zType>
+		<zName>Valid Capital Connection</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_CITY_CONNECTION</zType>
+		<zName>City Connection</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_VALID_CITY_CONNECTION</zType>
+		<zName>Valid City Connection</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NEUTRAL_ZOC</zType>
+		<zName>Neutral Zone of Control</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_HOSTILE_ZOC</zType>
+		<zName>Hostile Zone of Control</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_ATTACK_OVERLAY</zType>
+		<zName>Attack</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_WATER_CONTROL_ENEMY</zType>
+		<zName>Water Control</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_IDLE</zType>
+		<zName>Idle</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_IDLE_MELEE</zType>
+		<zName>Idle Melee</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_IDLE_RANGED</zType>
+		<zName>Idle Ranged</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RESOURCE</zType>
+		<zName>Resource</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA</zType>
+		<zName>Assyria</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_TEXT</zType>
+		<zName>Assyria Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_01</zType>
+		<zName>Assyria Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_01_TEXT</zType>
+		<zName>Assyria Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_02</zType>
+		<zName>Assyria Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_02_TEXT</zType>
+		<zName>Assyria Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_03</zType>
+		<zName>Assyria Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_03_TEXT</zType>
+		<zName>Assyria Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_04</zType>
+		<zName>Assyria Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_04_TEXT</zType>
+		<zName>Assyria Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_NONE</zType>
+		<zName>Assyria Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ASSYRIA_FAMILY_NONE_TEXT</zType>
+		<zName>Assyria Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA</zType>
+		<zName>Babylon</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_TEXT</zType>
+		<zName>Babylon Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_01</zType>
+		<zName>Babylon Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_01_TEXT</zType>
+		<zName>Babylon Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_02</zType>
+		<zName>Babylon Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_02_TEXT</zType>
+		<zName>Babylon Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_03</zType>
+		<zName>Babylon Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_03_TEXT</zType>
+		<zName>Babylon Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_04</zType>
+		<zName>Babylon Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_04_TEXT</zType>
+		<zName>Babylon Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_NONE</zType>
+		<zName>Babylon Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_BABYLONIA_FAMILY_NONE_TEXT</zType>
+		<zName>Babylon Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE</zType>
+		<zName>Carthage</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_TEXT</zType>
+		<zName>Carthage Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_01</zType>
+		<zName>Carthage Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_01_TEXT</zType>
+		<zName>Carthage Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_02</zType>
+		<zName>Carthage Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_02_TEXT</zType>
+		<zName>Carthage Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_03</zType>
+		<zName>Carthage Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_03_TEXT</zType>
+		<zName>Carthage Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_04</zType>
+		<zName>Carthage Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_04_TEXT</zType>
+		<zName>Carthage Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_NONE</zType>
+		<zName>Carthage Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_CARTHAGE_FAMILY_NONE_TEXT</zType>
+		<zName>Carthage Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT</zType>
+		<zName>Egypt</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_TEXT</zType>
+		<zName>Egypt Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_01</zType>
+		<zName>Egypt Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_01_TEXT</zType>
+		<zName>Egypt Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_02</zType>
+		<zName>Egypt Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_02_TEXT</zType>
+		<zName>Egypt Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_03</zType>
+		<zName>Egypt Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_03_TEXT</zType>
+		<zName>Egypt Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_04</zType>
+		<zName>Egypt Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_04_TEXT</zType>
+		<zName>Egypt Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_NONE</zType>
+		<zName>Egypt Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_EGYPT_FAMILY_NONE_TEXT</zType>
+		<zName>Egypt Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE</zType>
+		<zName>Greece</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_TEXT</zType>
+		<zName>Greece Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_01</zType>
+		<zName>Greece Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_01_TEXT</zType>
+		<zName>Greece Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_02</zType>
+		<zName>Greece Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_02_TEXT</zType>
+		<zName>Greece Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_03</zType>
+		<zName>Greece Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_03_TEXT</zType>
+		<zName>Greece Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_04</zType>
+		<zName>Greece Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_04_TEXT</zType>
+		<zName>Greece Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_NONE</zType>
+		<zName>Greece Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_GREECE_FAMILY_NONE_TEXT</zType>
+		<zName>Greece Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME</zType>
+		<zName>Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_TEXT</zType>
+		<zName>Rome Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_01</zType>
+		<zName>Rome Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_01_TEXT</zType>
+		<zName>Rome Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_02</zType>
+		<zName>Rome Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_02_TEXT</zType>
+		<zName>Rome Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_03</zType>
+		<zName>Rome Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_03_TEXT</zType>
+		<zName>Rome Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_04</zType>
+		<zName>Rome Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_04_TEXT</zType>
+		<zName>Rome Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_NONE</zType>
+		<zName>Rome Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_ROME_FAMILY_NONE_TEXT</zType>
+		<zName>Rome Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA</zType>
+		<zName>Persia</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_TEXT</zType>
+		<zName>Persia Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_01</zType>
+		<zName>Persia Family 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_01_TEXT</zType>
+		<zName>Persia Family 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_02</zType>
+		<zName>Persia Family 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_02_TEXT</zType>
+		<zName>Persia Family 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_03</zType>
+		<zName>Persia Family 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_03_TEXT</zType>
+		<zName>Persia Family 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_04</zType>
+		<zName>Persia Family 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_04_TEXT</zType>
+		<zName>Persia Family 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_NONE</zType>
+		<zName>Persia Family None</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_NATION_PERSIA_FAMILY_NONE_TEXT</zType>
+		<zName>Persia Family None Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIANS</zType>
+		<zName>Tribes</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIANS_SECONDARY</zType>
+		<zName>Tribes Secondary</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIANS_TEXT</zType>
+		<zName>Tribes Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_01</zType>
+		<zName>Tribe 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_01_TEXT</zType>
+		<zName>Tribe 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_02</zType>
+		<zName>Tribe 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_02_TEXT</zType>
+		<zName>Tribe 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_03</zType>
+		<zName>Tribe 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_03_TEXT</zType>
+		<zName>Tribe 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_04</zType>
+		<zName>Tribe 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_04_TEXT</zType>
+		<zName>Tribe 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_05</zType>
+		<zName>Tribe 5</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_05_TEXT</zType>
+		<zName>Tribe 5 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_06</zType>
+		<zName>Tribe 6</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_06_TEXT</zType>
+		<zName>Tribe 6 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_07</zType>
+		<zName>Tribe 7</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_BARBARIAN_TRIBE_07_TEXT</zType>
+		<zName>Tribe 7 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_01</zType>
+		<zName>Team 1</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_01_TEXT</zType>
+		<zName>Team 1 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_01_SECONDARY</zType>
+		<zName>Team 1 Secondary</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_01_FIRST</zType>
+        <zName>Team 1 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_01_FIRST_TEXT</zType>
+        <zName>Team 1 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_01_OTHERS</zType>
+        <zName>Team 1 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_01_OTHERS_TEXT</zType>
+        <zName>Team 1 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_TEAM_02</zType>
+		<zName>Team 2</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_02_TEXT</zType>
+		<zName>Team 2 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_02_SECONDARY</zType>
+		<zName>Team 2 Secondary</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_02_PLAYER_01</zType>
+		<zName>Team 2 Player 1</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_02_FIRST</zType>
+        <zName>Team 2 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_02_FIRST_TEXT</zType>
+        <zName>Team 2 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_02_OTHERS</zType>
+        <zName>Team 2 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_02_OTHERS_TEXT</zType>
+        <zName>Team 2 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_TEAM_03</zType>
+		<zName>Team 3</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_03_TEXT</zType>
+		<zName>Team 3 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_03_SECONDARY</zType>
+		<zName>Team 3 Secondary</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_03_FIRST</zType>
+        <zName>Team 3 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_03_FIRST_TEXT</zType>
+        <zName>Team 3 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_03_OTHERS</zType>
+        <zName>Team 3 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_03_OTHERS_TEXT</zType>
+        <zName>Team 3 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_TEAM_04</zType>
+		<zName>Team 4</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_04_TEXT</zType>
+		<zName>Team 4 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_04_SECONDARY</zType>
+		<zName>Team 4 Secondary</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_04_FIRST</zType>
+        <zName>Team 4 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_04_FIRST_TEXT</zType>
+        <zName>Team 4 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_04_OTHERS</zType>
+        <zName>Team 4 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_04_OTHERS_TEXT</zType>
+        <zName>Team 4 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_TEAM_05</zType>
+		<zName>Team 5</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_05_TEXT</zType>
+		<zName>Team 5 Text</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_05_SECONDARY</zType>
+		<zName>Team 5 Secondary</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_05_FIRST</zType>
+        <zName>Team 5 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_05_FIRST_TEXT</zType>
+        <zName>Team 5 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_05_OTHERS</zType>
+        <zName>Team 5 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_05_OTHERS_TEXT</zType>
+        <zName>Team 5 Others Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06</zType>
+        <zName>Team 6</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_SECONDARY</zType>
+        <zName>Team 6 Secondary</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_TEXT</zType>
+        <zName>Team 6 Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_FIRST</zType>
+        <zName>Team 6 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_FIRST_TEXT</zType>
+        <zName>Team 6 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_OTHERS</zType>
+        <zName>Team 6 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_06_OTHERS_TEXT</zType>
+        <zName>Team 6 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_TEAM_07</zType>
+		<zName>Team 7</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_07_SECONDARY</zType>
+		<zName>Team 7 Secondary</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TEAM_07_TEXT</zType>
+		<zName>Team 7 Text</zName>
+	</Entry>
+    <Entry>
+        <zType>COLOR_TEAM_07_FIRST</zType>
+        <zName>Team 7 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_07_FIRST_TEXT</zType>
+        <zName>Team 7 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_07_OTHERS</zType>
+        <zName>Team 7 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_07_OTHERS_TEXT</zType>
+        <zName>Team 7 Others Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08</zType>
+        <zName>Team 8</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_SECONDARY</zType>
+        <zName>Team 8 Secondary</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_TEXT</zType>
+        <zName>Team 8 Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_FIRST</zType>
+        <zName>Team 8 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_FIRST_TEXT</zType>
+        <zName>Team 8 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_OTHERS</zType>
+        <zName>Team 8 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_08_OTHERS_TEXT</zType>
+        <zName>Team 8 Others Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09</zType>
+        <zName>Team 9</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_SECONDARY</zType>
+        <zName>Team 9 Secondary</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_TEXT</zType>
+        <zName>Team 9 Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_FIRST</zType>
+        <zName>Team 9 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_FIRST_TEXT</zType>
+        <zName>Team 9 First Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_OTHERS</zType>
+        <zName>Team 9 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_09_OTHERS_TEXT</zType>
+        <zName>Team 9 Others Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10</zType>
+        <zName>Team 10</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10_SECONDARY</zType>
+        <zName>Team 10 Secondary</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10_TEXT</zType>
+        <zName>Team 10 Text</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10_FIRST</zType>
+        <zName>Team 10 First</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10_FIRST_TEXT</zType>
+        <zName>Team 10 First Text</zName>
+    </Entry>
+		<Entry>
+        <zType>COLOR_TEAM_10_OTHERS</zType>
+        <zName>Team 10 Others</zName>
+    </Entry>
+    <Entry>
+        <zType>COLOR_TEAM_10_OTHERS_TEXT</zType>
+        <zName>Team 10 Others Text</zName>
+    </Entry>
+	<Entry>
+		<zType>COLOR_YIELD_GROWTH</zType>
+		<zName>Growth</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_CIVICS</zType>
+		<zName>Civics</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_TRAINING</zType>
+		<zName>Training</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_CULTURE</zType>
+		<zName>Culture</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_DISCONTENT</zType>
+		<zName>Discontent</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_SCIENCE</zType>
+		<zName>Science</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_MONEY</zType>
+		<zName>Money</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_MAINTENANCE</zType>
+		<zName>Maintenance</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_ORDERS</zType>
+		<zName>Orders</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_FOOD</zType>
+		<zName>Food</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_IRON</zType>
+		<zName>Iron</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_WOOD</zType>
+		<zName>Wood</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_STONE</zType>
+		<zName>Stone</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LAW_NORMAL</zType>
+		<zName>Normal</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LAW_ACTIVE</zType>
+		<zName>Active</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LAW_PREVIEW</zType>
+		<zName>Preview</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LAW_HIGHLIGHT</zType>
+		<zName>Highlight</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_LAW_BEST</zType>
+		<zName>Best</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TECH_RESEARCHING</zType>
+		<zName>Researching</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TECH_RESEARCHED</zType>
+		<zName>Researched</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TECH_AVAILABLE</zType>
+		<zName>Available</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TECH_LOCKED</zType>
+		<zName>Locked</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_TECH_TARGETED</zType>
+		<zName>Targeted</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RATING_WISDOM</zType>
+		<zName>Wisdom</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RATING_CHARISMA</zType>
+		<zName>Charisma</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RATING_COURAGE</zType>
+		<zName>Courage</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_RATING_DISCIPLINE</zType>
+		<zName>Discipline</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DIPLOMACY_TEAM</zType>
+		<zName>Team</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DIPLOMACY_PEACE</zType>
+		<zName>Peace</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DIPLOMACY_TRUCE</zType>
+		<zName>Truce</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DIPLOMACY_WAR</zType>
+		<zName>War</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_DIPLOMACY_INACTIVE</zType>
+		<zName>Inactive</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SETTLER_MAIN</zType>
+		<zName>Settler Main</zName>
+	</Entry>
+	<Entry>
+		<zType>COLOR_SETTLER_FLAG_TRIM</zType>
+		<zName>Settler Flag and Trim</zName>
+	</Entry>
+</Root>

@@ -82,7 +82,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_HEAD</zType>
-		<Translation>¡{0_character} és ahora el **jefe del {1_religion}!</Translation>
+		<Translation><![CDATA[¡{0_character} és ahora el <masculine_0>el máximo<feminine>la máxima<end> representante del {1_religion}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RELIGION_FAMILY</zType>
@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_FAMILY_HEAD</zType>
-		<Translation>¡{0_character} és ahora el **jefe de la familia {1_family}!</Translation>
+		<Translation><![CDATA[¡{0_character} és ahora el <masculine_0>el máximo<feminine>la máxima<end> representante de la familia {1_family}!]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_IMPROVEMENT_STARTED</zType>
@@ -238,7 +238,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_LANDMARK_NAMED</zType>
-		<Translation>Eres el primero en descubrir este lugar. ¿Cómo lo llamarías?</Translation>
+		<Translation><![CDATA[Eres el primero en descubrir este lugar.<br>¿Cómo lo llamarías?]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_RAID_WARNING</zType>
@@ -388,7 +388,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
-		<Translation>{0_character} és ahora el **jefe del {1_religion}</Translation>
+		<Translation><![CDATA[{0_character} és ahora <masculine_0>el máximo<feminine>la máxima<end> representante del {1_religion}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
@@ -556,7 +556,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD</zType>
-		<Translation>Está {0_relationship} {1_character}</Translation>
+		<Translation>Estará {0_relationship} de {1_character}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>

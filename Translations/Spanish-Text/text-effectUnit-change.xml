@@ -164,7 +164,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_ROUT</zType>
-		<Translation>Recluta</Translation>
+		<Translation>Carga</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_PANIC</zType>

@@ -6,39 +6,39 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_MAINTAIN_TRUCE_HELP</zType>
-		<Translation>Maintain the initial link(DIPLOMACY_TRUCE).</Translation>
+		<Translation>Mantener la link(DIPLOMACY_TRUCE) inicial.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_DISCERNING_JUDGMENT_JUDGE_HELP</zType>
-		<Translation>This should help stabilize their tribe, for now</Translation>
+		<Translation>Esto debería ayudar a estabilizar su tribu, por ahora.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_HOSTAGE_YES</zType>
-		<Translation>We will return the hostage to end the war.</Translation>
+		<Translation>Devolveremos al rehén para acabar con la guerra.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_HOSTAGE_NO</zType>
-		<Translation>We are not ready to stop the fight.</Translation>
+		<Translation>No estamos listos para detener el combate.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_YES</zType>
-		<Translation>Let us end this.</Translation>
+		<Translation>Terminemos con esto.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_TRUCE_NO</zType>
-		<Translation>Not yet!</Translation>
+		<Translation>¡Todavía no!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_YES</zType>
-		<Translation>Very well...</Translation>
+		<Translation>Muy bien...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_PLAYER_WAR_NO</zType>
-		<Translation>Never!</Translation>
+		<Translation>¡Nunca!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_ACCEPT_LATER</zType>
-		<Translation>Very well, we will prepare a feast for their men.</Translation>
+		<Translation>Muy bien, prepararemos un banquete para sus hombres.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_REJECT</zType>
@@ -46,7 +46,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_HOLE</zType>
-		<Translation>Throw them in the hole we dug in the courtyard.</Translation>
+		<Translation>Tíralos al hoyo que cavamos en el patio.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_STALL_AGAIN</zType>

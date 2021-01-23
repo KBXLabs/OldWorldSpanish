@@ -26,7 +26,7 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_OFFER_ALL</zType>
-		<zText>Ofrecmiento bárbaro (Todos)</zText>
+		<zText>Ofrecimiento bárbaro (Todos)</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_REMOVED_LUXURY</zType>
@@ -38,179 +38,179 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_PLAYER_TRIBE_WAR</zType>
-		<zText>Una nación ha sido convencida para declararnos la guerra</zText>
+		<zText>Una nación fue convencida para declararnos la guerra</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ATTACKED_UNIT</zType>
-		<zText>Nuestras unidades han sido atacadas</zText>
+		<zText>Nuestras unidades fueron atacadas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ATTACKED_SETTLEMENT</zType>
-		<zText>Nuestros emplazamientos han sido atacados</zText>
+		<zText>Nuestros puestos fueron atacados</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DECLARED_WAR</zType>
-		<zText>No ha declarado la guerra</zText>
+		<zText>Nos declararon la guerra</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_EXECUTION</zType>
-		<zText>Han ejecutado a nuestros prisioneros.</zText>
+		<zText>Ejecutaron a nuestros prisioneros</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DESECRATION</zType>
-		<zText>Nuestras tumbas han sido profanadas.</zText>
+		<zText>Nuestras tumbas fueron profanadas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RESPECT</zType>
-		<zText>Nuestras tumbas han sido salvadas.</zText>
+		<zText>Nuestras tumbas fueron respetadas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DENIED_SPOILS</zType>
-		<zText>Han negado el botín de nuestro rival.</zText>
+		<zText>Nos negaron el botín de nuestro rival</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_SALTED_FIELDS</zType>
-		<zText>Quemamos nuestros despojos y salamos nuestros campos</zText>
+		<zText>Nos quemaron nuestros despojos y salaron nuestros campos</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_SHARED_SPOILS</zType>
-		<zText>Botín del rival compartido</zText>
+		<zText>Compartieron el botín del rival</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ZEALOTS_OPPRESSED</zType>
-		<zText>Fanáticos guerreros sometidos</zText>
+		<zText>Sometieron a nuestros guerreros fanáticos</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DISREGARDED_KNOWLEDGE</zType>
-		<zText>Nuestro conocimiento se ha descuidado</zText>
+		<zText>Ignoraron nuestro conocimiento</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RETURNED_HOSTAGE</zType>
-		<zText>Rehén real devuelto</zText>
+		<zText>Nos devolvieron al rehén real</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_KEPT_HOSTAGE</zType>
-		<zText>Un guardia real ha sido capturado como rehén</zText>
+		<zText>Capturaron un guardia real como rehén</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DOOMED_HOSTAGE</zType>
-		<zText>Nuestro rehén real ha sido condenado</zText>
+		<zText>Condenaron a nuestro rehén real</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_MURDERED_QUEEN</zType>
-		<zText>nuestra reina ha sido asesinada</zText>
+		<zText>Asesinaron a nuestra reina</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_INSULTED_CUSTOMS</zType>
-		<zText>Nuestras costumbres han sido despreciadas.</zText>
+		<zText>Despreciaron nuestras costumbres</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ACCEPTED_CUSTOMS</zType>
-		<zText>Nuestras costumbres han sido aceptadas.</zText>
+		<zText>Aceptaron nuestras costumbres</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RETURNED_FAMILY</zType>
-		<zText>La familia real ha vuelto.</zText>
+		<zText>Nos devolvieron a la familia real</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_STOLE_FAMILY</zType>
-		<zText>La familia real ha sido secuestrada</zText>
+		<zText>Secuestraron a la familia real</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_MET_OUR_DELEGATION</zType>
-		<zText>Nuestra delegación ha sido conocida.</zText>
+		<zText>Conocieron nuestra delegación</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_SENT_A_PROXY</zType>
-		<zText>Un intermediario ha sido enviado para conocer a nuestra delegación</zText>
+		<zText>Enviaron a un representante para conocer a nuestra delegación</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ATTACKED_DELEGATION</zType>
-		<zText>Nuestra delegación ha sido atacada</zText>
+		<zText>Atacaron nuestra delegación</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ANNEXED_LAND</zType>
-		<zText>Planeando anexarse a nuestra tierra</zText>
+		<zText>Planearon anexarse a nuestra tierra</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_REFUSED_ANNEXATION</zType>
-		<zText>No se han anexionado a nuestra tierra</zText>
+		<zText>No se anexionaron a nuestra tierra</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_AVOIDED_RUINS</zType>
-		<zText>Ruinas antiguas evitadas</zText>
+		<zText>Evitamos ruinas antiguas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_DESECRATED_RUINS</zType>
-		<zText>Ruinas antiguas profanadas</zText>
+		<zText>Profanamos ruinas antiguas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TREATED_WITH_LEADER</zType>
-		<zText>Han tratado con nuestro líder</zText>
+		<zText>Trataron con nuestro líder</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RESTRICTED_PIRACY</zType>
-		<zText>Piratería tribal restituida</zText>
+		<zText>Restituimos la piratería tribal</zText>
 	</Entry>
 	<Entry beginGroup="Contact">
 		<zType>MEMORYTRIBE_TRIBE_WAR_AMBASSADOR_IF</zType>
-		<zText>Han ofendido a nuestro embajador </zText>
+		<zText>Ofendieron a nuestro embajador </zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TRIBE_CONTACT_AGGRESSION</zType>
-		<zText>Han actuado agresivamente en el primer contacto</zText>
+		<zText>Actuaron agresivamente en el primer contacto</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TRIBE_CONTACT_GAVE_GIFTS</zType>
-		<zText>Nos ha dado regalos en el primer contacto</zText>
+		<zText>Nos dieron regalos en el primer contacto</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TRIBE_CONTACT_RANSOM</zType>
-		<zText>Han pagado en rescate de sus unidades</zText>
+		<zText>Pagaron el rescate de sus unidades</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TRIBE_CONTACT_TOOK_HOSTAGE</zType>
-		<zText>Han tomado a nuestra unidad como rehén</zText>
+		<zText>Tomaron nuestra unidad como rehén</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_FEASTED_IN_OUR_HONOR</zType>
-		<zText>Han festejado en nuestro honor</zText>
+		<zText>Festejaron en nuestro honor</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_TRIBE_CONTACT_CULTURAL_DELEGATION_NO</zType>
-		<zText>Han rechazado nuestra delegación cultural</zText>
+		<zText>Rechazaron nuestra delegación cultural</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_REFUSED_OUR_ENEMIES</zType>
-		<zText>Se han negado a ayudar a nuestros enemigos</zText>
+		<zText>Se negaron a ayudar a nuestros enemigos</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_STRANGE_ENCOUNTER</zType>
-		<zText>Han respetado nuestro suelo sagrado</zText>
+		<zText>Respetaron nuestro suelo sagrado</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RUMOR_HAS_IT_SAVED</zType>
-		<zText>Han respetado nuestras serpientes</zText>
+		<zText>Respetaron a nuestras serpientes</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_LAW_FREED_CAPTIVES</zType>
-		<zText>Han liberado a nuestros prisioneros</zText>
+		<zText>Liberaron a nuestros prisioneros</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RUINS_RESTORED_CITY</zType>
-		<zText>Nuestra antigua capital ha sido restaurada</zText>
+		<zText>Restauramos nuestra antigua capital</zText>
 	</Entry>
 	<Entry beginGroup="Combat">
 		<zType>MEMORY_IGNORED_PROPOSAL</zType>
-		<zText>Propuesta del rey rechazada</zText>
+		<zText>Rechazaron la propuesta del rey</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORY_WOOED_BARBARIAN_KING</zType>
-		<zText>Nuestro rey ha sido cortejado</zText>
+		<zText>Cortejaron a nuestro rey</zText>
 	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>MEMORYTRIBE_MARRIAGE_OFFER_NO</zType>
-		<zText>Propuesta de matrimonio rechazada</zText>
+		<zText>Rechazaron la propuesta de matrimonio</zText>
 	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>MEMORYTRIBE_SMUGGLED_SPIES</zType>
@@ -218,35 +218,35 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ASSISTED_IN_MONSOON</zType>
-		<zText>Nos han ayudado en un monzón</zText>
+		<zText>Nos ayudaron en un monzón</zText>
 	</Entry>
 	<Entry beginGroup="Character">
 		<zType>MEMORYTRIBE_REBUKED_US</zType>
-		<zText>Han reprendido nuestra relación</zText>
+		<zText>Reprendieron nuestra relación</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_REFUSED_INVITATION</zType>
-		<zText>Han rechazado nuestra invitación</zText>
+		<zText>Rechazaron nuestra invitación</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_GAVE_JUSTICE</zType>
-		<zText>Aquellos quienes profanaron las ruinas han sido ejecutados.</zText>
+		<zText>Ejecutamos a aquellos quienes profanaron las ruinas</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_REFUSED_JUSTICE</zType>
-		<zText>Se han negado a hacer la paz con los bárbaros</zText>
+		<zText>Se negaron a hacer la paz con los bárbaros</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_EXPLAINED_MISTAKE</zType>
-		<zText>Han dado explicaciones sobre una profanación accidental</zText>
+		<zText>Dieron explicaciones sobre una profanación accidental</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_ACCEPTED_GENERAL</zType>
-		<zText>Han aceptado a nuestro General veterano</zText>
+		<zText>Aceptaron a nuestro general veterano</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_PRESERVED_PIRACY</zType>
-		<zText>La piratería como una profesión viable has sido preservada</zText>
+		<zText>Preservamos la piratería como una profesión viable</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_MEDIATOR</zType>
@@ -254,18 +254,18 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_COURTIER_WED</zType>
-		<zText>Un cortesano se ha casado con una novia bárbara</zText>
+		<zText>Un cortesano se casó con una novia bárbara</zText>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>MEMORYTRIBE_GIFT_OF_CAMELS</zType>
-		<zText>Regalo de camellos recibido</zText>
+		<zText>Recibimos un regalo de camellos</zText>
 	</Entry>
 	<Entry>
 		<zType>MEMORYTRIBE_RETURNED_SHEPHERD</zType>
-		<zText>Han devuelto al jovén pastor</zText>
+		<zText>Nos devolvieron al joven pastor</zText>
 	</Entry>
 	<Entry beginGroup="Diplomacy">
 		<zType>MEMORYTRIBE_SENT_SPIES</zType>
-		<zText>Han enviado agentes a sembrar malestar</zText>
+		<zText>Nos enviaron agentes a sembrar malestar</zText>
 	</Entry>
 </Root>

@@ -618,8 +618,8 @@
 		<Translation>[No Requiere {0}]</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_EVENT_HIGHER_VPS</zType>
-		<Translation>[No Requiere {0}]</Translation>
+		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO_ONE</zType>
+		<Translation>Requiere que nadie sea {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_X</zType>
@@ -650,7 +650,7 @@
 		<Translation><![CDATA[[Requiere {0}: <= {1} {2}]]]></Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NOT</zType>
+		<zType>TEXT_HELPTEXT_EVENT_REQUIRES_NOT_X</zType>
 		<Translation><![CDATA[[Requiere {0}: **Que no {1}]]]></Translation>
 	</Entry>
 	<Entry>
@@ -1316,7 +1316,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_TRAIT</zType>
-		<Translation>{0_character} se convierte en {1_trait}</Translation>
+		<Translation>{0_character} **se convierte en/es/está {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_COUNCIL</zType>
@@ -1463,7 +1463,7 @@ Bonificación de {0_amount} contra unidades link(UNITTRAIT_RANGED) durante {1_tu
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TRIBE_FOUND_BONUS</zType>
-		<Translation>Asentamientos bárbaros: {LIST}</Translation>
+		<Translation>Puestos bárbaros: {LIST}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FAMILY_FOUND_BONUS</zType>
@@ -2121,10 +2121,10 @@ Bonificación de {0_amount} contra unidades link(UNITTRAIT_RANGED) durante {1_tu
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_FATIGUE</zType>
-    <Translation>Una unidad queda agotada cuando consume todos sus movimientos. Una unidad agotada se recuperará en el siguiente turno. Cuando una unidad está agotada sólo se puede mover durante el mismo turno forzando la marcha.</Translation>
+    <Translation>Una unidad queda agotada cuando consume todos sus movimientos. Una unidad agotada se recuperará en el siguiente turno. Cuando una unidad está agotada sólo se podrá mover durante el mismo turno forzando la marcha.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITIONS</zType>
+    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITION</zType>
     <Translation>Las ambiciones son objetivos a perseguir. Conseguirás un impulso de link(CONCEPT_LEGITIMACY) al completarlas. ¡Completa 10 Ambiciones para ganar la partida!</Translation>
   </Entry>
   <Entry>
@@ -2340,11 +2340,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TRADE_BONUS_US</zType>
-		<Translation>**Trade from: {0_yield} {1_turns}</Translation>
+		<Translation>Recibes: {0_yield} {1_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TRADE_BONUS_THEM</zType>
-		<Translation>**Trade to: {0_yield} {1_turns}</Translation>
+		<Translation>Envías: {0_yield} {1_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TRADE_NETWORK</zType>
@@ -2497,7 +2497,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_ADJACENT</zType>
-		<Translation>Adyacente: {LIST}</Translation>
+		<Translation>Por adyacencia: {LIST}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TOOLTIP_IMPROVEMENT_START_RECOMMENDED</zType>
@@ -2526,11 +2526,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_TO_PLAYER</zType>
-		<Translation>{0}: **Trade to {1_player} {2_turns}</Translation>
+		<Translation>{0}: Trato con {1_player} durante {2_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRADE_FROM_PLAYER</zType>
-		<Translation>{0}: **Trade from {1_player} {2_turns}</Translation>
+		<Translation>{0}: Trato con {1_player} durante {2_turns}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_YIELD_NET_TRIBUTE_TRIBES</zType>
@@ -2689,7 +2689,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_CULTURE_IMPROVEMENT_COUNT</zType>
-		<Translation>**{0_maxValue} {1_improvementClass} por {2_cultureLevel}</Translation>
+		<Translation>{0_maxValue} {1_improvementClass} por {2_cultureLevel}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_MAX_LIST</zType>
@@ -2949,7 +2949,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_CULTURE</zType>
-		<Translation>**Requiere {0_cultureType} link(YIELD_CULTURE)</Translation>
+		<Translation>Requiere {0_cultureType} link(YIELD_CULTURE)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_STATE_RELIGION</zType>
@@ -3107,7 +3107,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CAN_ROUT</zType>
-		<Translation>**Puede {0_routLink} (attack again) después del combate</Translation>
+		<Translation>Puede provocar una {0_routLink} (un nuevo ataque) después del combate.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_PUSH</zType>
@@ -3236,11 +3236,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_BUILD_TURNS</zType>
-		<Translation>{0_value} ***{1_turnScale} to Build link(CONCEPT_URBAN) Improvements</Translation>
+		<Translation>{0_value} {1_turnScale} para construir mejoras link(CONCEPT_URBAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_FAMILY_OPINION</zType>
-		<Translation>{0_value} ***Family Opinion{true_1: ({2_familyLink})}</Translation>
+		<Translation>{0_value} de opinión de la familia{true_1: ({2_familyLink})}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_REBEL_PROBABILITY</zType>
@@ -3450,11 +3450,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_FOR_ADJACENT_IMPROVEMENT_MODIFIER</zType>
-		<Translation>{0_value} para los {LIST,2} adyacentes</Translation>
+		<Translation>{0_value} por {LIST,2} adyacentes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PER_ADJACENT_IMPROVEMENT_MODIFIER</zType>
-		<Translation>{0_value} para los {LIST,2} adyacentes</Translation>
+		<Translation>{0_value} por {LIST,2} adyacentes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_HEALS_UNIT</zType>
@@ -3572,7 +3572,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	<!--City Current Citizens Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CURRENT_CITIZENS_NEXT</zType>
-		<Translation>Los link(CONCEPT_CITIZEN,1) se pueden convertir en link(CONCEPT_SPECIALIST,1)</Translation>
+		<Translation>Los link(HELPTEXT_LINK_CITIZEN,2) se pueden convertir en link(CONCEPT_SPECIALIST,1)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITIZENS_URBAN_NEEDED</zType>
@@ -3677,11 +3677,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_SWITCH_LAW_MODIFIER</zType>
-		<Translation>{0_value} **Switch Law Cost</Translation>
+		<Translation>{0_value} en el coste de cambiar leyes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TRAINING_MODIFIER</zType>
-		<Translation>{0_value} por el coste de gastar {1_trainingIcon} por {2_yield}</Translation>
+		<Translation>{0_value} en el coste de gastar {1_trainingIcon} por {2_yield}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_BUILD_TURN_CHANGE</zType>
@@ -3842,7 +3842,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILYCLASS_ON_SEAT_FOUNDED_BULLET_LINE_START</zType>
-		<Translation>icon(bullet) Al fundar la residencia: </Translation>
+		<Translation>icon(bullet) Al fundar la residencia familiar: </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILYCLASS_PREFERS_DISTANT_CITIES</zType>
@@ -4198,19 +4198,19 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRADE_FROM</zType>
-		<Translation>**Trade from {0_opponent}: {1_yieldList} for {2_years} {3_turnScale}</Translation>
+		<Translation>Recibes de {0_opponent}: {1_yieldList} durante {2_years} {3_turnScale}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRADE_TO</zType>
-		<Translation>**Trade to {0_opponent}: {1_yieldList} for {2_years} {3_turnScale}</Translation>
+		<Translation>Envías a {0_opponent}: {1_yieldList} durante {2_years} {3_turnScale}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRIBUTE_FROM</zType>
-		<Translation>**Tribute from {0_opponent}: {1_yieldList} for {2_years} {3_turnScale}</Translation>
+		<Translation>**Tribute from {0_opponent}: {1_yieldList} durante {2_years} {3_turnScale}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_TRIBUTE_TO</zType>
-		<Translation>**Tribute to {0_opponent}: {1_yieldList} for {2_years} {3_turnScale}</Translation>
+		<Translation>**Tribute to {0_opponent}: {1_yieldList} durante {2_years} {3_turnScale}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_CHANGE_DIPLOMACY</zType>
@@ -4362,11 +4362,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_FREE_THEOLOGY</zType>
-		<Translation>link(CONCEPT_THEOLOGY) gratuita{true_0: ({0_religion})}: {1_theology}</Translation>
+		<Translation>link(CONCEPT_THEOLOGY) gratuita {true_0:({0_religion})}:{1_theology}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_HOLY_CITY_AGENTS</zType>
-		<Translation>link(CONCEPT_AGENT) grauito en todas las link(HELPTEXT_LINK_HOLY_CITY,3)</Translation>
+		<Translation>link(CONCEPT_AGENT) grauito en todas las link(HELPTEXT_LINK_HOLY_CITY,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_BONUS_FOUND_RELIGION</zType>
@@ -4590,7 +4590,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_OPINION_TRADES</zType>
-		<Translation>{0_value} **de opinión si hace más intercambios con otra nación que con nosotros</Translation>
+		<Translation>{0_value} de opinión si hace más intercambios con otra nación que con nosotros</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_BIRTH_CHANCE</zType>
@@ -4724,7 +4724,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_HEAD</zType>
-		<Translation>**Jefe: {0_character}</Translation>
+		<Translation>Máximo representante: {0_character}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_OPINION</zType>
@@ -4793,7 +4793,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_HEAD</zType>
-		<Translation>**Jefe: {0_head}</Translation>
+		<Translation>Máximo representante: {0_head}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_TRAITS</zType>
@@ -5181,7 +5181,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RESOURCE_MISSING</zType>
-		<Translation>{0}: {1_value} Opinión por ciudad si no se tiene</Translation>
+		<Translation>{0}: {1_value} de opinión por ciudad si no se tiene</Translation>
 	</Entry>
 	<!--Project Help-->
 	<Entry>
@@ -5434,7 +5434,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_HELP_RELIGION_HEAD</zType>
-		<Translation>**Jefe de la religión: {0}</Translation>
+		<Translation>Máximo representante de la religión: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_HELP_RELIGION</zType>
@@ -5442,7 +5442,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_HELP_FAMILY_HEAD</zType>
-		<Translation>**Jefe de la familia: {0}</Translation>
+		<Translation>Máximo representante de la familia: {0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_HELP_FAMILY</zType>
@@ -5526,7 +5526,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_OF_PLAYER_IS_PARENT</zType>
-		<Translation>{0}: Por ser **parent</Translation>
+		<Translation>{0}: Por ser pariente</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHARACTER_OPINION_OF_PLAYER_IS_GOVERNOR</zType>
@@ -6426,11 +6426,11 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_PROGRESS</zType>
-		<Translation>Progreso: {0}/{1}</Translation>
+		<Translation>Progreso: {0} (Título actual: {1})</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COGNOMEN_HELP_THRESHOLD</zType>
-		<Translation>**Umbral/Cantidad necesaria: {0}</Translation>
+		<Translation>Para conseguir este título: {0}</Translation>
 	</Entry>
 	<!--Memory Help-->
 	<Entry>
@@ -6589,7 +6589,7 @@ Se jubila a los int(GENERAL_RETIRE_AGE) años.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TOOLTIP_FREEZE_TOOLTIP</zType>
-		<Translation><![CDATA[Bloquear ayuda: [Click central]<br>{true_0: or {0_presskey}}]]></Translation>
+		<Translation><![CDATA[Fijar ayuda: [Click central]<br>{true_0: or {0_presskey}}]]></Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TOOLTIP_TILE_XY</zType>

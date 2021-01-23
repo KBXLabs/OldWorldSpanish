@@ -6,823 +6,833 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_HOSTAGE</zType>
-		<Translation>An unassuming envoy from {PLAYER-0} enters the court, head bowed courteously. He states that he has been given authority to speak for his nation's leadership.
-
-The {PLAYER-0,3} will gladly establish a truce and end the fighting, if only we will return their hostage.</Translation>
+		<Translation>Un emisario modesto de {PLAYER-0} entra en la corte inclinando la cabeza cortésmente. Afirma que se le ha dado autoridad para hablar en nombre del líder de su nación.
+		
+		{PLAYER-0,3} con mucho gusto establecerá una tregua y pondrá fin a la guerra,a cambio de devolverles a su rehén.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE</zType>
-		<Translation>A group of riders approaches our front lines, led by the Chancellor to {CHARACTER-0}. In respectful terms, he extends an offer of truce.
+		<Translation>Un grupo de jinetes se acerca a nuestras líneas, liderados por el Canciller {CHARACTER-0}. De forma respetuosa, extiende una oferta de tregua.
 
-{PLAYER-0} is willing to end the fighting.</Translation>
+{PLAYER-0} está dispuesto a poner fin a la guerra.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR</zType>
-		<Translation>An emissary from {PLAYER-0} arrives by horseback, escorted by a team of the finest {PLAYER-0,1} soldiers. He carries a message.
+		<Translation>Un emisario de {PLAYER-0} llega a caballo, escoltado por un equipo de los mejores soldados de {PLAYER-0,1}. Trae un mensaje.
 
-{CHARACTER-0} is willing to avoid conflict, but only if we pay tribute.</Translation>
+{CHARACTER-0} está dispuesto a evitar conflictos, pero solo si le rendimos tributo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_OFFER_TRIBUTE</zType>
-		<Translation>After years of growing tension, {PLAYER-0} has finally sent a messenger to offer peace, but at a price...
+		<Translation>Después de años de tensión creciente, {PLAYER-0} finalmente ha enviado un mensajero para negociar la paz, pero a un precio...
 
-Do we dare defy them?</Translation>
+¿Nos atrevemos a desafiarlos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE</zType>
-		<Translation>{PLAYER-0,1} riders arrive in the capital, requesting an audience with the court. They have come to deliver another request for peace.
+		<Translation>Jinetes de {PLAYER-0,1} llegan a la capital, solicitando audiencia en la corte. Han venido a entregar otra petición de paz.
 
-How shall we respond?</Translation>
+¿Cómo responderemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_DEMAND_TRIBUTE</zType>
-		<Translation>We have summoned the {PLAYER-0} leadership to court to deliver a message: we are willing to explore a truce, but they must agree to our demands.</Translation>
+		<Translation>Hemos convocado a los líderes de {PLAYER-0} en la corte para transmitir un mensaje: Estamos dispuestos a explorar posibilidades de una tregua, pero deben aceptar nuestras demandas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_REJECTED</zType>
-		<Translation>A riderless horse delivers a short, one-word reponse from the {PLAYER-0,3}: "Never."
-
-They certainly have a flair for the dramatic.</Translation>
+		<Translation>Un caballo sin jinete trae una respuesta breve, de una sola palabra, de {JUGADOR-0,3}: "Nunca".
+Es obvio que tienen un don para el drama.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_PLAY_TO_WIN</zType>
-		<Translation>No amount of tribute will stop us from grinding {PLAYER-1} into dust.</Translation>
+		<Translation>No hay tributo alguno que nos impida convertir a {PLAYER-1} en polvo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE</zType>
-		<Translation>The {PLAYER-0,3} will gladly accept tribute from us. Our nations will move forward together.</Translation>
+		<Translation>Los {PLAYER-0,3} aceptarám con gusto nuestro tributo. Nuestras naciones avanzarán juntas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE</zType>
-		<Translation>After much debate, the {PLAYER-0,3} have returned. They are ready to end the fighting.</Translation>
+		<Translation>Después de mucho debate, los {PLAYER-0,3} han regresado. Están listos para terminar con el conflicto.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE</zType>
-		<Translation>The {PLAYER-0,3} accept defeat with honor. It is an example of which our people should take notice.</Translation>
+		<Translation>Los {PLAYER-0,3} aceptan la derrota con honor. Es un ejemplo del que nuestro pueblo debe tomar nota.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_REJECTED</zType>
-		<Translation>A gruff diplomat arrives from {PLAYER-0}, formally denying our request. We will need to explore other ways to influence the {PLAYER-0,3}.</Translation>
+		<Translation>Un brusco diplomático llega de {PLAYER-0} y niega formalmente nuestra solicitud. Tendremos que explorar otras formas de influir en los {PLAYER-0,3}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ALLIANCE_PROPOSAL_HUMAN</zType>
-		<Translation>{sentencecase:{PLAYER-0,2}} envoy arrives with a {link(CONCEPT_ALLIANCE_PLAYER) proposal. What do you say?</Translation>
+		<Translation>Un emisario de {sentencecase:{PLAYER-0,2}} llega con una propuesta de {link(CONCEPT_ALLIANCE_PLAYER). ¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_PROPOSAL_HUMAN</zType>
-		<Translation>{sentencecase:{PLAYER-0,2}} envoy arrives with a {link(DIPLOMACY_PEACE) proposal. What do you say?</Translation>
+		<Translation>Un emisario de {sentencecase:{PLAYER-0,2}} llega con una propuesta de {link(DIPLOMACY_PEACE). ¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_PROPOSAL_HUMAN</zType>
-		<Translation>{sentencecase:{PLAYER-0,2}} envoy arrives with a {link(DIPLOMACY_TRUCE) proposal. What do you say?</Translation>
+		<Translation>Un emisario de {sentencecase:{PLAYER-0,2}} llega con una propuesta de {link(DIPLOMACY_TRUCE). ¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_PLAYER_WAR</zType>
-		<Translation>The court wishes to gain the cooperation of the {TRIBE-1,3} in a campaign against {PLAYER-0}. They will require some... persuasion.
+		<Translation>La corte desea cooperar con los {TRIBE-1,3} en una campaña contra {PLAYER-0}. Requerirán algo de... persuasión.
 
-What shall we offer?</Translation>
+¿Qué ofreceremos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRIBE_WAR</zType>
-		<Translation>The court wishes to gain the cooperation of the {PLAYER-1,3} in a campaign against the {TRIBE-0}. They will require some... persuasion.
+		<Translation>La corte desea cooperar con los {PLAYER-1,3} en una campaña contra los {TRIBE-0}. Requerirán algo de... persuasión.
 
-What shall we offer?</Translation>
+¿Qué ofreceremos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PLAYER_WAR</zType>
-		<Translation>The court wishes to gain the cooperation of the {PLAYER-1,3} in a campaign against {PLAYER-0}. They will require some... persuasion.
+		<Translation>La corte desea cooperar con {PLAYER-1,3} en una campaña contra {PLAYER-0}. Requerirán algo de... persuasión.
 
-What shall we offer?
+¿Qué ofreceremos?
     </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR</zType>
-		<Translation>The court awaits your command. 
+		<Translation>La corte espera tu orden.
 
-Shall we declare war on {PLAYER-0}?</Translation>
+¿Declaramos la guerra a {PLAYER-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_BREAK_PEACE</zType>
-		<Translation>The court has reached an impasse, and a decision is needed. 
+		<Translation>La corte ha llegado a un punto muerto y se necesita una decisión.
 
-Shall we break our {link(DIPLOMACY_PEACE) with {PLAYER-0}?</Translation>
+¿Rompemos la link(DIPLOMACY_PEACE) con {PLAYER-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_END_ALLIANCE</zType>
-		<Translation>Many in court grow displeased with our alliance with {PLAYER-0}. Perhaps now would be a good time to dissolve our agreements.</Translation>
+		<Translation>Muchos cortesanos están descontentos con nuestra alianza con {PLAYER-0}. Quizás sea un buen momento para disolver nuestros acuerdos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_CANCEL_TRADE</zType>
-		<Translation>We have gathered a consensus of merchants and tradesmen, and the court stands ready to support your decision. 
-
-Shall we cancel trade with {PLAYER-0}?</Translation>
+		<Translation>Hemos reunido un consenso de comerciantes y mercaderes, y el tribunal está listo para respaldar su decisión.
+		¿Cancelamos los tratos con {PLAYER-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_DECLARE_WAR</zType>
-		<Translation>The court awaits your command. 
+		<Translation>La corte espera tu orden.
 
-Shall we declare war on the {TRIBE-0}?</Translation>
+¿Declaramos la guerra a los {TRIBE-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_BREAK_PEACE</zType>
-		<Translation>The court has reached an impasse, and a decision is needed.
+		<Translation>La corte ha llegado a un punto muerto y se necesita una decisión.
 
-Shall we break our {link(DIPLOMACY_PEACE) with the {TRIBE-0}?</Translation>
+¿Rompemos la link(DIPLOMACY_PEACE) con los {TRIBE-0}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_END_ALLIANCE</zType>
-		<Translation>Our alliance with the {TRIBE-0} has not proved as fruitful as we had hoped. Perhaps our two civilizations are not compatible after all. 
+		<Translation>Nuestra alianza con los {TRIBE-0} no ha resultado tan fructífera como se esperaba. Quizás nuestras civilizaciones no sean compatibles después de todo.
 
-What shall we do?</Translation>
+¿Qué hacemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_CODES_OF_JUSTICE</zType>
-		<Translation>{CITY-1} has experienced a rise in blood feuds between individuals and families. A new code of justice must be drafted, or the chaos in {CITY-1} will ignite further unrest. 
+		<Translation>{CITY-1} ha experimentado un aumento en los conflictos entre individuos y familias. Deberiamos redactar un nuevo código de justicia o el caos en {CITY-1} provocará más disturbios.
 
-How shall we approach the punishment of crime?</Translation>
+¿Cómo abordamos estos conflictos y el castigo del crímen?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SAGE_COUNSEL</zType>
-		<Translation>Recent policies have expedited legal matters across the kingdom, leaving many advocates with newfound availability. We should put these experts to task.
+		<Translation>Las recientes políticas han acelerado los asuntos legales en todo el reino, dejando a muchos abogados sin carga de trabajo. Deberíamos ponerlos a trabajar en algo.
 
-How shall these scholars direct their efforts?</Translation>
+¿En que dirección enfocarán sus esfuerzos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_BARBARIANS_AT_THE_GATE</zType>
-		<Translation>{TRIBE-1,1} incursions have the military on high alert!
+		<Translation>¡Las incursiones de los {TRIBE-1,1} tienen a los militares en alerta máxima!
 
-Your advisors request that you muster additional militia groups to secure the borders. However, supplies are low, and those resources may be better spent on building defenses.</Translation>
+Los asesores solicitan que se formen grupos adicionales para asegurar las fronteras. Sin embargo, los suministros son bajos y es posible que esos recursos se gasten mejor en la construcción de defensas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MOUTHPIECE_OF_THE_GODS</zType>
-		<Translation>Your proclamations have inspired the kingdom, and the people have come to call you "mouthpiece of the gods" for your gifted rhetoric.
+		<Translation>Tus proclamas han inspirado al reino y la gente ha llegado a llamarte "El portavoz de los dioses" por tu talentosa retórica.
 
-Perhaps it is time to record your tenets for posterity. Our advisors suggest that we inscribe your precepts on clay cylinders to be erected in every city.</Translation>
+Quizás es hora de dejar constancia de tus principios para la posteridad. Nuestros asesores sugieren que inscribamos tus preceptos en cilindros de arcilla para ser erigidos en cada ciudad.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DIVINE_MANDATE</zType>
-		<Translation>Last night, you witnessed a glorious vision! A promised land awaits you in the wilderness. Clearly, you have been chosen by the gods. 
+		<Translation>¡Anoche fuiste testigo de una gloriosa visión! Una tierra prometida te espera en el desierto. ¡Has sido elegido por los dioses!
 
-Send scouts in every direction to discover your destiny, or heed mortal advisors and ignore the hand of fate.</Translation>
+Podrías enviar exploradores en todas direcciones para descubrir tu destino, o hacer caso a los asesores mortales e ignorar la mano del destino.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_UNDER_SUSPICION</zType>
-		<Translation>During a recent visit, the {PLAYER-1,1} ambassador acts strangely in our presence. Probing questions. Whispers with her retinue. As tensions rise, we worry that {PLAYER-1,0} may be planning a surprise strike.
+		<Translation>Durante una visita reciente, el embajador de {PLAYER-1,1} actúa de manera extraña en nuestra presencia. Hace preguntas sospechosas y susurra con su gente. A medida que aumentan las tensiones, nos preocupa que {PLAYER-1,0} pueda estar planeando un ataque sorpresa.
 
-Are we simply jumping at shadows?</Translation>
+¿Son paranoias y simplemente estás viendo fantasmas?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ARTS_AND_SCIENCES</zType>
-		<Translation>Our nation appears to be entering an age of unparalleled abundance. Ministers urge us to use this period of good fortune to invest in society.
+		<Translation>Nuestra nación parece estar entrando en una era de abundancia nunca antes vista. Los ministros nos sugieren que aprovechemos esta época de buena suerte para invertir en la sociedad.
 
-Some advise scientific study, while others believe that the arts are more beneficial.</Translation>
+Algunos aconsejan invertir en el estudio científico, mientras que otros creen que invertir en el arte será más beneficioso.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_OF_THE_PEOPLE</zType>
-		<Translation>Your spare, humble lifestyle is all the fashion in the streets of {CITY-1}. But while it appeals to the experience of average citizens, noble families are beginning to grumble.
+		<Translation>Tu estilo de vida sencillo y humilde está de moda en las calles de {CITY-1}. Pero mientras **apelas a la experiencia** de los ciudadanos de clase media, las familias nobles están comenzando a quejarse.
 
-The {FAMILY-2,1} have called for you to behave in a way more befitting of royalty.</Translation>
+La familia {FAMILY-2,1} te pide que te comportes de una manera más acorde con la realeza.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TEST_OF_FAITH</zType>
-		<Translation>During the renovation of a temple, holy men uncovered the remnants of an ancient scroll. In the words of a great deity, this lost "Book of Law" describes an ideal, virtuous society.
+		<Translation>Durante la renovación de un templo, hombres santos descubrieron los restos de un pergamino antiguo. En palabras de los dioses, este "Libro de la Ley" perdido describe una sociedad ideal y virtuosa.
 
-Our ministes advise against rash action, but you worry this is a test of faith.</Translation>
+Nuestros ministros desaconsejan una acción precipitada, pero te preocupa que esto sea una prueba de fe.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_QUESTION_AUTHORITY</zType>
-		<Translation>Military officer {CHARACTER-1} seeks reassurances. {G1:He:She} fears that your recklessness with the lives of {G0:his:her} soldiers puts them in unnecessary danger.
+		<Translation>Un oficial militar de {CHARACTER-1} busca garantías. Teme que tu imprudencia con la vida de tus soldados los ponga en un peligro innecesario.
 
-{G1:He:She} pleads with you to consider the consequences when deploying soldiers.
+Te ruega que consideres las consecuencias al desplegar soldados.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_COLLISION_COURSE</zType>
-		<Translation>In a brash move, the {PLAYER-1,3} have seized a key mountain pass, threatening our expansion. Their ruler, {CHARACTER-SHORT-1}, waits for our reaction, armies at the ready.
+		<Translation>En un movimiento **descarado, los {PLAYER-1,3} se han apoderado de un paso clave en la montaña, amenazando nuestra expansión. Su gobernante, {CHARACTER-SHORT-1}, nos espera con sus ejércitos.
 
-Is this a time for caution, or will we call his bluff?</Translation>
+¿Deberíamos estar precavidos o será un farol?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ENABLERS</zType>
-		<Translation>A troupe of exotic performers stops in {CITY-1} to entertain the people. During a short visit to the palace, the dancers and poets offer other, more unique services to those who wish to indulge themselves...
+		<Translation>Un grupo de artistas exóticos se detiene en {CITY-1} para entretener a la gente. Durante una breve visita al palacio, los bailarines y poetas ofrecen otros servicios más singulares a quienes deseen darse un capricho...
 
-Do you dare enjoy the revels?</Translation>
+¿Te atreves a disfrutar de estas fiestas?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES</zType>
-		<Translation>It has been a trying time in the royal household. Your {G1:son:daughter} {CHARACTER-SHORT-1} was struck by a falling stone and killed instantly. At the palace, your {G2:husband:wife}, {CHARACTER-SHORT-2}, has fallen ill with a mysterious ailment, and healers make no promises of recovery.
+		<Translation>Ha sido un momento difícil en la casa real. A tu {G1:hijo:hija}, {CHARACTER-SHORT-1}, la cayó una piedra en la cabeza y murió instantáneamente. En palacio, tu {G2:esposo:esposa}, {CHARACTER-SHORT-2}, ha enfermado de una misteriosa dolencia y los médicos no pueden prometer su recuperación.
 
-Where will you turn in this moment of weakness?</Translation>
+¿Qué harás en este momento de debilidad?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_DARK_PALL</zType>
-		<Translation>Despite your best efforts, a darkness has overtaken you. There is no comfort on the throne. Your inner circle consists of sycophants, and your subjects see you only as one in an endless succession of rulers.
+		<Translation>A pesar de tus esfuerzos, la oscuridad se ha apoderado de tí. No hay consuelo en el trono. Tu círculo íntimo está formado por aduladores y tus súbditos te ven como uno más en una sucesión interminable de gobernantes.
 
-The only honorable end is to become one with immortality.</Translation>
+El único fin honorable sería volverse inmortal.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES</zType>
-		<Translation>{CHARACTER-1} has sent a message through secretive back channels. Having heard tales of your wickedness and immorality, {G1:he:she} deems your rule illegitimate.
+		<Translation>{CHARACTER-1} ha enviado un mensaje a través vías secretas. Ha escuchado historias sobre tu maldad e inmoralidad, y {CHARACTER-1} considera que tu gobierno es ilegítimo.
 
-{G1:He:She} desires a duel. Combat. It is not a question of armies or nations. It is a question of honor.</Translation>
+{G1:Él:Ella} desea un duelo en combate. No se trata de ejércitos o naciones, sólo es una cuestión de honor.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_VICTORIOUS</zType>
-		<Translation>You have emerged victorious from your royal duel with {CHARACTER-SHORT-1}. As expiation for their hostility, the {PLAYER-1,3} offer their prayers. Peace persists.
+		<Translation>Has salido victorioso de tu duelo real con {CHARACTER-SHORT-1}. Como expiación por su hostilidad, {PLAYER-1,3} te ofrece sus oraciones y la paz persiste.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_DEFEATED</zType>
-		<Translation>Sadly, you have fallen in your royal duel with {CHARACTER-SHORT-1}. As restitution for your royal crimes, the {PLAYER-1,3} demand the prayers of your subjects. However, peace with {PLAYER-1,0} shall continue.
+		<Translation>Lamentablemente, has caído en tu duelo real con {CHARACTER-SHORT-1}. Como restitución por tus crímenes reales, los {PLAYER-1,3} exigen las oraciones de sus súbditos. A pesar de todo, la paz con {PLAYER-1,0} continuará.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_RETREAT</zType>
-		<Translation>This is the second year that the {FAMILY-1,0} and {FAMILY-2,0} families have spent the summer months together at a lavish estate in the hills. Their cooperation in court continues to strengthen, diminishing your authority.
+		<Translation>Este es el segundo año que las familias {FAMILY-1,0} y {FAMILY-2,0} pasan juntos los meses de verano en una lujosa finca en las colinas. Su cooperación en la corte continúa fortaleciéndose per disminuye su autoridad.
 
-What happens at these private gatherings? What are the {FAMILY-1,1} and {FAMILY-2,1} plotting?</Translation>
+¿Qué sucede en estas reuniones privadas? ¿Qué estarán tramando las familias {FAMILY-1,1} y {FAMILY-2,1}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_THE_FINER_THINGS</zType>
-		<Translation>Your reputation as a ruler of captivating tastes reaches far behind our borders. Therefore, it is no surprise when an exotic merchant appears in court, wishing to present you with a gift from his homeland.
+		<Translation>Tu reputación como gobernante de gustos extravagantes llega mucho más allá de nuestras fronteras. Por lo tanto, no es de extrañar que un comerciante exótico comparezca ante la corte con el deseo de ofrecerte un regalo de su tierra natal.
 
-What strikes your fancy?</Translation>
+¿Qué te llama la atención?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_CHILL_IN_THE_PALACE</zType>
-		<Translation>After returning from a "private" trip to the country, your spouse, {CHARACTER-1}, has succumbed to a terrible fever. Even more troubling are the rumors of infidelity. {G1:He:She} spends so much time away that the gossip is unavoidable.
+		<Translation>Después de regresar de un viaje "privado", {CHARACTER-1} ha sucumbido a una fiebre terrible. Aún más preocupantes son los rumores sobre una infidelidad, ya que pasa tanto tiempo fuera que los chismorreos son inevitables.
 
-Royal healers seek counsel on how to treat the situation.
+Los médicos de palacio necesitan consejo sobre cómo tratar la situación.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FACING_THE_HORDE</zType>
-		<Translation>A delegation from the murderous {TRIBE-1,1} tribe approach the gates of the capital. They have already achieved mythical stature for their prowess in battle, and now their leader demands an audience.
+		<Translation>Una delegación de la tribu asesina {TRIBE-1,1} se acerca a las puertas de la capital. han conseguido una reputación mítica por su destreza en la batalla y ahora su líder exige audiencia.
 
-Our advisors suggest that you send a proxy, for your safety.</Translation>
+Los asesores sugieren que envies a un apoderado, por tu seguridad.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_FORCED_DEPORTATIONS</zType>
-		<Translation>Great soldier, {CHARACTER-0}, approaches the court with a controversial plan: forced deportations. {G0:He:She} believes that a hostile foreign element is inspiring revolts against the nation.
+		<Translation>El soldado {CHARACTER-0} se acerca a la corte con un plan controvertido: deportaciones forzadas. {G0:Él:Ella} cree que algo hostil proveniente de tierras extrangeras está inspirando revueltas contra la nación.
 
-The plan would be effective in quelling rebellion. However, it would anger the populace, and it may offend the {FAMILY-2} family, many of whom originate from other lands.
+Su plan sería eficaz para sofocar la rebelión. Sin embargo, ofendería a la población y podría ofender también a la familia {FAMILY-2}, muchos de los cuales provienen de otras tierras.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_GOOD_NEWS</zType>
-		<Translation>In a surprise piece of news, you receive an update from {RELATIVE-0} {CHARACTER-0}. Academy scholars respect {G0:him:her}, and the other students compete to befriend {G0:him:her}. 
+		<Translation>Una noticia inesperda habla de {RELATIVE-0} {CHARACTER-0}. Los profesores de la academia {G0:lo:la} respetan y los otros estudiantes compiten para hacerse amigos de {G0:él:ella}.
 
-At the moment, {CHARACTER-SHORT-0} is thriving!</Translation>
+De momento, {CHARACTER-SHORT-0} está prosperando.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_BIREME_SELECTED</zType>
-		<Translation>The {link(UNIT_BIREME) is a {link(UNITTRAIT_SHIP) Unit and can attack other ships in melee range. {link(UNITTRAIT_SHIP) Units can also {link(CONCEPT_ANCHOR), creating a zone around the ship that Land Units can travel through.</Translation>
+		<Translation>El link(UNIT_BIREME) es una unidad link(UNITTRAIT_SHIP) y puede atacar a otros barcos dentro de su rango de combate cuerpo a cuerpo. Las unidades link(UNITTRAIT_SHIP) también pueden link(CONCEPT_ANCHOR), creando así una zona alrededor del barco por la que pueden viajar las unidades terrestres.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SPEARMAN_SELECTED</zType>
-		<Translation>The {link(UNIT_SPEARMAN) is the first {link(UNITTRAIT_POLEARM) Unit available to your Nation. {link(UNITTRAIT_POLEARM) Units excel against enemy {link(UNITTRAIT_MOUNTED) Units. Only {link(UNITTRAIT_POLEARM) Units can exert a {link(CONCEPT_ZOC) on {link(UNITTRAIT_MOUNTED) Units. {link(UNIT_SPEARMAN,2) also have a piercing attack, striking the unit behind their target for partial damage.</Translation>
+		<Translation>El link(UNIT_SPEARMAN) es la primera unidad link(UNITTRAIT_POLEARM) disponible para tu nación. Las unidades link(UNITTRAIT_POLEARM) son eficaces contra las unidades enemigas link(UNITTRAIT_MOUNTED). Solo las unidades link(UNITTRAIT_POLEARM) pueden mantener una link(CONCEPT_ZOC) sobre las unidades link(UNITTRAIT_MOUNTED). Los link(UNIT_SPEARMAN, 2) también tienen un ataque penetrante, golpeando a la unidad detrás del objetivo y causando daño parcial.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NEVER_ENOUGH</zType>
-		<Translation>Sometimes, too much is never enough. The insatiable {CHARACTER-0} and {G0:his:her} family, unsatisfied with their lives of plenty, have petitioned the court for even more imports to slake their lust for fine goods. The constant consumption and wanton spending is taking its toll on the treasuries.
+		<Translation>A veces, demasiado nunca es suficiente. {G0:El:La} insaciable {CHARACTER-0} y su familia, insatisfecha con su vida de abundancia, han solicitado a la corte más importaciones para saciar su ansia de artículos refinados. El consumo constante y el gasto desenfrenado está pasando factura a la tesorería.
 
-One option to remedy the {FAMILY-1,1} greed would be to increase production of these items inside {PLAYER-2}. Or we could continue to ship them in from afar for our vassal families.</Translation>
+Una opción para remediar la codicia de {FAMILY-1,1} sería aumentar la producción de estos recursos en {PLAYER-2} o podríamos continuar importándolos de otras naciones para nuestras familias vasallas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_POWER_TO_THE_PEOPLE</zType>
-		<Translation>Civic involvement has always been the way in {CITY-0}, and now the city's ruling families wish to take the public's role in government to another level. Governor {CHARACTER-1} wishes to begin paying citizens for their time working in public services. 
+		<Translation>La participación cívica siempre ha sido el camino a seguir en {CITY-0}, y ahora las familias gobernantes de la ciudad desean llevar esta participación pública a otro nivel. El gobernador {CHARACTER-1} desea comenzar a pagar a los ciudadanos que trabajan en servicios públicos.
 
-Unfortunately, {CHARACTER-SHORT-1}'s attempt to include the masses in politics has rankled the elite, who do not wish to encourage aspirational thinking. We should be wise about where we exert our influence.</Translation>
+Desafortunadamente, el intento de {CHARACTER-SHORT-1} de incluir a la gente en la política ha irritado a la élite, que no quieren fomentar este pensamiento. Debemos pensar bien dónde ejercemos nuestra influencia.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ON_THEIR_OWN</zType>
-		<Translation>{CITY-0} teeters on the brink of starvation, and the corrupt {CHARACTER-1} appears to care nothing for the people of {G1:his:her} city. The court has dedicated itself to a policy of Vassalage, but some are beginning to regret their stance. Especially as cities wither on their own.
+		<Translation>{CITY-0} se tambalea al borde de la inanición, y el corrupto {CHARACTER-1} parece no preocuparse por la gente de su ciudad. La corte se ha dedicado a una política de vasallage, pero algunos comienzan a lamentar esta postura. Especialmente cuando las ciudades se marchitan por sí mismas.
 
-Several options are available to us, though none is without risk.</Translation>
+Tenemos varias opciones disponibles, aunque ninguna está libre de riesgos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_HEROS_FLIGHT</zType>
-		<Translation>From the moment we condemned {CHARACTER-0}, crowds in the capital have voice their displeasure, especially soldiers and members of the military. {CHARACTER-SHORT-0} has a strong following among the fighting men and women.
+		<Translation>Desde el momento en que condenamos a {CHARACTER-0}, las multitudes en la capital han expresado su disgusto, especialmente los soldados y los miembros del ejército. {CHARACTER-SHORT-0} tiene muchos seguidores entre los hombres y mujeres que luchan.
 
-When guards reach {CHARACTER-SHORT-0}'s estate, they discover that {G0:he:she} has slipped away with members of {G0:his:her} household. Now a fugitive, {G0:he:she} will become an even greater foe. </Translation>
+Cuando los guardias llegan a la propiedad de {CHARACTER-SHORT-0}, descubren que se ha escapado, junto a su familia. Ahora {G0:este fugitivo:esta fugitiva} se convertirá en un enemigo peor.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_MEASURED_VOICE</zType>
-		<Translation>The decision is made. Guards have been sent to apprehend {CHARACTER-0} and send {G0:him:her} to the deepest dungeon. However, as you sit on the throne, unable to calm your thoughts, your {G2:husband:wife} lingers by your side. 
+		<Translation>La decisión está tomada. Ya se han enviado guardias para detener a {CHARACTER-0} y enviar{G0:lo:la} a la mazmorra más profunda. Sin embargo, mientras te sientas en el trono, incapaz de apaciguar sus pensamientos, tu {G2:esposo:esposa} permanece a su lado.
 
-"This act will only inflame the people's discontent," {G2:he:she} explains. "They look to you for wisdom. Imprisoning such a measured voice will only confirm their fears."</Translation>
+"Este acto sólo aumentará el descontento de la gente", explica {G2:él:ella}. "Todos esperan sabiduría de tí y encarcelar a {CHARACTER-0} sólo confirmará sus temores".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_VIPER_IN_THE_NEST</zType>
-		<Translation>Someone in the court must be working closely with {CHARACTER-0}, as {G0:he:she} was learned of {G0:his:her} jail sentence ahead of time and fled.
+		<Translation>Alguien en la corte debe estar trabajando en estrecha colaboración con {CHARACTER-0}, ya que se enteró de sobre su sentencia de encarcelamiento antes de tiempo y huyó.
 
-We will muster a search party at once, but we can make no assurances of {G0:his:her} speedy apprehension.</Translation>
+Enviaremos a un grupo de búsqueda de inmediato, pero no podemos asegurar un rápida captura.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PRETTY_PERSUASION</zType>
-		<Translation>You have only just given the order for {CHARACTER-0}'s arrest, when a strange servant arrives at your chamber door laden with a heavy sack. She bows courteously and leaves the sack with you. Peering inside, you discover a small trove of glittering gold and gems.
+		<Translation>Acabas de dar la orden de arresto de {CHARACTER-0}, cuando un desconocido criado llega a la puerta de tu habitación cargado con un pesado saco. Se inclina cortésmente y te deja el saco. Dentro, encuentras un pequeño puñado de oro y gemas brillantes.
 
-The stamp of the noble house of {FAMILY-2} has been branded into the sack's fine goatskin. It is a reminder of the power this family wields over every decision - even yours.  </Translation>
+El sello de la noble casa de los {FAMILY-2} está marcado en la fina piel de cabra del saco. Es un recordatorio del poder que esta familia ejerce sobre cada decisión, incluso la tuya.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNLIKELY_ALLIES</zType>
-		<Translation>Guards sent by Chancellor {CHARACTER-1} attempt to arrest {CHARACTER-0}, but they encounter resistance from an unlikely source: {PLAYER-2}. It seems that {CHARACTER-SHORT-0} had been conspiring with the {PLAYER-2,3} to push beneficial laws through the court. Now we have a band of them languising in our prison.
+		<Translation>Los guardias enviados por el canciller {CHARACTER-1} intentan arrestar a {CHARACTER-0}, pero encuentran la inesperada resistencia de {PLAYER-2}. Parece que {CHARACTER-SHORT-0} estaba conspirando con los {PLAYER-2,3} para impulsar leyes en su beneficio a través de la corte. Ahora tenemos una banda de ellos deprimiendose en nuestra prisión.
 
-{CHARACTER-SHORT-2} demands that we release these men, and {CHARACTER-SHORT-0}, and allow them to return to {PLAYER-2}. Of course, showing such amnesty will be interpreted as a sign of weakness.</Translation>
+{CHARACTER-SHORT-2} exige que liberemos a estos hombres y a {CHARACTER-SHORT-0} y que les permitamos volver a {PLAYER-2}. Indudablemente, mostrar tal amnistía se interpretará como un signo de debilidad.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUPPORTING_THE_FAITH</zType>
-		<Translation><![CDATA[A leader amongst the <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Magi<p=SUBJECT_CHRISTIANITY>Bishops<p=SUBJECT_JUDAISM>Kohen<p=SUBJECT_MANICHAEISM>Elect<else>Priests<end> has asked for an audience. In a grave voice he speaks of how the faithful look to you as an example.
+		<Translation><![CDATA[Un líder de entre los <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Magi<p=SUBJECT_CHRISTIANITY>obispos<p=SUBJECT_JUDAISM>Kohen<p=SUBJECT_MANICHAEISM>electros<else>sacerdotes<end> ha pedido audiencia. Con voz grave cuenta de cómo los fieles te ven como un ejemplo a seguir.
 
-He suggests that perhaps a show of support for {RELIGION-0} would help you both.]]></Translation>
+Sugiere que quizás una muestra de apoyo al {RELIGION-0} nos podría ayudar a ambos.]]></Translation>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS</zType>
-		<Translation>This village has only recently been sacked, and we discovered a band of survivors huddled in its ruins. These destitute refugees seem eager to abandon the wreckage of their old lives and join our nation, but they are strangers to our culture. 
+		<Translation>Han saqueado recientemente a este pueblo y hemos descubierto un grupo de supervivientes apelotonados en sus ruinas. Estos indigentes parecen ansiosos por abandonar los escombros de sus antiguas vidas y unirse a nuestra nación, pero son ajenos a nuestra cultura.
 
-What will you do with them?</Translation>
+¿Qué harás con ellos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RITUAL_PERFORMANCE</zType>
-		<Translation>In the ruins, we observe a ritual performance centering on the old city's patron god. He tricks minor deities into letting him eat them, but at the end they cut open his belly and kill him. 
+		<Translation>En las ruinas, observamos una ceremonia ritual centrada en el patrón de la antigua ciudad. Les engañan pidiendo permiso a deidades menores para que les permitan comerselos, pero al final les abren les tripas y los matan.
 
-What should we take away from this?</Translation>
+¿Qué deberíamos hacer con esto?
+</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_CARVED_WALL</zType>
-		<Translation>Our troops discover a towering wall depicting images and carvings belonging to an ancient civilization with an impeccable record of their laws. 
+		<Translation>Nuestras tropas han descubierto un muro imponente que representa imágenes y tallas pertenecientes a una antigua civilización con un registro impecable de sus leyes.
 
-Our generals want to preserve such findings. What do you advise?</Translation>
+Nuestros generales quieren preservar tales hallazgos. ¿Qué recomiendas?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_MONUMENTS_OF_LAW</zType>
-		<Translation>Our explorers come across a series of weathered monuments lost in the undergrowth. Upon closer inspection, the structures appear to be inscribed with the laws of a forgotten city. 
+		<Translation>Nuestros exploradores se encuentran con una serie de monumentos erosionados perdidos entre la maleza. Tras una inspección más cercana, las estructuras parecen tener inscripciones con las leyes de una ciudad olvidada.
 
-What should we do?</Translation>
+¿Qué debemos hacer?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HUNGRY_LOREKEEPERS</zType>
-		<Translation>Our explorers find a family of starving lorekeepers encamped in the ruins, surviving on scraps. Pleading for help, they offer to share their mastery of oratory in exchange for food.
+		<Translation>Nuestros exploradores encuentran una familia de hambrientos chamanes acampados en las ruinas, sobreviviendo a base de sobras y restos de comida. Suplicando ayuda, se ofrecen a compartir su dominio de la oratoria a cambio de comida.
 
-Will you agree to their offer?</Translation>
+¿Aceptas su oferta?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HIDDEN_JEWELS</zType>
-		<Translation>Our explorers discover a cache of jewels hidden deep in the abandoned ruins. 
+		<Translation>Nuestros exploradores descubren un alijo de joyas escondidas en las profundidades de las ruinas abandonadas.
 
-Their orders were to explore the lands. Would you rather they exploit this discovery instead?</Translation>
+Sus órdenes eran explorar las tierras... ¿o prefieres que aprovechen este descubrimiento?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRIGHTENED_FAMILIES</zType>
-		<Translation>A caravan of frightened families approaches our explorers. They explain that bloodthirsty raiders have been preying on them, and they look to you for protection.
-How shall we help them?</Translation>
+		<Translation>Una caravana con familias asustadas se acerca a nuestros exploradores. Explican que unos asaltantes sedientos de sangre se han aprovechado de ellos y buscan protección.
+
+¿Cómo les ayudamos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE</zType>
-		<Translation>Our explorers come across a group of people inhabiting the ruins, led by an elderly couple. The couple claim that they were once the chief scribe and head priestess of the great sacked city. They ask for our help. 
+		<Translation>Nuestros exploradores se encuentran con un grupo de personas que habita en las ruinas, encabezados por una pareja de ancianos. La pareja afirma que una vez fueron el principal escriba y la sacerdotisa de una gran ciudad saqueada. Piden nuestra ayuda.
 
-What would you have us do? </Translation>
+¿Qué quieres que hagamos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_WITCH</zType>
-		<Translation>Driven to madness from her captivity and mourning the abandonment of her people, the High Priestess climbs atop a pyre and burns herself, shouting curses on your person and on our nation.</Translation>
+		<Translation>Llevada a la locura por su cautiverio y de luto por el abandono de su pueblo, la Suma Sacerdotisa se sube a una pira y se prende fuego, maldiciéndote a ti y a nuestra nación.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_DESPOILED_RUINS</zType>
-		<Translation>Scavenging through the ruins, we find significant amounts of stone, iron, and wood. However, local raiders could reach the ruins by nightfall. We can't fight them off, but we can carry some of the loot back home. Which of the three would you like us to bring back?</Translation>
+		<Translation>Buscando entre las ruinas, hemos encontrado cantidades significativas de piedra, hierro y madera. Sin embargo, algunos asaltantes de la zona podrían llegar a las ruinas al anochecer. No podemos luchar contra ellos, pero podemos llevarnos parte del botín a casa. 
+		
+¿Con qué te gustaría que volviéramos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HAUNTED_QUARRY</zType>
-		<Translation>We stumble upon what looks like an old quarry. The equipment inside suggests an advanced knowledge of engineering. However, nearby villagers claim that furious spirits devoured the miners, leaving the tunnels abandoned.</Translation>
+		<Translation>Nos topamos con lo que parece una antigua cantera. El equipamiento sugiere un avanzado conocimiento de ingeniería. Sin embargo, los aldeanos de la zona afirman que unos espíritus furiosos devoraron a los mineros, dejando los túneles abandonados.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BURLY_SMITH</zType>
-		<Translation>A burly smith maintains an ancient forge in the ruins. She explains that she trades iron weapons to nomads in exchange for food. As long as you don't touch her stockpile of ore, she is willing to share her expertise with you. What do you say?</Translation>
+		<Translation>Una fornida herrera mantiene una antigua fragua en las ruinas. Ella explica que intercambia armas de hierro con viajeros a cambio de comida. Siempre que no se toquen sus reservas de mineral, está dispuesta a compartir su experiencia contigo. ¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GIANT_STATUE</zType>
-		<Translation>These ruins are overshadowed by an enormous statue of a figure in a bold stance, legs astride what remains of the city gates and fist raised towards the sky. 
+		<Translation>Estas ruinas están en la enorme sombra que proyecta una enorme estatua de una figura con actitud valiente, con un pie a cada lado de lo que queda de las puertas de la ciudad y el puño levantado hacia el cielo.
 
-While it is still sturdy, time has eroded the features beyond any recognition.</Translation>
+Aunque todavía resiste, el tiempo ha erosionado todos los ragos que permitían reconocerla.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOOD_FENCES</zType>
-		<Translation>Small gardens dot the ruins, clearly the work of skilled farmers. Emerging from a nearby cave, these expert growers offer to teach us how to build good pastures. All they ask for in exchange is enough wood to repair their shelters. 
+		<Translation>Pequeños jardines salpican las ruinas, un indudable trabajo de agricultores calificados. Desde una cueva cercana, estos agricultores expertos se ofrecen a enseñarnos cómo construir buenos pastos. Todo lo que piden a cambio es madera suficiente para reparar sus refugios.
 
-How will you respond?</Translation>
+¿Cómo respondes?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_TRIBAL_HUNTERS</zType>
-		<Translation>As our explorers stand by unnoticed, a tribe of hunters visits the ruins to check their traps. They go about their business, distracted by their abundant spoils. 
+		<Translation>Mientras nuestros exploradores pasan desapercibidos, una tribu de cazadores visita las ruinas para comprobar sus trampas. Están ocupados en sus asuntos y distraídos por su abundante botín.
 
-Should our explorers intervene?</Translation>
+¿Deben intervenir nuestros exploradores?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_STAR_CHARTS</zType>
-		<Translation>Our explorers discover a cache of yellowed star charts in the ruins. The former inhabitants must have been a tribe of great navigators.
+		<Translation>Nuestros exploradores descubren un alijo de mapas estelares amarillentos en las ruinas. Los antiguos habitantes parecen haber sido una tribu de grandes navegantes.
 
-Who should receive these charts?</Translation>
+¿Quién debería recibir estos mapas?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_CURSED_LAND</zType>
-		<Translation>Our scouts report that this area is cursed and blighted. Little vegetation grows here, and there are no animals to be seen. A foul smell hangs in the air, and ghastly moans can be heard throughout the region. 
+		<Translation>Nuestros exploradores informan que esta zona en ruinas está maldita. Aquí crece poca vegetación y no se ven animales por los alrededores. Un olor fétido flota en el aire y se pueden escuchar gemidos espantosos en toda la región.
 
-At the center of the cursed land they discover a deep pit in the ground, which seems to be the source of the moans and stench. Peering over the edge, they can see fires burning deep below the earth.</Translation>
+En el centro de la tierra maldita descubren un pozo profundo en el suelo que parece ser la fuente de los gemidos y el hedor. Desde el borde se puede ver fuego ardiendo profundamente debajo de la tierra.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_FRUIT_TREES</zType>
-		<Translation>Blossoming trees tower over the dusty ruins, providing ample shade; their branches are heavy with ripe fruit. A natural orchard stretches for miles.
+		<Translation>Los árboles florecientes se elevan sobre las ruinas polvorientas, proporcionando una amplia sombra. Sus ramas están cargadas de frutos maduros y un huerto natural se extiende por millas.
 
-How will you use this excellent source of food?</Translation>
+¿Cómo utilizarás esta excelente fuente de alimento?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_OLD_SOLDIER</zType>
-		<Translation>A scarred veteran soldier crouches in the ruins. She says that she once commanded the armies of a great nation, before a resistance brought it crashing down.
+		<Translation>Una soldado veterana lleno de cicatrices se agacha en las ruinas. Dice que una vez estuvo al mando de los ejércitos de una gran nación, antes de que una fuerte resistencia la derribara.
 
-She is willing to share her vast battlefield knowledge, if we are willing to listen.</Translation>
+Ella está dispuesta a compartir su gran conocimiento en el campo de batalla si estamos dispuestos a escuchar.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WEARY_MARAUDERS</zType>
-		<Translation>Our troops are approached by weary raiders who have been roaming the forests aimlessly. They wish to fight for a worthy cause with us.</Translation>
+		<Translation>Nuestras tropas son abordadas por asaltantes que han estado deambulando por los bosques sin rumbo fijo. Desean luchar por una causa digna junto a nosotros.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GREAT_MIGRATION</zType>
-		<Translation>Broken vessels and strange markings indicate that these ruins were once occupied by a tribe from beyond the sea.
+		<Translation>Vasijas rotas y marcas extrañas indican que estas ruinas fueron ocupadas por una tribu de más allá del mar.
 
-Such a discovery inspires you to expand beyond your realm, to new worlds...</Translation>
+Tal descubrimiento te inspira a una expansión más allá de tu reino, a nuevos mundos ...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_VULGAR_SPEECH</zType>
-		<Translation>Graffiti are scrawled across this ruined structure. One of our court scholars recognizes it as "vulgar speech," a Latin dialect used by the lower classes of several extinct tribes.
+		<Translation>Hay grafitis garabateados en esta estructura en ruinas. Uno de nuestros académicos de la corte lo reconoce como un "lenguaje vulgar", un dialecto latino utilizado por las clases bajas de varias tribus extintas.
 
-There are very few examples of this traditionally unwritten language.</Translation>
+Hay muy pocos ejemplos de este lenguaje tradicionalmente no escrito.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_ANCIENT_BARBARIANS</zType>
-		<Translation>Our men find murals depicting creatures, rituals, and battles. The style is reminiscent of the {TRIBE-2,0}, leading us to believe that this tribe was perhaps a precursor to their own.
+		<Translation>Nuestros hombres encuentran murales que representan criaturas, rituales y batallas. El estilo recuerda a los {TRIBE-2,0}, lo que nos lleva a creer que esta tribu fue quizás una precursora de la suya.
 
-Our troops warn against desecrating such a site. The {TRIBE-2,0} are very protective of their culture. Of course, there is much to be learned from these ruins.</Translation>
+Nuestras tropas nos advierten sobre la profanación de tal sitio. Los {TRIBE-2,0} son muy protectores de su cultura. Por supuesto, hay mucho que aprender de estas ruinas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_WATCHERS</zType>
-		<Translation>In the center of the ruins, high atop a hill, stands a ring of monolothic human figures. The faces gaze out over the nearby fields as if to watch over those below.
+		<Translation>En el centro de las ruinas, en lo alto de una colina, se encuentra un anillo de figuras humanas monolóticas. Los rostros contemplan los campos cercanos vigilándolos desde lo alto..
 
-According to our explorers, the towering figures warn against incursion into these ancient lands. Local tribes are known to keep their distance.</Translation>
+Según nuestros exploradores, las imponentes figuras advierten contra la incursión en estas antiguas tierras. Se sabe que las tribus locales se mantienen alejadas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ANCIENT_SITE</zType>
-		<Translation>Our expedition comes upon a site that looks like the ceremonial capital of some ancient world. An altar centers the court, and ten thrones sit on each side.</Translation>
+		<Translation>Nuestra expedición llega a un sitio que parece la capital ceremonial de algún mundo antiguo. Un altar preside en el centro el patio y diez tronos se disponen alrededor.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SACRED_TOMB</zType>
-		<Translation>Our expedition approaches an ancient monument - the structure appears to be the tomb of a great leader.
+		<Translation>Nuestra expedición se acerca a un monumento antiguo. La estructura parece ser la tumba de un gran líder.
 
-An inscription reads: "Passerby, whoever you may be, I was once King of Kings. Grudge me not, therefore, this piece of Earth that covers my body."</Translation>
+Una inscripción dice: "Caminante, quienquiera que seas, una vez fui Rey de Reyes. No me guardes rencor por este monumento que cubre mi cuerpo".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEASHORE_FIND</zType>
-		<Translation>While exploring a remote stretch of seashore, we discover a curious shell scattered among the shallows. This shell, when ground into powder, produces a pleasant purple dye that is perfect for fabrics.</Translation>
+		<Translation>Mientras exploramos un tramo remoto de la costa, descubrimos una curiosa concha esparcida en aguas poco profundas. Esta concha, cuando se muele en polvo, produce un agradable tinte púrpura perfecto para las telas.
+</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EARLY_DISCIPLES</zType>
-		<Translation>High on the sea cliffs, a circle of round stone ruins gazes out over the crashing waves. The inhabitants of these lone, isolated dwellings must have desired true serenity. One explorer recognizes familiar symbols in nearby cave carvings: what could be seen as early icons of {RELIGION-2}. Perhaps the site was a primitive temple or monastery of its followers.</Translation>
+		<Translation>En lo alto de los acantilados sobre el mar, un círculo de piedras redondas en ruinas mira hacia las olas rompiendo. Los habitantes de estas viviendas solitarias y aisladas desearían la verdadera calma. Un explorador reconoce símbolos familiares en algunas esculturas en cuevas cercanas, lo que podrían parecerse a los primeros iconos del {RELIGION-2}. Quizás el sitio era un templo primitivo o un monasterio de sus seguidores.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_FLOATING_CITY</zType>
-		<Translation>A great floating city once clung to this desert coastline, a collection of harbors linked by ferries, bridges, and pontoons. Sadly, much of its splendor now lies lost along the sea floor. Flooding appears to have liquified the clay islands on which the city stood, sinking it over centuries.
+		<Translation>Una gran ciudad flotante se aferró una vez a esta costa desértica, una colección de puertos unidos por barcas, puentes y pontones. Lamentablemente, gran parte de su esplendor ahora se pierde bajo el mar. Las inundaciones parecen haber licuado las islas de arcilla sobre las que se encontraba la ciudad, hundiéndola durante siglos.
 
-Several ceremonial boats remain on the abandoned shore, but the ruins themselves are almost entirely underwater.</Translation>
+Varios barcos ceremoniales permanecen en la orilla abandonada, pero las ruinas están casi por completo bajo el agua.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_NEW_HUMANS</zType>
-		<Translation>On a small island off the coast, our explorers discover a cave deep in the leafy jungle. Inside, buried in a series of shallow graves, lie the skeletal remains of several hundred ancient villagers. Only these skeletons are much smaller than humans.
+		<Translation>En una pequeña isla frente a la costa, nuestros exploradores descubren una cueva en lo profundo de la frondosa jungla. En el interior, enterrados en una serie de tumbas poco profundas, se encuentran los restos esqueléticos de varios cientos de aldeanos antiguos, solo que estos esqueletos son mucho más pequeños que los humanos.
 
-{CHARACTER-2}, the great scientist, is astonished. Are these beings evidence of early ancestors, or of something much more sinister?</Translation>
+{CHARACTER-2}, el gran científico, está asombrado. ¿Son estos seres evidencia de antepasados tempranos o de algo mucho más siniestro?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_SUNKEN_TOMBS</zType>
-		<Translation>A series of stone-cut tombs line the seaside cliffs. While most of the ruins appear to have been looted, many have sunken beneath the tidal waters, the result of frequent earthquakes. 
+		<Translation>Una serie de tumbas excavadas en piedra se alinean en los acantilados junto al mar. Si bien la mayoría de las ruinas parecen haber sido saqueadas, muchas se han hundido bajo el mar, debido a frecuentes terremotos.
 
-Your scouts can scour the rubble for valuables, or you may hire small craft to explore the shallows.</Translation>
+Tus exploradores pueden rastrear los escombros en busca de objetos de valor o puedes contratar pequeñas embarcaciones para explorar las aguas poco profundas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_KINGS_ROADS</zType>
-		<Translation>Our expedition comes upon an impressive paved road system leading between wood structures that have long since rotted away. The engineering required to build such a site was far ahead of its time.
+		<Translation>Nuestra expedición llega a un impresionante sistema de carreteras pavimentadas entre estructuras de madera que se han podrido hace mucho tiempo. La ingeniería necesaria para construir un sitio de este tipo estaba muy avanzada a su tiempo.
 
-What would you have us do with it?</Translation>
+¿Qué quieres que hagamos con esto?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GEOGLYPHS</zType>
-		<Translation>Nothing about the hulking dirt mounds seems impressive at first. Not until our troops explore the adjacent desert hills do they return with news. At a distance, these primitive ruins comprise a massive pattern - designs, and even zoological images - made to be seen from a great height.
+		<Translation>Nada sobre los enormes montículos de tierra parece impresionante al principio. No regresan con noticias hasta que nuestras tropas exploran las colinas adyacentes del desierto. Desde la distancia, estas ruinas primitivas parecen seguir un patrón de diseño e incluso imágenes zoológicas, hechas para ser vistas desde una gran altura.
 
-Who knows what riches lie beneath the mounds, but to dig would destroy their beauty.</Translation>
+Quién sabe qué riquezas hay debajo de los montículos, pero cavar destruiría su belleza.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_RAISED_FIELDS</zType>
-		<Translation>Our explorers discover the ruins of a sprawling agricultural civilization. Raised fields split by shallow canals suggest that the ancient inhabitants controlled flooding, allowing them to thrive during seasons of heavy rainfall.
+		<Translation>Nuestros exploradores descubren las ruinas de una civilización agrícola en expansión. Los campos elevados divididos por canales poco profundos sugieren que los antiguos habitantes controlaron las inundaciones, lo que les permitió prosperar durante las temporadas de fuertes lluvias.
 
-Such a site has much to teach us about efficient food production, if we take the time to heed it.</Translation>
+Un sitio así tiene mucho que enseñarnos sobre la producción eficiente de alimentos, si nos tomamos el tiempo para prestarle atención..</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GRAVE_CIRCLES</zType>
-		<Translation>A grave circle in the trees appears to have belonged to a great tribe. The shaft includes the remains of a ruler, his spouse and children, and a retinue of servants. 
+		<Translation>Un cementerio circular entre los árboles parece haber pertenecido a una gran tribu. En el centro reposan los restos de un gobernante, su esposa e hijos, y un séquito de sirvientes.
 
-Foreign ruins - and their treasures - have captured the imagination of the nobility, especially the {FAMILY-2,1}. You might consider using some of the recent findings to gain their favor. Or not.</Translation>
+Las ruinas extranjeras - y sus tesoros - han capturado la imaginación de la nobleza, especialmente la de la familia {FAMILY-2,1}.Podrías considerar usar algunos de los hallazgos recientes para ganarte su favor. O no.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES</zType>
-		<Translation>Explorers uncover numerous shafts in the desert hillside, their entrances covered by past landslides. Emeralds litter the dark passages, suggesting that this site once was a thriving mine. 
+		<Translation>Los exploradores descubren numerosos pozos en la ladera del desierto, cuyas entradas están cubiertas por deslizamientos de tierra del pasado. Esmeraldas recubren los pasajes oscuros, lo que sugiere que este sitio alguna vez fue una mina próspera.
 
-Your scout wishes to continue excavating to find more valuables, but such actions could cause the mines to collapse.</Translation>
+Tu explorador desea continuar excavando para encontrar más objetos de valor, pero eso podría hacer que las minas se derrumben.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_CAVE_IN</zType>
-		<Translation>Our laborers' attempts to reopen the collapsed emerald mines have failed. Hillside supports crumbled, burying many men beneath the ruins and the rubble. 
+		<Translation>Los intentos de nuestros trabajadores de reabrir las minas de esmeraldas derrumbadas han fracasado. Los soportes de las laderas se han derrumbado, enterrando a muchos hombres bajo las ruinas y los escombros.
 
-Such a failed gambit has left the population shaken.</Translation>
+Este hecho tan trágico ha dejado a la población conmocionada.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINE_REBUILT</zType>
-		<Translation>After months of arduous labor, your crews of engineers have rebuilt the emerald mines discovered last year. Now that a base camp has been established in the distant hillside, our workers may brave the depths to bring new riches to the nation.
+		<Translation>Después de meses de arduo trabajo, tus equipos de ingenieros han reconstruido las minas de esmeraldas descubiertas el año pasado. Ahora que se ha establecido un campamento base en la ladera, nuestros trabajadores pueden desafiar las profundidades para traer nuevas riquezas a la nación.
 
-Our gamble has paid off.</Translation>
+Nuestra apuesta ha dado sus frutos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS</zType>
-		<Translation>A massive edifice surrounds this hilltop “city in the clouds,” which looks to have housed many thousands of citizens. Shattered by tree roots and overgrown with dense foliage, this settlement appears to have been an early {TRIBE-2,1} capital.
+		<Translation>Un enorme edificio rodea esta “ciudad en las nubes” en la cima de una colina. Parece haber albergado a miles de ciudadanos. Destrozado por las raíces de los árboles y cubierto de un denso follaje, este asentamiento parece haber sido una de las primeras capitales de los {TRIBE-2,1}.
 
-Restoring the crumbling ruin might improve relations, or it could end up a waste of our precious resources.</Translation>
+Intentar restaurarlo podría mejorar las relaciones o podría terminar en un desperdicio de nuestros preciados recursos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH</zType>
-		<Translation>A temple stands atop the crest of the highest hill, its terrace decorated with bright metal and ceramic. Local legend marks this site as where heaven and earth meet, "where all life began." Of course, the only way to see its wonders is to inhale some of the mind-altering plants along the hillside in an ancient spiritual ceremony.
+		<Translation>Un templo, levantado sobre la cima de la colina más alta, tiene una terraza decorada con metal brillante y cerámica. La leyenda local define este lugar como el lugar donde el cielo y la tierra se encuentran, "donde comenzó toda la vida". Por supuesto, la única forma de ver sus maravillas es inhalando algunas de las plantas alucinógenas que crecen a lo largo de la ladera en una antigua ceremonia espiritual.
 
-A soldier brings you a bowl of this strange powder, but he seems hesitant about its effects.</Translation>
+Un soldado te trae un cuenco de este extraño polvo, pero parece dudoso sobre sus efectos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_GOLD_WORKERS</zType>
-		<Translation>This hidden jungle city boasts a hoard of gold jewelry: pendants, lip-plugs, nose ornaments, necklaces, and earrings. All the workmanship at the site displays the same signature style and an unparalleled skill with gold.  
+		<Translation>Esta ciudad selvática escondida cuenta con un tesoro de joyas de oro: colgantes, adornos para la nariz, collares y pendientes. Todas las construcciones en el sitio muestra el mismo estilo característico y una habilidad incomparable con el oro.
 
-Such a trove of gold is always welcome. Of course, there are many ways to utilize it.</Translation>
+Una cantidad de oro así es siempre bienvenida. Indudablemente, hay muchas formas de utilizarlo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_BEADS_AND_FIGURINES</zType>
-		<Translation>Our explorers find tiny beads and copper figurines among the ruins, proof that the previous inhabitants understood how to extract metals from ore.
+		<Translation>Nuestros exploradores encuentran pequeñas cuentas y figurillas de cobre entre las ruinas, una prueba de que los habitantes anteriores sabían cómo extraer metales del mineral.
 
-Scientists insist that we could unlock new methods of metal production while scholars argue that they could dispel the mysteries of a forgotten civilization.</Translation>
+Los científicos insisten en que podríamos desbloquear nuevos métodos de producción de metales, mientras que los académicos argumentan que podrían descubrir los misterios de una civilización olvidada.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WRATH_OF_THE_WATCHERS</zType>
-		<Translation>The ground shakes beneath {CITY-3}! Structures across the city suffer damage, but the number of dead is surprisingly low.
+		<Translation>¡El suelo tiembla debajo de {CITY-3}! Las estructuras de la ciudad sufren daños, pero el número de muertos es sorprendentemente bajo.
 
-In a strange coincidence, most of the victims were members of a famous expedition. They discovered the mysterious ruins known only as The Watchers. At our command, they destroyed the monoliths and recovered the useful stone.
+ES una extraña coincidencia que la mayoría de las víctimas fueran miembros de una famosa expedición. Descubrieron las misteriosas ruinas conocidas como Los Vigilantes. A nuestras órdenes, destruyeron los monolitos y recuperaron la piedra.
 
-Perhaps that was a mistake... </Translation>
+Quizás fue un error...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_PROPHECY</zType>
-		<Translation>Something in the newly discovered ruins has spooked our scouts, and they request that you visit the site at once. The court accompanies you to the weathered temple, where a series of ancient etchings seems to depict... you, {CHARACTER-1}. 
+		<Translation>Algo en las ruinas recién descubiertas ha asustado a nuestros exploradores y te solicitan que visites el sitio de inmediato. La corte te acompaña al templo deteriorado, donde una serie de grabados antiguos parece... representarte a ti, {CHARACTER-1}.
 
-Court scholars attempt to downplay the similarities as coincidence, but the resemblance is uncanny.</Translation>
+Los académicos de la corte intentan minimizar las similitudes como una coincidencia, pero la semejanza es asombrosa.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_THE_DIVINER</zType>
-		<Translation>A woman sits upon a crumbling dais in the center of the ruins, arms raised to the heavens. "I have been waiting for you," she says, as she inhales fumes from a stone dish. 
+		<Translation>Una mujer está sentada sobre un estrado que se desmorona en el centro de las ruinas con los brazos levantados hacia el cielo. "Te estaba esperando", dice mientras inhala los vapores de un plato de piedra.
 
-She claims to be a seer and oracle, a voice of the divine. "I will serve you faithfully until the end of your reign."</Translation>
+Dice ser una vidente y un oráculo, una voz de lo divino. "Te serviré fielmente hasta el final de tu reinado".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_GATE</zType>
-		<Translation>We come across a guarded entrance to an ancient, ruined city. A majestic sphinx is sitting on an inscription that will help us open the gate.</Translation>
+		<Translation>Nos encontramos con una entrada vigilada a una ciudad antigua y en ruinas. Una majestuosa esfinge está sentada sobre una inscripción que nos puede ayudar a abrir la puerta.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX</zType>
-		<Translation>The sphinx asks, "Which creature has one voice and yet becomes four-footed and then two-footed and finally three-footed?"</Translation>
+		<Translation>La esfinge pregunta: "¿Qué criatura tiene una sola voz y, sin embargo, anda a cuatro patas, luego en dos y finalmente en tres?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_2</zType>
-		<Translation>The sphinx ask, "My mother I bring forth, she brings forth me; I'm sometimes greater, sometimes less than she."</Translation>
+		<Translation>La esfinge pregunta: "Mi madre me da a luz, ella me da a luz: a veces soy más grande, a veces menos que ella".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_3</zType>
-		<Translation>The sphinx asks:
+		<Translation>La esfinge pregunta:
 
-I look at you whenever you look at me;
-You see but I see not; no sight have I;
-I speak but have no voice; your voice is heard;
-My lips can only open uselessly.</Translation>
+Yo te miro cuando tú me miras;
+Tú ves pero yo no veo; no tengo vista; 
+Hablo pero no tengo voz; se escucha tu voz; 
+Mis labios solo pueden abrirse inútilmente.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RIDDLE_OF_THE_SPHINX_4</zType>
-		<Translation>The sphinx asks:
+		<Translation>La esfinge pregunta:
 
-I am a black child sprung from a bright sire,
-A wingless bird, fleeting to heaven from earth.
-Each eye that meets me weeps, but not from grief,
-And in thin air I vanish at my birth.</Translation>
+Soy un niño negro nacido de un padre brillante, 
+Un pájaro sin alas, que huye al cielo desde la tierra. 
+Cada ojo que me encuentra llora, pero no de dolor, 
+Y en el aire desaparezco al nacer.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_ALL_THAT_GLITTERS</zType>
-		<Translation>Thanks to the recently discovered cache of gold, ministers in {CITY-1} plan to fund the construction of a new royal treasury. Of course, this windfall may be better spent on the people than on ourselves.</Translation>
+		<Translation>Gracias al alijo de oro recientemente descubierto, los ministros de {CITY-1} planean financiar la construcción de un nuevo tesoro real. Claramente, esta ganancia inesperada puede usarse mejor en las personas que en nosotros mismos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAUGHT_IN_THE_ACT</zType>
-		<Translation>Our scout is caught pilfering a wagonload of the recently discovered silver, and he is brought before the court for justice. The man pleads for his life, hoping that a life of service to the throne will be enough to earn his freedom. </Translation>
+		<Translation>Nuestro explorador es sorprendido robando un carro lleno de plata recién descubierta y es llevado ante la corte para que se haga justicia. El hombre suplica por su vida, esperando que una vida entera de servicio al trono sea suficiente para ganarse la libertad.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_MARVELOUS_SPECIMENS</zType>
-		<Translation>Deep in the ore deposits, our scouts unearth a collection of strange and marvelous specimens. Although these impressions resemble fish and birds found in our lakes and forests, they exhibit many strange characteristics.</Translation>
+		<Translation>En lo profundo de los depósitos de mineral, nuestros exploradores desentierran una colección de extraños y maravillosos especímenes. Aunque estas impresiones se asemejan a los peces y aves que se encuentran en nuestros lagos y bosques, exhiben muchas características extrañas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_RITUAL_SCENT</zType>
-		<Translation>The positive effects of the recently harvested incense have made it highly prized by {RELIGION-3,1} groups. They wish to obtain the entire crop for their ceremonies to keep harmful spirits away, but many in {CITY-2} wish to use it for the simple purpose of improving daily life.</Translation>
+		<Translation>Los efectos positivos del incienso recién cosechado lo han hecho muy apreciado por los grupos {RELIGION-3,3}. Quieren obtener la cosecha completa para sus ceremonias para mantener alejados a los espíritus malignos, pero en {CITY-2}, muchos desean usarla con el simple propósito de mejorar su vida diaria.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_STANDOFF</zType>
-		<Translation>As our scouts explore the newly discovered gem deposit, they come upon a small band of {PLAYER-2,3} that also has its eye on the rich vein. Both groups regard the other suspiciously, and they wait for someone to make the first move.</Translation>
+		<Translation>Mientras nuestros exploradores investigan el depósito de gemas recién descubierto, se encuentran con una pequeña banda de {PLAYER-2,3} que también tiene el ojo puesto en la rica veta.Ambos grupos se miran los unos a los otros con desconfianza y esperan a que alguien dé el primer paso.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_HIGH_SPIRITS</zType>
-		<Translation>Among the fields of twisting grape vines, our scouts meet a wandering scholar who has drunk his fill of the local varietals. The man offers his service to the court, though he may be of more use helping our scouts bring home the harvest.</Translation>
+		<Translation>Entre los campos de retorcidos viñedos, nuestros exploradores se encuentran con un académico errante que ha bebido hasta hartarse de las variedades locales. El hombre ofrece su servicio a la corte, aunque puede ser más útil para ayudar a nuestros exploradores a llevar los recursos a casa.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAMEL_BITE</zType>
-		<Translation>Our scout was bitten while corraling a caravan of camels, and he will need to take some time to recover from his injury. This particular breed of creature has a cruel disposition.</Translation>
+		<Translation>Nuestro explorador fue mordido mientras acorralaba una caravana de camellos y necesitará tomarse un tiempo para recuperarse de su herida. Esta raza de criaturas en particular tiene una disposición cruel.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_TOUGH_GAME</zType>
-		<Translation>The game here has a tough, sinewy texture, and the flavor leaves much to be desired. However, when boiled and treated, the animals' insides can be used for many practical purposes.</Translation>
+		<Translation>El gamo aquí tiene una textura dura y vigorosa, y el sabor deja mucho que desear. Sin embargo, cuando se hierve y se trata, las entrañas de estos animales se puede utilizar para muchos propósitos prácticos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_WILD_HORSES</zType>
-		<Translation>When the recently discovered horses reach {CITY-2}, your servants inquire as to how the beasts should be used. There is always a need for work animals in the capital, but the decision of how they will be used remains, as always, with you.
+		<Translation>Cuando los caballos recién descubiertos llegan a {CITY-2}, tus sirvientes preguntan cómo deben usarse estas bestias. Siempre hay una necesidad de animales de trabajo en la capital, pero la decisión de cómo se utilizarán depende, como siempre, de tí.
 </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CORNER_THE_MARKET</zType>
-		<Translation>The style of marble recently discovered has fetched a high price in the local bazaars, and noble families wish to raise prices to corner the market. What shall we tell merchants?</Translation>
+		<Translation>El tipos de mármol descubierto recientemente ha alcanzado un alto precio en los bazares locales, y las familias nobles desean subir los precios para acaparar el mercado.
+		
+¿Qué les diremos a los comerciantes?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_LUXURY_OR_UTILITY</zType>
-		<Translation>With the recent acquisition of fine fur, your {G2:husband:wife} has asked {G2:his:her} servants for the creation of new fashions to showcase the luxury. However, several members of the court wish to use the warm material to outfit our soldiers, who suffer in cold conditions.</Translation>
+		<Translation>Con la reciente adquisición de pieles finas, tu {G2:esposo:esposa} ha pedido a sus sirvientes la creación de nuevas modas para mostrar el lujo. Sin embargo, varios miembros de la corte desean utilizar el material cálido para vestir a nuestros soldados, que sufren condiciones de frío.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_PIG_IN_THE_PALACE</zType>
-		<Translation>Somehow, a wild pig has appeared inside the palace. Its squeals fill the corridors, as courtiers and servants scurry for safety! 
+		<Translation>No se sabe como ha aparecido un cerdo salvaje dentro del palacio. ¡Sus chillidos llenan los pasillos, mientras cortesanos y sirvientes corren en busca de seguridad!
 
-You suspect that the beast was in the drove of pigs recently brought back to {CITY-2} from the wilderness. You also suspect that young {CHARACTER-SHORT-3} set it loose.</Translation>
+Sospechas que la bestia estaba en la manada de cerdos traídos recientemente a {CITY-2} desde el desierto.También sospechas que el joven {CHARACTER-SHORT-3} lo soltó.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_HELPING_HANDS</zType>
-		<Translation>Along with the wheat they harvested from the nearby countryside, our scouts return to {CITY-2} with a group of hardy tribal farmers. These nomads possess a unique knowledge of this particular grain, and they could be put to use on our farms.</Translation>
+		<Translation>Junto con el trigo que se cosechó en un campo cercano, nuestros exploradores regresan a {CITY-2} con un grupo de robustos granjeros tribales. Estos nómadas poseen un conocimiento único de este grano en particular, y podría utilizarse en nuestras granjas.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_OLIVE_OIL</zType>
-		<Translation>A large supply of fresh olive oil has been pressed with the recently harvested crop of olives. The timing is fortunate. Both {PLAYER-3} and {PLAYER-4} have developed an affinity for our olive oil, and this rich reserve would make an excellent gift.</Translation>
+		<Translation>Se ha prensado una gran cantidad de aceite de oliva fresco con la cosecha de olivas recién recolectada. Es un momento de suerte. Tanto {PLAYER-3} como {PLAYER-4} se han vuelto adictos a nuestro aceite de oliva, y esta rica reserva sería un excelente regalo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_SORGHUM_SEEDS</zType>
-		<Translation>Scouts have returned with pouches of sorghum seeds, which will allow us to cultivate the crop locally. Farmers have already begun to sow open fields in {CITY-2}. For what purpose should they raise this grain?</Translation>
+		<Translation>Los exploradores han regresado con bolsas de semillas de sorgo, lo que nos permitirá cultivar el grano localmente. Los agricultores ya han comenzado a sembrar campos abiertos en {CITY-2}. 
+
+¿Con qué propósito deberían cultivar este grano?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_YOUNG_SHEPHERD</zType>
-		<Translation>As our scout herds the recently discovered sheep, he discovers a young girl tending to the animals. She appears to be {TRIBE-3,2} child who has wandered far from her tribe. She is alone but for her small, loyal flock.</Translation>
+		<Translation>Mientras nuestro explorador pastorea a las ovejas recién descubiertas, descubre a una niña cuidando a los animales. Parece ser una niña de los {TRIBE-3,2} que se ha alejado de su tribu.Está sola, excepto por su pequeño y leal rebaño.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_PEARL_DIVERS</zType>
-		<Translation>Our scouts have encountered a group of experienced pearl divers off the coast. For a small contribution, these brave men and women are willing to add more treasures to our harvest. 
+		<Translation>Nuestros exploradores se han encontrado con un grupo de buscadores de perlas experimentados frente a la costa. Por una pequeña contribución, estos valientes hombres y mujeres están dispuestos a darnos algo de su recolección.
 
-Both the {FAMILY-1} and {FAMILY-2} families have expressed a desire for more pearls. Perhaps this is an opportunity to win favor on the court.</Translation>
+Tanto la familia {FAMILY-1} como la familia {FAMILY-2} desean tener más perlas. Quizás esta sea una oportunidad para ganarse el favor de la corte.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_RESCUE_AT_SEA</zType>
-		<Translation>In an attempt to collect more crabs than his nets allow, our scout capsizes his boat and must be rescued by local fishermen. 
+		<Translation>En un intento por capturar más cangrejos de los que permiten tus redes, nuestro explorador vuelca su bote y es rescatado por pescadores locales.
 
-Afterwards, these friendly gatherers have expressed an interest in migrating to {PLAYER-2} to start a new life. Where shall they settle?</Translation>
+Después, estos amigables pescadores han expresado su interés en migrar a {PLAYER-2} para comenzar una nueva vida. ¿Dónde se instalarán?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_BEAST_OF_BURDEN</zType>
-		<Translation>One of the elephants in the newly discovered herd appears to have been domesticated. It wears a saddle and military ornamentation. Perhaps we can remind the beast of its training.</Translation>
+		<Translation>Uno de los elefantes de la manada recién descubierta parece haber sido domesticado.Lleva montura y ornamentación militar. Quizás podamos recordarle a la bestia su entrenamiento.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_GREAT_POTENTIAL</zType>
-		<Translation>Examining the latest salt harvest, scientists and merchants recognize the potential for large-scale salt production for food preservation and nutrition. {CHARACTER-3}, governor of {CITY-2}, requests that we provide funds from the treasury to develop this process for {G3:his:her} city.</Translation>
+		<Translation>Al examinar la última recolección de sal, los científicos y comerciantes reconocen el potencial de la producción de sal a gran escala para la conservación de alimentos y la nutrición.{CHARACTER-3}, gobernador de {CITY-2}, solicita que proporcionemos fondos de la tesorería para desarrollar este proceso para su ciudad.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_SHIP_SICKNESS</zType>
-		<Translation>Scientists in {CITY-2} claim that eating citrus fruit can help combat the withering effects of a long sea voyage. It is a controversial position but one worth considering. Our scout's latest harvest of citrus could take the usual route into the hands of local merchants, or we could divert it to the shipyards and sailors.</Translation>
+		<Translation>Los científicos de {CITY-2} afirman que comer frutas cítricas puede ayudar a combatir los efectos devastadores de un largo viaje por el mar. Es una posición polémica pero que vale la pena considerar. La última recolección de cítricos de nuestro explorador podría tomar la ruta habitual en manos de los comerciantes locales, o podríamos desviarla a los astilleros y marineros.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_FILTHY_ANIMALS</zType>
-		<Translation>Several days after shepherding a group of wild goats to the palace, the goatherd falls ill. Various members of his family also get sick. It seems the goats have brought disease with them.
-
-Now {CHARACTER-2} exhibits similar symptoms. We should act fast to contain this potential outbreak. </Translation>
+		<Translation>Varios días después de pastorear a un grupo de cabras salvajes hasta el palacio, el cabrero cae enfermo. Varios miembros de su familia también enferman. Parece que las cabras han traído enfermedades.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_ROSE_MADDER</zType>
-		<Translation>In the recent harvest, gatherers discover a collection of herbs and flowering plants with a variety of properties. Most striking, however, is how this plant produces a bright red pigment for paints and colored fabric.
+		<Translation>En la reciente recolección, los exploradores descubren una colección de hierbas y plantas con flores con una gran variedad de propiedades. Lo más llamativo, sin embargo, es cómo esta planta produce un pigmento rojo brillante para pinturas y telas de colores.
 
-Scientists have begun to investigate this herb with earnest, discovering many uses.</Translation>
+Los científicos han comenzado a investigar esta hierba seriamente y han descubierto muchos usos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARVEST_CAPSIZED</zType>
-		<Translation>Court scientist {CHARACTER-2} recently joined a fishing expedition to research {G2:his:her} latest work, a treatise on marine life and fishing techniques. Unfortunately, {G2:he:she} fell from his boat and was trapped in a knot of cast nets, and {G2:he:she} was prodded with many barbed tridents before {G2:his:her} rescue.
+		<Translation>El científico de la corte {CHARACTER-2} se unió recientemente a una expedición de pesca para investigar su último trabajo, un tratado sobre vida marina y técnicas de pesca.Desafortunadamente, se cayó de su bote y quedó atrapado en un nudo de redes de arrastre, y se clavó muchas púas antes de su rescate}.
 
-The poor {G2:man:woman} has suffered numerous misfortunes, but perhaps we can ease the pain. </Translation>
+{G2:El pobre hombre:La pobre mujer} ha sufrido numerosas heridas, pero quizás podamos aliviarle el dolor.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_NECROPOLIS</zType>
-		<Translation>Something awful happened here. Our scouts report that a once mighty city lies in ruins. The walls have been breached in multiple places and the population has been slaughtered. 
+		<Translation>Algo terrible ha pasado aquí. Nuestros exploradores informan que una ciudad que alguna vez fue poderosa ahora está en ruinas. Se han desmoronado las paredes en varios lugares y se ha masacrado a la población.
 
-A few survivors remain, but far too few to even begin burying their dead.</Translation>
+Quedan unos pocos supervivientes, pero son muy pocos para empezar a enterrar a sus muertos.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_STRANGE_ART</zType>
-		<Translation>Our scouts report discovering a strange sculpture amidst these ruins. While it’s unlike any art produced in {PLAYER-0}, it holds a strange beauty.
+		<Translation>Nuestros exploradores informan haber descubierto una extraña escultura en medio de estas ruinas. Si bien es diferente a cualquier arte producido en {PLAYER-0}, tiene una extraña belleza.
 
-What should be done with it?</Translation>
+¿Qué debemos hacer con esto?
+</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_STRANGE_SCROLL</zType>
-		<Translation>Sealed within a musty tomb, surrounded by strange signs and sigils, our scouts discover an ancient but surprisingly well-preserved scroll. Thinking this unsettling, they bring it to you for judgement.
+		<Translation>Sellados dentro de una tumba mohosa, rodeados de extraños signos y sellos, nuestros exploradores descubren un pergamino antiguo pero sorprendentemente bien conservado. Pensando en esto tan inquietante, te lo traen para que lo juzgues.
 
-While the writing is in an unknown language, it is oddly simple. It feels as if you could quickly learn it if you devoted some time to the task.</Translation>
+Si bien la escritura está en un idioma desconocido, es extrañamente simple. Te sientes como si pudieras aprenderlo rápidamente si dedicaras algo de tiempo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_WISE_MAN</zType>
-		<Translation>While exploring the ruins, our scouts are approached by an old, one-eyed man who offers to advise you on certain subjects.
+		<Translation>Durante la exploración de las ruinas, un anciano tuerto se acerca a nuestros exploradores y se ofrece a aconsejarles sobre ciertos temas.
 
-The scouts are keen to leave the area due to sighting several unusually large wolves, so there is only a short time to talk.</Translation>
+Los exploradores están ansiosos por abandonar el área debido al avistamiento de varios lobos inusualmente grandes, por lo que hay poco tiempo para hablar.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_COMET_SIGHTED</zType>
-		<Translation>Our scouts didn’t discover anything interesting in these ruins, however they report that while they were searching them they witnessed a large comet streak across the sky above.</Translation>
+		<Translation>Nuestros exploradores no descubrieron nada interesante en estas ruinas. Sin embargo, informaron que mientras las estaban registrando, presenciaron un gran cometa cruzando el cielo.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RUINS_CHOSEN_CHILD</zType>
-		<Translation>In the ruins of a decaying, rune-carved temple your scouts discover a dying priestess and a young child. With her final words she entreats the scouts to bring you the child, saying he is destined to change the world.</Translation>
+		<Translation>En las ruinas de un templo decadente y tallado con runas, tus exploradores descubren una sacerdotisa moribunda y un niño pequeño. Con sus últimas palabras, ruega a los exploradores que te traigan al niño, diciendo que está destinado a cambiar el mundo.</Translation>
 	</Entry>
 	<Entry beginGroup="Contact">
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_CALM_EMISSARY</zType>
-		<Translation>A calm barbarian leader arrives in your court, poised and cautious. {G0:He:She} says the {TRIBE-0} will not quarrel with your people if you agree to leave them alone. What do you say?</Translation>
+		<Translation>Un líder bárbaro llega tranquilamente a tu corte, sereno y cauteloso. Dice que los {TRIBE-0} no se pelearán con tu gente si aceptas dejarlos en paz. 
+		
+¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HEAD_COLLECTION</zType>
-		<Translation>The leader from the {TRIBE-0} arrived with a number of servants carrying heavy, stinking sacks. After a series of ever more elaborate threats and warnings, the servants marked the conclusion of {G0:his:her} speech by upending their sacks and allowing a large number of severed heads in various states of decay to spill out onto the floor. 
+		<Translation>El líder de los {TRIBE-0} llegó con varios sirvientes que llevaban sacos pesados y apestosos. Después de una serie de amenazas y advertencias cada vez más elaboradas, los sirvientes concluyeron su discurso volcando sus sacos y derramando por el suelo un gran número de cabezas cortadas en diferentes estados de descomposción.
 
-“This”, {G0:he:she} says, “is all that remains of the last city to defy us!”</Translation>
+"Esto", dice {G0:él:ella}, "¡es todo lo que queda de la última ciudad que nos desafió!"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_SEEDY_MESSENGER</zType>
-		<Translation>A strange {G0:man:woman} from an unknown tribe shuffles into your court. Looking everywhere but at you, {G0:he:she} suggests that unless you are able to demonstrate your munificence, the {TRIBE-0} will take everything from you. What do you say?</Translation>
+		<Translation>{G0:Un extraño hombre:Una extraña mujer} de una tribu desconocida entra en tu corte.Mirando a todas partes menos a tí. {G0:Él:Ella} sugiere que a menos que puedas demostrar tu generosidad, los {TRIBE-0} te lo quitarán todo.
+
+¿Qué dices?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_GIFT_EXCHANGE</zType>
-		<Translation>A warlord of the {TRIBE-0} presents {G0:himself:herself} at court. {G0:He:She} says {G0:his:her} people traditionally cement goodwill with a newly met tribe by sharing the bounty of their next hunt in exchange for a gift. 
+		<Translation>Un caudillo de los {TRIBE-0} se presenta {G0:él mismo:ella misma} en la corte. Dice que su gente tradicionalmente cimenta la buena voluntad con una tribu recién encontrada, compartiendo la recompensa de su próxima caza a cambio de un regalo.
 
-How will you respond?</Translation>
+¿Cómo responderás?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_REFUGEE_OUTLAWS</zType>
-		<Translation>Escaped prisoners of the {TRIBE-0} have reached {CITY-1} with a band of bounty hunters close behind. The {TRIBE-0} demand that we return these outlaws so they may face justice. 
+		<Translation>Los prisioneros fugitivos de los {TRIBE-0} han llegado a {CITY-1} con una banda de cazarrecompensas. Los {TRIBE-0} exigen que devolvamos a estos forajidos para que se presenten ante la justicia.
 
-How will you respond?</Translation>
+¿Cómo responderás?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_RIPE_LANDS</zType>
-		<Translation>Scouting reports portray the {TRIBE-0,1} lands as a valuable source of potential plunder. We should consider seizing this opportunity and taking it from them. 
+		<Translation>Los informes de exploración describen las tierras de los {TRIBE-0,1} como una valiosa fuente de saqueo potencial. Deberíamos considerar esta oportunidad y aprovecharla.
 
-What do you command?</Translation>
+¿Qué mandas?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_HAUGHTY_EMISSARY</zType>
-		<Translation>A haughty barbarian warlord strides into court, demanding an audience. {G0:He:She} declares that the {TRIBE-0} will permit you to befriend them, but only if you recognize their superiority. 
+		<Translation>Un altivo caudillo bárbaro entra en la corte exigiendo audiencia. Declara que los {TRIBE-0} te pfrecerán su amistad, pero solo si reconoces su superioridad.
 
-How shall we respond?</Translation>
+¿Cómo responderemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_GRINNING_EMISSARY</zType>
-		<Translation>A grinning barbarian chief comes before you, bowing with respect. {G0:He:She} explains that it is customary among the {TRIBE-0} to show their prosperity by offering gifts to new acquaintances.
+		<Translation>Un sonriente jefe bárbaro se presenta ante ti, inclinándose con respeto. Explica que es costumbre entre los {TRIBE-0} mostrar su prosperidad ofreciendo obsequios a nuevos conocidos.
 
-How shall we respond?</Translation>
+¿Cómo responderemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_CULTURAL_DELEGATION</zType>
-		<Translation>The {TRIBE-0} would like to send a delegation of singers and storytellers to the capital. Refusing them would be an insult, but we worry that entertainers may disrupt the court. 
+		<Translation>Los {TRIBE-0} desean enviar una delegación de cantantes y narradores a la capital.Rechazarlos sería un insulto, pero nos preocupa que los artistas irrumpan en la corte.
 
-What shall we do?</Translation>
+¿Qué hacemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_DELIGHTED_EMISSARY</zType>
-		<Translation>{sentencecase:{TRIBE-0,2}} leader arrives in court. Delighted that we are already at war with {G0:his:her} people's ancestral enemies, the {TRIBE-2,0}, {G0:he:she} proposes that we establish a diplomatic friendship. 
+		<Translation>El líder de los {statementcase:{TRIBE-0,2}} llega a la corte. Encantado de que ya estemos en guerra con los enemigos ancestrales de su pueblo, los {TRIBE-2,0}, nos propone que establezcamos una amistad diplomática.
 
-How shall we reply?</Translation>
+¿Cómo respondemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_FUMING_MESSENGER</zType>
-		<Translation>A warlord from the {TRIBE-0} stands before us, fuming. {G0:He:She} says the {TRIBE-2,0} are a race of outlaws, and {G0:he:she} demands that we make them your enemies or risk war with {G0:his:her} people. 
+		<Translation>Un caudillo de los {TRIBE-0} está frente a nosotros, furioso. Dice que los {TRIBE-2,0} son una raza de forajidos, y exige que los consideremos enemigos o nos arriesguemos a una guerra con su gente.
 
-How shall we respond?</Translation>
+¿Cómo respondemos?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WAR_AMBASSADOR</zType>

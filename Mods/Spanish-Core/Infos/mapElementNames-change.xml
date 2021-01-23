@@ -34,7 +34,7 @@
 			<zValue>Monte Giluwe</zValue>
 			<zValue>Kabargin Oth</zValue>
 			<zValue>Dar-Alages</zValue>
-			<zValue>Ghegam Ridge</zValue>
+			<zValue>Cresta de Ghegam</zValue>
 			<zValue>Tousside</zValue>
 			<zValue>Vakak</zValue>
 			<zValue>Tarso Voon</zValue>
@@ -68,7 +68,7 @@
 			<zValue>Monte Tahat</zValue>
 			<zValue>Grossglockner</zValue>
 			<zValue>Bikku Bitti</zValue>
-			<zValue>Mulhacen</zValue>
+			<zValue>Mulhacén</zValue>
 			<zValue>Rysy</zValue>
 			<zValue>Monte Hermon</zValue>
 			<zValue>Shkhara</zValue>
@@ -81,7 +81,7 @@
 		<azRiverNames>
 			<zValue>El Danubio</zValue>
 			<zValue>Río Kura</zValue>
-			<zValue>Río Tagus</zValue>
+			<zValue>Río Tajo</zValue>
 			<zValue>Río Jordán</zValue>
 			<zValue>Río Dniéper</zValue>
 			<zValue>Río Vístula</zValue>
@@ -102,13 +102,13 @@
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Bosque de Bialowieza</zValue>
-			<zValue>Bosque de Boubin Primeval</zValue>
+			<zValue>Bosque primitivo de Boubin</zValue>
 			<zValue>Hayedo de Lagodekhi</zValue>
 			<zValue>Bosque de Belgrado</zValue>
-			<zValue>Bosque Joglland</zValue>
+			<zValue>Joglland</zValue>
 			<zValue>Zona volcánica de La Garrotxa</zValue>
 			<zValue>Bosque de Irati Fir</zValue>
-			<zValue>Bosque Mixto de Anatolian</zValue>
+			<zValue>Bosque de coníferas de Anatolian</zValue>
 			<zValue>Bosque de Retezat</zValue>
 			<zValue>Hayedo de los Cárpatos</zValue>
 			<zValue>Bosque de Ordesa</zValue>
@@ -121,7 +121,7 @@
 			<zValue>Bosque montano de Ovre Dividal</zValue>
 			<zValue>Bosque de la llanura aluvial de Acarlar</zValue>
 			<zValue>Bosque del cedro Gouraud</zValue>
-			<zValue>Cyrenaica Juniper Stands</zValue>
+			<zValue>Arboleda de enebro de Cyrenaica</zValue>
 			<zValue>Bosques de Viena</zValue>
 			<zValue>Pinar de Monterey</zValue>
 			<zValue>Bosques de Cataluña</zValue>
@@ -159,13 +159,13 @@
 			<zValue>Meseta de Elenydd</zValue>
 			<zValue>Meseta Engstligenalp</zValue>
 			<zValue>Meseta de Krivosije</zValue>
-			<zValue>Meseta Loser</zValue>
+			<zValue>Meseta perdedora</zValue>
 			<zValue>Meseta de Ludogorie</zValue>
 			<zValue>Meseta Plateau</zValue>
 			<zValue>Meseta de Caestert</zValue>
 			<zValue>Rownia pod Sniezka</zValue>
 			<zValue>Cresta Wardija</zValue>
-			<zValue>**Windmill Hill Flats</zValue>
+			<zValue>Windmill Hill Flats</zValue>
 			<zValue>Meseta de Katharo</zValue>
 			<zValue>Campo Imperatore</zValue>
 			<zValue>Campo Felice</zValue>
@@ -519,7 +519,7 @@
 		<azHeathNames>
 			<zValue>Bosques de encinas</zValue>
 			<zValue>Bosques bereberes de Thuya</zValue>
-			<zValue>Pinos y enebros de Xeric</zValue>
+			<zValue>Bosque de pinos y enebros de Xeric</zValue>
 		</azHeathNames>
 		<azPlainNames>
 			<zValue>Llanura de Bagradas</zValue>

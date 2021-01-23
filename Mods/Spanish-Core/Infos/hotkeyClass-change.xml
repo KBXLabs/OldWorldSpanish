@@ -3,55 +3,53 @@
 	<Entry>
 		<zType/>
 		<zName/>
-		<bPopupValid/>
-		<bMapEditor/>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_GAMEPLAY</zType>
-		<zName>**Gameplay</zName>
+		<zName>Juego</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_CAMERA</zType>
-		<zName>**Camera</zName>
+		<zName>Cámara</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_NAVIGATION</zType>
-		<zName>**Navigation</zName>
+		<zName>Navegación</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_OVERLAYS</zType>
-		<zName>**Overlays</zName>
+		<zName>Superposiciones</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_SCREENS</zType>
-		<zName>**Screens</zName>
+		<zName>Pantallas</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_POPUPS</zType>
-		<zName>**Popups</zName>
+		<zName>Popups</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_TOOLTIPS</zType>
-		<zName>**Tooltips</zName>
+		<zName>Ayudas</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_SAVES</zType>
-		<zName>**Saves</zName>
+		<zName>Partidas grabadas</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_COMMUNICATION</zType>
-		<zName>**Communication</zName>
+		<zName>Comunicación</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_MAP_EDITOR</zType>
-		<zName>**Map Editor</zName>
+		<zName>Editor de mapa</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_EVENT_BROWSER</zType>
-		<zName>**Event Browser</zName>
+		<zName>Editor de eventos</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_DEBUG</zType>
-		<zName>**Debug</zName>
+		<zName>Debug</zName>
 	</Entry>
 </Root>

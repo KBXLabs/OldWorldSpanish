@@ -32,8 +32,8 @@
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_LOCKED_SAVE</zType>
-		<zName>Proteger Guardado</zName>
-		<zHelp>Los archivos de guardado se protegen para eviatar la modificación con editores externos.</zHelp>
+		<zName>Proteger guardado</zName>
+		<zHelp>Los archivos de guardado se protegen con un hash para evitar la modificación con editores externos.</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_NO_UNDO</zType>
@@ -48,7 +48,7 @@
 	<Entry>
 		<zType>GAMEOPTION_RANDOMIZE_FAMILIES</zType>
 		<zName>Familias aleatorias</zName>
-		<zHelp>Asigna aleatoriamente las calses de las familias (Sabios, Artesanos, Campeones, etc.).</zHelp>
+		<zHelp>Asigna aleatoriamente las clases de las familias (Sabios, Artesanos, Campeones, etc.).</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
@@ -57,8 +57,8 @@
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_MP_JOIN_AS_ANY_PLAYER</zType>
-		<zName>**Unirse como Cualquier jugador</zName>
-		<zHelp>Permite unirse a partidas multijugador incluso si ya se ha reservado un espacio.</zHelp>
+		<zName>Unirse como jugador sustituto</zName>
+		<zHelp>Permite unirse a partidas multijugador en un espacio reservado para otro jugador.</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_ALLOW_OBSERVE</zType>

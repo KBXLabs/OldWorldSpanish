@@ -116,23 +116,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY</zType>
-		<Translation>Petición~una Petición~Peticiones</Translation>
+		<Translation>Estudio científico~un Estudio científico~Estudios científicos</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_1</zType>
-		<Translation>Petición I~una Petición I~Peticiones I</Translation>
+		<Translation>Estudio científico I~un Estudio científico I~Estudios científicos I</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_2</zType>
-		<Translation>Petición II~una Petición II~Peticiones II</Translation>
+		<Translation>Estudio científico II~un Estudio científico II~Estudios científicos II</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_3</zType>
-		<Translation>Petición III~una Petición III~Peticiones III</Translation>
+		<Translation>Estudio científico III~un Estudio científico III~Estudios científicos III</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_INQUIRY_4</zType>
-		<Translation>Petición IV~una Petición IV~Peticiones IV</Translation>
+		<Translation>Estudio científico IV~un Estudio científico IV~Estudios científicos IV</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_HUNT</zType>

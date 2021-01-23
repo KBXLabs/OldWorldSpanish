@@ -108,7 +108,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
-		<Translation>Actualizar mejora</Translation>
+		<Translation>Actualizar mejoras</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_REBEL</zType>
@@ -120,7 +120,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_ROUT</zType>
-		<Translation>Retirada</Translation>
+		<Translation>**Carga</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CONCEPT_SETTLEMENT</zType>
@@ -653,8 +653,12 @@
 		<Translation>Reparar 8 Mejoras</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
-		<Translation>Construir link(IMPROVEMENT_THEATER_3,1), link(IMPROVEMENT_MARKET_3,1), link(IMPROVEMENT_LIBRARY_3,1) y link(IMPROVEMENT_COURTHOUSE_3,1)</Translation>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_1</zType>
+		<Translation>Construir link(IMPROVEMENT_THEATER_3,1), link(IMPROVEMENT_BATHS_3,1) y link(IMPROVEMENT_MARKET_3,1)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_2</zType>
+		<Translation>Construir link(IMPROVEMENT_LIBRARY_3,1), link(IMPROVEMENT_COURTHOUSE_3,1) y link(IMPROVEMENT_GARRISON_3,1) y link(IMPROVEMENT_COURTHOUSE_3,1)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_PYRAMIDS</zType>
@@ -986,11 +990,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_FIVE_PROMOTIONS</zType>
-		<Translation>Realiza 5 **promociones</Translation>
+		<Translation>Entrena unidades 5 veces</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TEN_PROMOTIONS</zType>
-		<Translation>Realiza 10 **promociones</Translation>
+		<Translation>Entrena unidades 10 veces</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_TWO_MAX_LEVEL_UNIT</zType>
@@ -1162,7 +1166,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_INQUIRING_MINDS</zType>
-		<Translation>Complete 3 link(EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY,1)</Translation>
+		<Translation>Completar 3 link(EFFECTCITY_FAMILYCLASS_SAGES_SEAT_INQUIRY,1)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GOAL_QUEST_FOUNDING_SIGNS</zType>
@@ -1204,7 +1208,7 @@
 	<!--InfoNation-->
 	<Entry>
 		<zType>TEXT_NATION_ASSYRIA_STORY</zType>
-		<Translation>Soy Ashurbanipal, rey del universo, descendiente de grandes reyes. Yo era el cuarto en la línea de sucesión, pero mi padre, Esarhaddon, me eligió para gobernar Asiria debido a mi valentía e inteligencia mientras enviaba a un hermano mayor a gobernar un reino lejano. Sus tierras estan inquietas y necesito mostrarle cómo ser el rey más grande de todos.
+		<Translation>Soy Asurbanipal, rey del universo, descendiente de grandes reyes. Yo era el cuarto en la línea de sucesión, pero mi padre, Esarhaddon, me eligió para gobernar Asiria debido a mi valentía e inteligencia mientras enviaba a un hermano mayor a gobernar un reino lejano. Sus tierras estan inquietas y necesito mostrarle cómo ser el rey más grande de todos.
 		Cuando mi padre aun vivía, trabajé como jefe de espías y estudié etiqueta y entrenamiento militar. Construí la primera biblioteca organizada sistemáticamente del Viejo Mundo, que contiene 30.000 tablillas de arcilla. Era conocido por mi fluidez en los idiomas, especialmente el acadio y el sumerio, lo que me hizo ser querido por muchas familias antiguas.
 		Encargué relieves de mí mismo cazando leones, un evento público que estaba reservado para la realeza asiria.</Translation>
 	</Entry>
@@ -1229,7 +1233,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_NATION_GREECE_STORY</zType>
-		<Translation>Soy el rey Felipe II de Macedonia, hijo del rey Amintas III, fundador del Estado Unificado de Macedonia.
+		<Translation>Soy el rey Philippo II de Macedonia, hijo del rey Amintas III, fundador del Estado Unificado de Macedonia.
 		Recibí una educación diplomática y militar de Epaminondas y establecí una federación de estados griegos conocida como la Liga de Corinto. Reformé el antiguo ejército macedonio y establecí la falange macedonia.
 		Cuando era adolescente, pude haber tenido un amante masculino mayor, un general con el que vivía llamado Pammenes.
 		A lo largo de mi vida, me casé siete veces. Una de mis esposas, Olimpia, me dio un hijo y lo llamé Alexander. Nació el año en que mi caballo ganó los Juegos Olímpicos. Alexander tiene ahora 13 años.</Translation>
@@ -1603,7 +1607,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS</zType>
-		<Translation>**Rastrillos (Portucllis)</Translation>
+		<Translation>Rastrillos</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
@@ -1647,7 +1651,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
-		<Translation>Erudito en la corte</Translation>
+		<Translation>Académico en la corte</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_TORSION</zType>

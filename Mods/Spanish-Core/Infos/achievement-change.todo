@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_NO_UNDO</zType>
+		<zName>Won with No Undo</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES</zType>
+		<zName>Won with Randomized Families</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_ROLE_PLAYING</zType>
+		<zName>Won with Role Playing Events</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE</zType>
+		<zName>Won One City Challenge</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_POINTS</zType>
+		<zName>Won Points Victory</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_DOUBLE</zType>
+		<zName>Won Double Victory</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_AMBITION</zType>
+		<zName>Won Ambition Victory</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_TIME</zType>
+		<zName>Won Time Victory</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_VICTORY_CONQUEST</zType>
+		<zName>Won Conquest Victory</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_EVENTLEVEL_HIGH</zType>
+		<zName>Won with Event Level High</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_MORTALITY_REALISTIC</zType>
+		<zName>Won with Realistic Mortality</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_ABLE</zType>
+		<zName>Won on Able Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_JUST</zType>
+		<zName>Won on Just Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GOOD</zType>
+		<zName>Won on Good Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_STRONG</zType>
+		<zName>Won on Strong Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_NOBLE</zType>
+		<zName>Won on Noble Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GLORIOUS</zType>
+		<zName>Won on Glorious Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_MAGNIFICENT</zType>
+		<zName>Won on Magnificent Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_DIFFICULTY_GREAT</zType>
+		<zName>Won on Great Difficulty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_ASSYRIA</zType>
+		<zName>Won as Assyria</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_BABYLONIA</zType>
+		<zName>Won as Babylonia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_CARTHAGE</zType>
+		<zName>Won as Carthage</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_EGYPT</zType>
+		<zName>Won as Egypt</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_GREECE</zType>
+		<zName>Won as Greece</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_PERSIA</zType>
+		<zName>Won as Persia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_NATION_ROME</zType>
+		<zName>Won as Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WARRIOR</zType>
+		<zName>Became the Warrior</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BRAVE</zType>
+		<zName>Became the Drillmaster</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_VALIANT</zType>
+		<zName>Became the Valiant</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MIGHTY</zType>
+		<zName>Became the Mighty</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_VICTORIOUS</zType>
+		<zName>Became the Victorious</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LION</zType>
+		<zName>Became the Lion</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INVINCIBLE</zType>
+		<zName>Became the Invincible</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_CAPABLE</zType>
+		<zName>Became the Capable</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_READY</zType>
+		<zName>Became the Ready</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_DESTROYER</zType>
+		<zName>Became the Destroyer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_AVENGER</zType>
+		<zName>Became the Avenger</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WHITE_DEATH</zType>
+		<zName>Became the White Death</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INTERCESSOR</zType>
+		<zName>Became the Intercessor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_PEACEMAKER</zType>
+		<zName>Became the Peacemaker</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_CONQUEROR</zType>
+		<zName>Became the Conqueror</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SUBJUGATOR</zType>
+		<zName>Became the Subjugator</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_RESTORER</zType>
+		<zName>Became the Restorer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LIBERATOR</zType>
+		<zName>Became the Liberator</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SETTLER</zType>
+		<zName>Became the Settler</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_PIONEER</zType>
+		<zName>Became the Pioneer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_AMBITIOUS</zType>
+		<zName>Became the Ambitious</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BRILLIANT</zType>
+		<zName>Became the Brilliant</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_BELOVED</zType>
+		<zName>Became the Beloved</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_REBUILDER</zType>
+		<zName>Became the Rebuilder</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_SURVEYOR</zType>
+		<zName>Became the Surveyor</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MASON</zType>
+		<zName>Became the Mason</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ARCHITECT</zType>
+		<zName>Became the Architect</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_KEYSTONE</zType>
+		<zName>Became the Keystone</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_FOUNDER</zType>
+		<zName>Became the Founder</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_DEVOUT</zType>
+		<zName>Became the Devout</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_HOLY</zType>
+		<zName>Became the Holy</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_EXPLORER</zType>
+		<zName>Became the Explorer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_INTREPID</zType>
+		<zName>Became the Intrepid</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_LEARNED</zType>
+		<zName>Became the Learned</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ENLIGHTENED</zType>
+		<zName>Became the Enlightened</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_WISE</zType>
+		<zName>Became the Wise</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_OLD</zType>
+		<zName>Became the Old</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ANCIENT</zType>
+		<zName>Became the Ancient</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_ABLE</zType>
+		<zName>Became the Able</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_JUST</zType>
+		<zName>Became the Just</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GOOD</zType>
+		<zName>Became the Good</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_STRONG</zType>
+		<zName>Became the Strong</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_NOBLE</zType>
+		<zName>Became the Noble</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GLORIOUS</zType>
+		<zName>Became the Glorious</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_MAGNIFICENT</zType>
+		<zName>Became the Magnificent</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_COGNOMEN_GREAT</zType>
+		<zName>Became the Great</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_ZOROASTRIANISM</zType>
+		<zName>Founded Zoroastrianism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_JUDAISM</zType>
+		<zName>Founded Judaism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_CHRISTIANITY</zType>
+		<zName>Founded Christianity</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_MANICHAEISM</zType>
+		<zName>Founded Manichaeism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA</zType>
+		<zName>Founded Assyrian Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA</zType>
+		<zName>Founded Babylonian Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE</zType>
+		<zName>Founded Carthaginian Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_EGYPT</zType>
+		<zName>Founded Egyptian Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_GREECE</zType>
+		<zName>Founded Greek Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_ROME</zType>
+		<zName>Founded Roman Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_RELIGION_PAGAN_PERSIA</zType>
+		<zName>Founded Persian Paganism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_MYTHOLOGY</zType>
+		<zName>Establish Mythology</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_VENERATION</zType>
+		<zName>Establish Veneration</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_LEGALISM</zType>
+		<zName>Establish Legalism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_REVELATION</zType>
+		<zName>Establish Revelation</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_GNOSTICISM</zType>
+		<zName>Establish Gnosticism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_REDEMPTION</zType>
+		<zName>Establish Redemption</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_DUALISM</zType>
+		<zName>Establish Dualism</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</zType>
+		<zName>Establish Enlightenment</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<zName>Built the Adur Burzen-Mihr</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<zName>Built the Temple of Solomon</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<zName>Built the Church of Built the Holy Sepulchre</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<zName>Built the Cao'an</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_PYRAMIDS</zType>
+		<zName>Built the Pyramids</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<zName>Built the Great Ziggurat</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ORACLE</zType>
+		<zName>Built the Oracle</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<zName>Built the Hanging Gardens</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_NECROPOLIS</zType>
+		<zName>Built the Necropolis</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<zName>Built the Ishtar Gate</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<zName>Built the Lighthouse</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_APADANA</zType>
+		<zName>Built the Apadana</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM</zType>
+		<zName>Built the Mausoleum</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_ACROPOLIS</zType>
+		<zName>Built the Acropolis</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_COLOSSUS</zType>
+		<zName>Built the Colossus</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_MUSAEUM</zType>
+		<zName>Built the Musaeum</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<zName>Built the Circus Maximus</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_PANTHEON</zType>
+		<zName>Built the PanBuilt theon</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<zName>Built the Hagia Sophia</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+		<zName>Built the Via Recta Souk</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_POLITICAL_REFORM</zType>
+		<zName>Researched Political Reform</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_MILITARY_REFORM</zType>
+		<zName>Researched Military Reform</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_TECH_ECONOMIC_REFORM</zType>
+		<zName>Researched Economic Reform</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_SIEGE_TOWER</zType>
+		<zName>Trained Siege Tower</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER</zType>
+		<zName>Trained Cimmerian Archer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_TURRETED_ELEPHANT</zType>
+		<zName>Trained Turreted Elephant</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_KUSHITE_CAVALRY</zType>
+		<zName>Trained Kushite Cavalry</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_PHALANGITE</zType>
+		<zName>Trained Phalangite</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER</zType>
+		<zName>Trained Cataphract Archer</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_UNIT_LEGIONARY</zType>
+		<zName>Trained Legionary</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_DEVELOPING</zType>
+		<zName>Three Developing Cities</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_STRONG</zType>
+		<zName>Three Strong Cities</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_CULTURE_LEGENDARY</zType>
+		<zName>Three Legendary Cities</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED</zType>
+		<zName>Captured Ten Cities (One Game)</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME</zType>
+		<zName>Named Ten Landmarks (One Game)</zName>
+	</Entry>
+	<Entry>
+		<zType>ACHIEVEMENT_STAT_SEVEN_WONDERS</zType>
+		<zName>Built Seven Wonders (One Game)</zName>
+	</Entry>
+</Root>

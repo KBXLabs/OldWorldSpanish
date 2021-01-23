@@ -74,7 +74,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_ROAD_TO</zType>
-		<zName>Alternar Modo de Ciudades conectadas</zName>
+		<zName>Alternar visión de ciudades conectadas</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_SPEND_TRAINING_FOR_ORDERS</zType>
@@ -110,43 +110,43 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_IDLE_1</zType>
-		<zName>Ciclo en espera 1</zName>
+		<zName>Siguiente unidad en espera 1</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PASS_IDLE_1</zType>
-		<zName>Ciclo/Pasar en espera 1</zName>
+		<zName>Siguiente/Pasar unidad en espera 1</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_IDLE_2</zType>
-		<zName>Ciclo en espera 2</zName>
+		<zName>Siguiente en espera 2</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PASS_IDLE_2</zType>
-		<zName>Ciclo/Pasar en espera 2</zName>
+		<zName>Siguiente/Pasar unidad en espera 2</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_IDLE_3</zType>
-		<zName>Ciclo en espera 3</zName>
+		<zName>Siguiente unidad en espera 3</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PASS_IDLE_3</zType>
-		<zName>Ciclo/Pasar en espera 3</zName>
+		<zName>Siguiente/Pasar unidad en espera 3</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_IDLE_4</zType>
-		<zName>Ciclo en espera 4</zName>
+		<zName>Siguiente unidad en espera 4</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PASS_IDLE_4</zType>
-		<zName>Ciclo/Pasar en espera 4</zName>
+		<zName>Siguiente/Pasar unidad en espera 4</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_IDLE_5</zType>
-		<zName>Ciclo en espera 5</zName>
+		<zName>Siguiente unidad en espera 5</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PASS_IDLE_5</zType>
-		<zName>Ciclo/Pasar en espera 5</zName>
+		<zName>Siguiente/Pasar unidad en espera 5</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_END_TURN</zType>
@@ -166,23 +166,23 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_PASS</zType>
-		<zName>**Cycle and Pass Selected Unit</zName>
+		<zName>Pasar y siguiente unidad</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_SLEEP</zType>
-		<zName>**Cycle and Sleep Selected Unit</zName>
+		<zName>Hibernar y siguiente unidad</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_SENTRY</zType>
-		<zName>**Cycle and Sentry Selected Unit</zName>
+		<zName>Centinela y siguiente unidad</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_ALL</zType>
-		<zName>**Cycle Selection</zName>
+		<zName>Siguiente unidad</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_ALL_REVERSE</zType>
-		<zName>**Cycle Selection (Reverse)</zName>
+		<zName>Unidad anterior</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_UNDO</zType>
@@ -230,7 +230,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_MAP_SCREEN</zType>
-		<zName>Mostrar Pantalla del Mapa</zName>
+		<zName>Mostrar Mapa</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_HELP_SCREEN</zType>
@@ -238,7 +238,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_GAME_EDITOR</zType>
-		<zName>Editor de la partida</zName>
+		<zName>Editor de partida</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CONSOLE</zType>
@@ -250,7 +250,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_EXPAND_TOOLTIP</zType>
-		<zName>Expandir ayuda</zName>
+		<zName>Ampliar ayuda</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_LOCK_TOOLTIP</zType>
@@ -258,7 +258,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_FREEZE_TOOLTIP</zType>
-		<zName>Bloquear ayuda</zName>
+		<zName>Fijar ayuda</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_SAVE</zType>
@@ -278,11 +278,11 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_REVEAL_MAP</zType>
-		<zName>Revealar el Mapa</zName>
+		<zName>Revelar el Mapa</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_FULLY_REVEAL_MAP</zType>
-		<zName>Reveal el Map completamente</zName>
+		<zName>Revelar el Mapa completamente</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_UNLOCK_NEXT_TECH</zType>
@@ -294,7 +294,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_RELOAD_INFOS</zType>
-		<zName>Recarga la información</zName>
+		<zName>Recargar la información</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_GRANT_RESOURCES</zType>
@@ -306,7 +306,7 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_TOGGLE_TOP_DOWN_CAMERA</zType>
-		<zName>Alternar Cámara de arriba a abajo</zName>
+		<zName>Alternar Cámara cenital</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_TEST_LOAD_SAVE_CONSISTENCY</zType>

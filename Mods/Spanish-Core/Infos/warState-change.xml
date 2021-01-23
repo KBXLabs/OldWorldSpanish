@@ -6,7 +6,7 @@
 	</Entry>
 	<Entry>
 		<zType>WARSTATE_ROUTED</zType>
-		<zName>en Retirada</zName>
+		<zName>**en Retirada</zName>
 	</Entry>
 	<Entry>
 		<zType>WARSTATE_LOSING</zType>

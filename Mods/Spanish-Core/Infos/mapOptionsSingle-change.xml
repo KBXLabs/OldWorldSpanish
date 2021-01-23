@@ -14,11 +14,11 @@
 	<Entry>
 		<zType>MAP_OPTIONS_SINGLE_SEASIDE_CENTER_BIAS</zType>
 		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
-		<zDescription>El jugador comienza cerca del centro del mapa, sólo en modo un jugador</zDescription>
+		<zDescription>El jugador comienza cerca del centro del mapa, sólo en modo un jugador.</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTIONS_SINGLE_CENTER_BIAS</zType>
 		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
-		<zDescription>Evite comenzar cerca de los bordes del mapa oeste o este, sólo en modo un jugador</zDescription>
+		<zDescription>Evita comenzar cerca de los bordes del mapa oeste o este, sólo en modo un jugador.</zDescription>
 	</Entry>
 </Root>

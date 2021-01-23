@@ -101,7 +101,7 @@
 		<zName>Ruinas exploradas</zName>
 	</Entry>
 	<Entry>
-		<zType>STAT_SPECIALIST_TRAINED</zType>
+		<zType>STAT_SPECIALIST_PRODUCED</zType>
 		<zName>Especialistas instruidos</zName>
 	</Entry>
 	<Entry>

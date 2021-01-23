@@ -6,15 +6,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_TEAM_ALLIANCE_HUMAN_DESCRIPTION</zType>
-		<Translation>Has mandado a un enviado a una propuesta de un link(CONCEPT_ALLIANCE_PLAYER).</Translation>
+		<Translation>Has mandado a un emisario a una propuesta de un link(CONCEPT_ALLIANCE_PLAYER).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_HUMAN_DESCRIPTION</zType>
-		<Translation>Has mandado a un enviado a una propuesta de link(DIPLOMACY_PEACE).</Translation>
+		<Translation>Has mandado a un emisario a una propuesta de link(DIPLOMACY_PEACE).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_HUMAN_DESCRIPTION</zType>
-		<Translation>Has mandado a un enviado a una propuesta de link(DIPLOMACY_TRUCE).</Translation>
+		<Translation>Has mandado a un emisario a una propuesta de link(DIPLOMACY_TRUCE).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MISSIONRESULT_RALLY_TROOPS_DESCRIPTION</zType>
@@ -157,7 +157,7 @@
 		<Translation>{CHARACTER-SUBJECT} ha instruido a {CHARACTER-TARGET}, mejorando su link(RATING_DISCIPLINE).</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_MISSIONRESULT_EVENT_DESCRIPTION</zType>
+		<zType>TEXT_MISSIONRESULT_TUTOR_EVENT_DESCRIPTION</zType>
 		<Translation>La misión de {CHARACTER-SUBJECT} ha conducido a un nuevo evento...</Translation>
 	</Entry>
 	<!--Result Name-->

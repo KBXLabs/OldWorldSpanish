@@ -602,7 +602,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_DELIGHTED_EMISSARY_TITLE</zType>
-		<Translation>El enviado encantado</Translation>
+		<Translation>El emisario encantado</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_FUMING_MESSENGER_TITLE</zType>
@@ -842,7 +842,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBAL_ENVOY_TITLE</zType>
-		<Translation>Enviado tribal</Translation>
+		<Translation>Emisario tribal</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FLORID_DIPLOMAT_TITLE</zType>
@@ -2142,7 +2142,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FOREIGN_SCHOLAR_TITLE</zType>
-		<Translation>Erudito extranjero</Translation>
+		<Translation>Académico extranjero</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_FAMILY_WARNING_TITLE</zType>
@@ -2497,7 +2497,11 @@
 		<Translation>Juegos familiares</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_START_LAW_TITLE</zType>
+		<zType>TEXT_EVENTSTORY_FAMILY_LAW_TITLE</zType>
+		<Translation>Cambio de leyes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THEOLOGY_LAW_TITLE</zType>
 		<Translation>Cambio de leyes</Translation>
 	</Entry>
 	<Entry>

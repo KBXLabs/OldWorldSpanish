@@ -42,7 +42,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST</zType>
-		<Translation>{CITY} ahora tiene un erudito en la corte</Translation>
+		<Translation>{CITY} ahora tiene un académico en la corte</Translation>
 	</Entry>
 	<!--Name-->
 	<Entry>
@@ -83,6 +83,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTCITY_GREAT_SCIENTIST_NAME</zType>
-		<Translation>Erudito de la corte</Translation>
+		<Translation>Académico de la corte</Translation>
 	</Entry>
 </Root>

@@ -182,7 +182,7 @@
     <Translation>Golpe mortal</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY_ENEMY</zType>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY</zType>
     <Translation>Fortificar</Translation>
   </Entry>
   <Entry>
@@ -255,11 +255,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_CHARACTER_SELECTION_RATINGS_TITLE</zType>
-    <Translation>**Ratings</Translation>
+    <Translation>Atributos</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ACTIONS_WAKE</zType>
-    <Translation>**Activar</Translation>
+    <Translation>Activar</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ACTIONS_PASS</zType>
@@ -267,7 +267,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ACTIONS_SLEEP</zType>
-    <Translation>Descansar</Translation>
+    <Translation>Hibernar</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ACTIONS_SENTRY</zType>
@@ -319,7 +319,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_CHARACTER_ACTIONS_STOP_SENDING_RESOURCE</zType>
-    <Translation>Dejar de enviar {0}</Translation>
+    <Translation>No enviar más {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_CHARACTER_ACTIONS_ACTIVE_MISSION</zType>
@@ -731,7 +731,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MANAGE_LUXURIES_DESC</zType>
-    <Translation>Enviar/Dejar de enviar link(CONCEPT_LUXURY,1)</Translation>
+    <Translation>Enviar o No enviar más link(CONCEPT_LUXURY,1)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SEND_ITEM</zType>
@@ -739,7 +739,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_STOP_SENDING_LUXURY</zType>
-    <Translation>Dejar de enviar {0}</Translation>
+    <Translation>No enviar más {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GIFT_YIELD</zType>
@@ -1251,11 +1251,11 @@
   <!--tabs-->
   <Entry>
     <zType>TEXT_SP_SETUP_TABS_BIO</zType>
-    <Translation>Bio</Translation>
+    <Translation>Biografía</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SP_SETUP_TABS_STATS</zType>
-    <Translation>**Estadísticas</Translation>
+    <Translation>Características</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SP_SETUP_TABS_SETUP_SIMPLE</zType>

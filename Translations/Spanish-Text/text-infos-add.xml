@@ -38,32 +38,4 @@
 		<zType>TEXT_CONCEPT_DISCIPLE</zType>
 		<Translation>Discípulo~Discípulos</Translation>
 	</Entry>
-
-<!--
-    <Entry>
-		<zType>TEXT_COUNCIL_SPYMASTER</zType>
-		<Translation>Jefe de espías~Especialistas~un Especialista</Translation>
-	</Entry>
-    <Entry>
-		<zType>TEXT_COUNCIL_COUNCILOR</zType>
-		<Translation>Concejal~Concejales~un Concejal</Translation>
-	</Entry>
-    <Entry>
-		<zType>TEXT_COUNCIL_AMBASSADOR</zType>
-		<Translation>Embajador~Embajadores~un Embajador</Translation>
-	</Entry>
-
-	<Entry>
-		<zType>TEXT_DIPLOMACY_WAR</zType>
-		<Translation>Guerra</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_DIPLOMACY_PEACE</zType>
-		<Translation>Paz</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_DIPLOMACY_TRUCE</zType>
-		<Translation>Tregua</Translation>
-	</Entry>
-	-->
 </Root>

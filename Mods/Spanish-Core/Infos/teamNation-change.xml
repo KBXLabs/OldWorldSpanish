@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>TEAMNATION_ALLOW_DUPLICATES</zType>
+		<zName>Permitir duplicados</zName>
+		<zHelp>Más de un jugador puede seleccionar la misma nación.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TEAMNATION_GAME_UNIQUE</zType>
+		<zName>Naciones únicas</zName>
+		<zHelp>No se permiten naciones duplicadas entre jugadores.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>TEAMNATION_TEAM_UNIQUE</zType>
+		<zName>Naciones únicas en cada equipo</zName>
+		<zHelp>No se permiten naciones duplicadas dentro del mismo equipo.</zHelp>
+	</Entry>
+</Root>

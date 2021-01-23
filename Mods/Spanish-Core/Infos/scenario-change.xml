@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_BARBARIAN</zType>
+		<zName>Invasión bárbara</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_1</zType>
+		<zName>Campaña de Cartago - Juego uno - Piel de buey</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_2</zType>
+		<zName>Campaña de Cartago - Juego dos - El ascenso de Cartago</zName>
+	</Entry>
+	<!-- Hiding these scenarios until they're ready
+    <Entry>
+		<zType>SCENARIO_CARTHAGE_3</zType>
+		<zName>Carthage Campaign - Game Three - The Rise of Rome</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_CARTHAGE_4</zType>
+		<zName>Carthage Campaign - Game Four - Thunderbolt</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_1</zType>
+		<zName>Rome Campaign - Game One - Republic</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_2</zType>
+		<zName>Rome Campaign 2 - The Punic War</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_3</zType>
+		<zName>Rome Campaign 3 - War on Two Fronts</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_4</zType>
+		<zName>Rome Campaign 4 - The Gauls</zName>
+	</Entry>
+	<Entry>
+		<zType>SCENARIO_ROME_5</zType>
+		<zName>Rome Campaign 5 - Empire</zName>
+	</Entry>
+    -->
+</Root>

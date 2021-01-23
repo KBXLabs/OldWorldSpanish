@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_LEVY</zType>
+		<zName>Levy</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_HEAVY_INFANTRY</zType>
+		<zName>Heavy Infantry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_POLEARM_INFANTRY</zType>
+		<zName>Polearm Infantry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_RANGED_INFANTRY</zType>
+		<zName>Ranged Infantry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_MELEE_CAVALRY</zType>
+		<zName>Melee Cavalry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_RANGED_CAVALRY</zType>
+		<zName>Ranged Cavalry</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_SIEGE</zType>
+		<zName>Siege</zName>
+	</Entry>
+	<Entry>
+		<zType>BONUSUNITCLASS_SHIP</zType>
+		<zName>Ship</zName>
+	</Entry>
+</Root>

@@ -15,11 +15,11 @@
 		<zName>Deshabilitar las repeticiones</zName>
 		<zDesc>Las repeticiones requieren una cantidad elevada de memória disponible del sistema.</zDesc>
 	</Entry>
-	<Entry>
+	<!--<Entry>
 		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
 		<zName>Juego narrativo</zName>
 		<zDesc>Sin ayudas emergentes en la elecciones de los eventos.</zDesc>
-	</Entry>
+	</Entry>-->
 	<Entry>
 		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
 		<zName>Todos los candidatos</zName>

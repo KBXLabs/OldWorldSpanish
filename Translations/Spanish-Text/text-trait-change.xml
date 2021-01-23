@@ -39,7 +39,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Erudito</Translation>
+		<Translation>Académico</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -155,7 +155,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMELTER</zType>
-		<Translation>**Fundidor</Translation>
+		<Translation>Fundidor</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERDER</zType>
@@ -175,7 +175,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MARKSMAN</zType>
-		<Translation>**Marksman</Translation>
+		<Translation>Tirador</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BESIEGER</zType>

@@ -29,7 +29,7 @@
 		<Translation>Milicia~una Milicia~Milicias</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_UNIT_LEVY</zType>
+		<zType>TEXT_UNIT_CONSCRIPT</zType>
 		<Translation>Recluta~un Recluta~Reclutas</Translation>
 	</Entry>
 	<Entry>
@@ -186,7 +186,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_1</zType>
-		<Translation>**Skirmisher~**un Skirmisher~**Skirmishers</Translation>
+		<Translation>Combatiente~un Combatiente~Combatientes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_1</zType>
@@ -194,7 +194,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
-		<Translation>**Skirmisher errante~un **Skirmisher errante~**Skirmishers errantes</Translation>
+		<Translation>Combatiente errante~un Combatiente errante~Combatientes errantes</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_MARAUDER_2</zType>
@@ -202,7 +202,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_SKIRMISHER_2</zType>
-		<Translation>**Skirmisher de elite~un **Skirmisher de elite~**Skirmishers de elite</Translation>
+		<Translation>Combatiente de elite~un Combatiente de elite~Combatientes de elite</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_MARAUDER_2</zType>
@@ -210,7 +210,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
-		<Translation>**Skirmisher errante de elite~un **Skirmisher errante de elite~**Skirmisher errante de elite</Translation>
+		<Translation>Combatiente errante de elite~un Combatiente errante de elite~Combatientes errantes de elite</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNIT_WARLORD_1</zType>

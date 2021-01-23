@@ -212,11 +212,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
-		<Translation>Líder Erudito</Translation>
+		<Translation>Líder Académico</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
-		<Translation>Petición en la capital</Translation>
+		<Translation>Ensayos científicos en la capital</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
